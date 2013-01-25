@@ -1,0 +1,58 @@
+---
+layout: post
+title: Pending
+anchor: games_pending
+categories: [steamlist]
+---
+
+This is the list of games that are marked as downloadable for GNU/Linux, but are not working or configured properly.
+
+Entries with Missing Executable
+-------------------------------
+
+- [Braid](http://store.steampowered.com/app/26800/)
+- [Cave Story+](http://store.steampowered.com/app/200900/)
+- [Closure](http://store.steampowered.com/app/72000/)
+- [Conquest of Elysium 3](http://store.steampowered.com/app/211900/)
+- [DEFCON](http://store.steampowered.com/app/1520/)
+- [Dustforce](http://store.steampowered.com/app/65300/)
+- [Dwarfs!?](http://store.steampowered.com/app/35480/)
+- [Hacker Evolution Duality](http://store.steampowered.com/app/70120/)
+- [Multiwinia](http://store.steampowered.com/app/1530/)
+- [Oil Rush](http://store.steampowered.com/app/200390/)
+- [Rochard](http://store.steampowered.com/app/107800/)
+- [Spectraball](http://store.steampowered.com/app/18300/)
+- [VVVVVV](http://store.steampowered.com/app/70300/)
+- [Waking Mars](http://store.steampowered.com/app/227200/)
+
+Entries with Invalid App Config
+-------------------------------
+
+- [BIT.TRIP RUNNER](http://store.steampowered.com/app/63710/)
+- [BIT.TRIP VOID](http://store.steampowered.com/app/205070/)
+- [Crayon Physics Deluxe](http://store.steampowered.com/app/26900/)
+- [Defender's Quest: Valley of the Forgotten](http://store.steampowered.com/app/218410/)
+- [LIMBO](http://store.steampowered.com/app/48000/)
+> Actually just a CrossOver package.
+- [Scoregasm](http://store.steampowered.com/app/202410/)
+- [Snapshot](http://store.steampowered.com/app/204220/)
+- [Spiral Knights](http://store.steampowered.com/app/99900/)
+- [TRAUMA](http://store.steampowered.com/app/98100/)
+
+CDR Entries with Linux Listed
+------------------------------
+
+These show up in the CDR, but do **NOT** appear in your Steam library.
+
+- [10000000](http://store.steampowered.com/app/227580/)
+- [Analogue: A Hate Story](http://store.steampowered.com/app/209370/)
+- [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
+- [BIT.TRIP BEAT](http://store.steampowered.com/app/63700/)
+- [BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien](http://store.steampowered.com/app/218060/)
+- [Botanicula](http://store.steampowered.com/app/207690/)
+- [Gish](http://store.steampowered.com/app/9500/)
+- [Lugaru HD](http://store.steampowered.com/app/25010/)
+- [Psychonauts](http://store.steampowered.com/app/3830/)
+- [Shank 2](http://store.steampowered.com/app/102840/)
+- [Wargame: European Escalation](http://store.steampowered.com/app/58610/)
+- [X3: Reunion](http://store.steampowered.com/app/2810/)

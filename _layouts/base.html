@@ -1,0 +1,48 @@
+---
+---
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" href="/css/style.css">
+		<link rel="shortcut icon" href="/favicon.ico">
+	</head>
+	<body>
+		<header>
+			<hgroup>
+				<h1>Games, on Linux</h1>
+			</hgroup>
+		</header>
+		<nav>
+			<ul>
+				<li><a href="/">Home</a>
+					<ul>
+					{% for post in site.categories.steamlist %}
+					<li><a href="/#{{ post.anchor }}">{{ post.title }}</a></li>
+					{% endfor %}
+					</ul>
+				</li>
+				<li><a href="#">Other Lists</a>
+					<ul>
+					{% for post in site.categories.other %}
+					<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+					{% endfor %}
+					</ul>
+				</li>
+				<li class="hide"><a href="https://github.com/SteamList/SteamLinux">Source/Contribute</a></li>
+				<li class="hide"><a href="http://steamcommunity.com/groups/steam-linux">Steam Group</a></li>
+				<li><a href="http://steamdrm.flibitijibibo.com/">Need DRM Info?</a></li>
+			</ul>
+		</nav>
+		<section>
+			{{ content}}
+		</section>
+		<footer>
+			&copy; <a href="https://github.com/SteamList/SteamLinux/graphs/contributors">SteamList contributors</a>.
+			Sources used: <a href="https://support.steampowered.com/kb_article.php?ref=8495-OKZC-0159">Official Steam List</a> and <a href="http://cdr.xpaw.ru/linux/">Steam Apps Database</a>
+		</footer>
+	</body>
+</html>

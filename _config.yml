@@ -1,0 +1,3 @@
+server: false
+baseurl: http://steamlinux.xpaw.ru
+permalink: /:title/
