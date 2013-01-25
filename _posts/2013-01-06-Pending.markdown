@@ -55,4 +55,3 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [Psychonauts](http://store.steampowered.com/app/3830/)
 - [Shank 2](http://store.steampowered.com/app/102840/)
 - [Wargame: European Escalation](http://store.steampowered.com/app/58610/)
-- [X3: Reunion](http://store.steampowered.com/app/2810/)
