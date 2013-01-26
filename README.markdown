@@ -1,6 +1,6 @@
 README
 ======
-This is the source code for The Big List of Steam Games on GNU/Linux.
+This is the source code for *Games, on Steam for Linux*
 
 License
 -------
