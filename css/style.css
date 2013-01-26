@@ -72,7 +72,8 @@ article h1 a {
 	color: #EEE;
 }
 
-article h1, nav {
+article h1,
+nav {
 	display: block;
 	height: 40px;
 	line-height: 40px;
