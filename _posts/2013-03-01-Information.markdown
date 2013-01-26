@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: info
 title: Information
 anchor: info
 categories: [information]
