@@ -119,18 +119,22 @@ body > footer {
 section ul li:nth-child(odd) {
 	background: #1F2022;
 }
-section article#info section {
+
+#info section {
 	padding: 10px;
 }
+
 blockquote {
 	margin: 2px 0 7px 10px;
 }
 
-blockquote a {
+blockquote a,
+#info a {
 	color: #529CDE;
 }
 
 blockquote + p a {
+	color: #529CDE;
 	float: right;
 	margin-top: -15px;
 	font-size: 0.7em;
@@ -201,7 +205,8 @@ nav li li {
 }
 
 @media (max-width: 480px) {
-	.hide {
+	.hide,
+	#info {
 		display: none;
 	}
 }
