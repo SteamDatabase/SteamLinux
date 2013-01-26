@@ -128,12 +128,15 @@ blockquote {
 	margin: 2px 0 7px 10px;
 }
 
+blockquote a {
+	color: #529CDE;
+}
+
 blockquote + p a {
 	float: right;
 	margin-top: -15px;
 	font-size: 0.7em;
 	border-bottom: 1px dashed #777;
-	color: #529CDE;
 }
 
 blockquote + p a:hover {
