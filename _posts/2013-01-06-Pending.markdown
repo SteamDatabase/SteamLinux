@@ -21,6 +21,7 @@ Entries with Missing Executable
 - [Multiwinia](http://store.steampowered.com/app/1530/)
 - [Oil Rush](http://store.steampowered.com/app/200390/)
 - [Rochard](http://store.steampowered.com/app/107800/)
+- [Shank 2](http://store.steampowered.com/app/102840/)
 - [Spectraball](http://store.steampowered.com/app/18300/)
 - [VVVVVV](http://store.steampowered.com/app/70300/)
 - [Waking Mars](http://store.steampowered.com/app/227200/)
@@ -53,5 +54,4 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [Gish](http://store.steampowered.com/app/9500/)
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
 - [Psychonauts](http://store.steampowered.com/app/3830/)
-- [Shank 2](http://store.steampowered.com/app/102840/)
 - [Wargame: European Escalation](http://store.steampowered.com/app/58610/)
