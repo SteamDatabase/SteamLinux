@@ -4,8 +4,8 @@ title: Not on Steam
 categories: [other]
 ---
 
-Games with a GNU/Linux version available, but not on Steam.
------------------------------
+Games with a GNU/Linux version available, but not on Steam
+----------------------------------------------------------
 
 - [Air Forte](http://store.steampowered.com/app/55020/)
 - [Altitude](http://store.steampowered.com/app/41300/)
