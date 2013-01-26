@@ -58,8 +58,8 @@ article h1 a {
 	color: #EEE;
 }
 
-article header,
-nav ul {
+article > header,
+nav > ul {
 	display: block;
 	height: 40px;
 	line-height: 40px;
