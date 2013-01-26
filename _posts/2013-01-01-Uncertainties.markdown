@@ -31,6 +31,7 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Droid Assault](http://store.steampowered.com/app/219200/)
 > See Revenge of the Titans.
 - [Euro Truck Simulator 2](http://store.steampowered.com/app/227300/)
+> Finally today we see the light at the end of the tunnel - Euro Truck Simulator 2 Linux port is almost finished. Very soon we should be able to start beta testing it. (January 11, 2013)
 [source](http://blog.scssoft.com/2013/01/linux-is-close.html)
 - [Hacker Evolution: Untold](http://store.steampowered.com/app/70110/)
 > We are working on it right now. It will be out as soon as possible and not later than the end of this month.
