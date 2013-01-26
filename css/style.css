@@ -119,7 +119,9 @@ body > footer {
 section ul li:nth-child(odd) {
 	background: #1F2022;
 }
-
+section article#info section {
+	padding: 10px;
+}
 blockquote {
 	margin: 2px 0 7px 10px;
 }

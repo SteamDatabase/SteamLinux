@@ -2,6 +2,10 @@
 layout: base
 title: The Big List of Steam Games on GNU/Linux
 ---
+{% for post in site.categories.information %}
+{% include post.html %}
+{% endfor %}
+
 {% for post in site.categories.steamlist %}
 {% include post.html %}
 {% endfor %}
