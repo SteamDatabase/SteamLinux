@@ -27,7 +27,8 @@ categories: [other]
 > Q1/Q2 2013
 - [Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded](http://steamcommunity.com/sharedfiles/filedetails/?id=111450196)
 > Q1 2013
-- [No Time To Explain](http://steamcommunity.com/sharedfiles/filedetails/?id=92922559)
+- [No Time To Explain](http://store.steampowered.com/app/227280/)
+> Already on Steam, GNU/Linux version soon
 - [Octodad: Dadliest Catch](http://steamcommunity.com/sharedfiles/filedetails/?id=92915329)
 - [Project Zomboid](http://steamcommunity.com/sharedfiles/filedetails/?id=92916900)
 - [The Stanley Parable](http://steamcommunity.com/sharedfiles/filedetails/?id=95511356)
