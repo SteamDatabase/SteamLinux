@@ -79,6 +79,10 @@ article h2 {
 	line-height: 1.2em;
 }
 
+article p {
+	padding: 0 10px;
+}
+
 article ul {
 	list-style-type: none;
 	font-size: 1.1em;
