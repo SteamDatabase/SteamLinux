@@ -24,6 +24,7 @@ Games confirmed to be working
 - [Frozen Synapse](http://store.steampowered.com/app/98200/)
 - [FTL: Faster Than Light](http://store.steampowered.com/app/212680/)
 - [Galcon Fusion](http://store.steampowered.com/app/44200/)
+- [Hacker Evolution Duality](http://store.steampowered.com/app/70120/)
 - [Half-Life](http://store.steampowered.com/app/70/)
 - [Harvest: Massive Encounter](http://store.steampowered.com/app/15400/)
 > Might require a workaround to launch without getting stuck in a loop
