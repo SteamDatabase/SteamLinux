@@ -26,6 +26,8 @@ Games confirmed to be working
 - [Galcon Fusion](http://store.steampowered.com/app/44200/)
 - [Half-Life](http://store.steampowered.com/app/70/)
 - [Harvest: Massive Encounter](http://store.steampowered.com/app/15400/)
+> Might require a workaround to launch without getting stuck in a loop
+[source](https://wiki.archlinux.org/index.php/Steam#Harvest:_Massive_Encounter)
 - [iBomber Attack](http://store.steampowered.com/app/218660/)
 - [iBomber Defense Pacific](http://store.steampowered.com/app/206690/)
 - [Killing Floor](http://store.steampowered.com/app/1250/)
