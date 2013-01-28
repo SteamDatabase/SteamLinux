@@ -23,6 +23,7 @@ Entries with Missing Executable
 - [Spectraball](http://store.steampowered.com/app/18300/)
 - [VVVVVV](http://store.steampowered.com/app/70300/)
 - [Waking Mars](http://store.steampowered.com/app/227200/)
+- [Wargame: European Escalation](http://store.steampowered.com/app/58610/)
 
 Entries with Invalid App Config
 -------------------------------
@@ -52,4 +53,3 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [Gish](http://store.steampowered.com/app/9500/)
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
 - [Psychonauts](http://store.steampowered.com/app/3830/)
-- [Wargame: European Escalation](http://store.steampowered.com/app/58610/)
