@@ -206,8 +206,11 @@ nav li li {
 }
 
 @media (max-width: 480px) {
-	.hide,
-	#info {
+	.mobile-hide {
 		display: none;
+	}
+	
+	footer > span {
+		display: block;
 	}
 }
