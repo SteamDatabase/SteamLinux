@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Demos, on Steam for Linux
+title: Steam Demos
 categories: [other]
 ---
 
