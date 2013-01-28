@@ -13,7 +13,6 @@ Entries with Missing Executable
 - [Braid](http://store.steampowered.com/app/26800/)
 - [Cave Story+](http://store.steampowered.com/app/200900/)
 - [Closure](http://store.steampowered.com/app/72000/)
-- [Conquest of Elysium 3](http://store.steampowered.com/app/211900/)
 - [Dustforce](http://store.steampowered.com/app/65300/)
 - [Dwarfs!?](http://store.steampowered.com/app/35480/)
 - [Multiwinia](http://store.steampowered.com/app/1530/)

@@ -12,6 +12,8 @@ Games confirmed to be working
 - [And Yet It Moves](http://store.steampowered.com/app/18700/)
 - [Aquaria](http://store.steampowered.com/app/24420/)
 - [Cogs](http://store.steampowered.com/app/26500/)
+- [Conquest of Elysium 3](http://store.steampowered.com/app/211900/)
+> This game has issues with Steam overlay
 - [Counter-Strike](http://store.steampowered.com/app/10/)
 - [Crusader Kings II](http://store.steampowered.com/app/203770/)
 - [Cubemen](http://store.steampowered.com/app/207250/)
