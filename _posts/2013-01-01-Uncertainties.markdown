@@ -76,3 +76,7 @@ The following games are unfortunately not coming to Steam or are unlikely to com
 [source](http://steamcommunity.com/app/40800/discussions/0/864951475490355056/) 
 - [Wizorb](http://store.steampowered.com/app/207420/) 
 > We have no plan to release Wizorb on Steam.
+- [Torchlight](http://store.steampowered.com/app/41500/)
+> We have no announcements on this front today. Thanks for your question.
+[source](http://steamcommunity.com/app/41500/discussions/0/828925849183725891/#c846943514184499975) 
+
