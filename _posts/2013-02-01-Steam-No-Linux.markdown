@@ -47,7 +47,6 @@ Games with a GNU/Linux version available, but not on Steam
 - [Robin Hood: The Legend of Sherwood](http://store.steampowered.com/app/46560/)
 - [Rune Classic](http://store.steampowered.com/app/210950/)
 - [Sacred Gold](http://store.steampowered.com/app/12320/)
-- [Savage 2: A Tortured Soul](http://store.steampowered.com/app/13700/)
 - [Serious Sam 2](http://store.steampowered.com/app/204340/)
 > Check out the [tutorial](http://pcgamingwiki.com/wiki/Serious_Sam_II#Linux)
 - [Serious Sam Classic: First Encounter](http://store.steampowered.com/app/41050/)
