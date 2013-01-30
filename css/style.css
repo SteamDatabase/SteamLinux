@@ -205,6 +205,11 @@ nav li li {
 	width: 120px;
 }
 
+a[href="#right_info"] {
+	float: right;
+	color: #E60000;
+}
+
 @media (max-width: 480px) {
 	.mobile-hide {
 		display: none;

@@ -60,6 +60,6 @@ Games confirmed to be working
 - [Trine 2](http://store.steampowered.com/app/35720/)
 - [Unity of Command: Stalingrad Campaign](http://store.steampowered.com/app/218090/)
 - [Uplink](http://store.steampowered.com/app/1510/)
-- [Waveform](http://store.steampowered.com/app/204180/)
+- [Waveform](http://store.steampowered.com/app/204180/) [Broken overlay](#right_info)
 - [X3: Reunion](http://store.steampowered.com/app/2810/)
 - [World of Goo](http://store.steampowered.com/app/22000/)
