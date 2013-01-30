@@ -80,7 +80,7 @@ article h2 {
 	line-height: 1.2em;
 }
 
-article p {
+section > p {
 	padding: 0 10px;
 }
 
@@ -94,6 +94,7 @@ article ul {
 article ul li {
 	color: #B8B8B8;
 	padding: 10px;
+	padding-left: 20px;
 }
 
 hgroup {
