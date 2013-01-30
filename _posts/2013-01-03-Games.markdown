@@ -47,6 +47,7 @@ Games confirmed to be working
 - [Splice](http://store.steampowered.com/app/209790/) [Broken overlay](#right_info)
 - [Steel Storm: Burning Retribution](http://store.steampowered.com/app/96200/)
 > Overlay doesn't work with 64-bit version.
+- [Spectraball](http://store.steampowered.com/app/18300/)
 - [Superbrothers: Sword & Sworcery EP](http://store.steampowered.com/app/204060/)
 - [Team Fortress 2](http://store.steampowered.com/app/440/)
 - [The Book of Unwritten Tales: The Critter Chronicles](http://store.steampowered.com/app/221830/)
