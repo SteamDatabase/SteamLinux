@@ -57,6 +57,7 @@ Games confirmed to be working
 - [The Polynomial - Space of the music](http://store.steampowered.com/app/67000/)
 - [Tiny and Big: Grandpa's Leftovers](http://store.steampowered.com/app/205910/)
 - [Towns](http://store.steampowered.com/app/221020/)
+> Overlay doesn't work with 64-bit java.
 - [Trine 2](http://store.steampowered.com/app/35720/)
 - [Unity of Command: Stalingrad Campaign](http://store.steampowered.com/app/218090/)
 - [Uplink](http://store.steampowered.com/app/1510/)
