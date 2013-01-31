@@ -10,11 +10,8 @@ This is the list of games that are marked as downloadable for GNU/Linux, but are
 Entries with Missing Executable
 -------------------------------
 
-- [Braid](http://store.steampowered.com/app/26800/)
 - [Cave Story+](http://store.steampowered.com/app/200900/)
-- [Dustforce](http://store.steampowered.com/app/65300/)
 - [Dwarfs!?](http://store.steampowered.com/app/35480/)
-- [Oil Rush](http://store.steampowered.com/app/200390/)
 - [Shank 2](http://store.steampowered.com/app/102840/)
 - [VVVVVV](http://store.steampowered.com/app/70300/)
 - [Waking Mars](http://store.steampowered.com/app/227200/)
@@ -24,8 +21,6 @@ Entries with Invalid App Config
 
 - [BIT.TRIP VOID](http://store.steampowered.com/app/205070/)
 - [Defender's Quest: Valley of the Forgotten](http://store.steampowered.com/app/218410/)
-- [LIMBO](http://store.steampowered.com/app/48000/)
-> Actually just a CrossOver package.
 - [Savage 2: A Tortured Soul](http://store.steampowered.com/app/13700/)
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Spiral Knights](http://store.steampowered.com/app/99900/)
@@ -43,10 +38,14 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien](http://store.steampowered.com/app/218060/)
 - [BIT.TRIP RUNNER](http://store.steampowered.com/app/63710/)
 - [Botanicula](http://store.steampowered.com/app/207690/)
+- [Braid](http://store.steampowered.com/app/26800/)
 - [Closure](http://store.steampowered.com/app/72000/)
 - [Crayon Physics Deluxe](http://store.steampowered.com/app/26900/)
+- [Dustforce](http://store.steampowered.com/app/65300/)
 - [Gish](http://store.steampowered.com/app/9500/)
+- [LIMBO](http://store.steampowered.com/app/48000/)
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
+- [Oil Rush](http://store.steampowered.com/app/200390/)
 - [Multiwinia](http://store.steampowered.com/app/1530/)
 - [Psychonauts](http://store.steampowered.com/app/3830/)
 - [Rochard](http://store.steampowered.com/app/107800/)
