@@ -20,7 +20,6 @@ Games with a GNU/Linux version available, but not on Steam
 - [Enemy Territory: Quake Wars](http://store.steampowered.com/app/10000/)
 - [Eschalon: Book I](http://store.steampowered.com/app/25600/)
 - [Eschalon: Book II](http://store.steampowered.com/app/25620/)
-- [Eufloria HD](http://store.steampowered.com/app/41210/)
 - [Fieldrunners](http://store.steampowered.com/app/209690/)
 - [Gratuitous Space Battles](http://store.steampowered.com/app/41800/)
 - [Hack, Slash, Loot](http://store.steampowered.com/app/207430/)
