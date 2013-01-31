@@ -15,9 +15,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [AirBuccaneers](http://store.steampowered.com/app/223630/)
 > For Linux version there is more work that we have not done yet. 
 [source](http://steamcommunity.com/app/223630/discussions/0/846938351173220372/#c846941710571338183) 
-- [Bastion](http://store.steampowered.com/app/107100/)
-> No guarantees or estimates at this point. 
-[source](http://steamcommunity.com/app/107100/discussions/0/882964117945211188/#c846940248404366615) 
 - [Beep](http://store.steampowered.com/app/104200/)
 > Yes, I do plan to release BEEP for Steam Linux. Probably sometime in the spring though as I'm currently very busy.
 - [The Binding of Isaac](http://store.steampowered.com/app/113200/)
