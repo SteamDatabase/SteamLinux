@@ -49,6 +49,8 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Shatter](http://store.steampowered.com/app/20820/)
 > Eventually - our guys are pretty tied up just at the moment, but that's the plan. 
 [source](https://twitter.com/sidhenz/status/288123060098326528)
+- [Strike Suit Zero](http://store.steampowered.com/app/209540/)
+> [source](http://www.joystiq.com/2013/01/23/strike-suit-zero-ignores-the-countdown-out-now-for-pc/)
 - [Titan Attacks!](http://store.steampowered.com/app/203210/)
 > See Revenge of the Titans .
 - [Toki Tori](http://store.steampowered.com/app/38700/)
