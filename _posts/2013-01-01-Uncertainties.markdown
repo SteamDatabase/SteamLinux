@@ -33,6 +33,8 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Euro Truck Simulator 2](http://store.steampowered.com/app/227300/)
 > Finally today we see the light at the end of the tunnel - Euro Truck Simulator 2 Linux port is almost finished. Very soon we should be able to start beta testing it. (January 11, 2013)
 [source](http://blog.scssoft.com/2013/01/linux-is-close.html)
+- [Garry's Mod](http://store.steampowered.com/app/4000/)
+[source](http://garry.tv/post/42030021399/catch-up)
 - [Hacker Evolution: Untold](http://store.steampowered.com/app/70110/)
 > We are working on it right now. It will be out as soon as possible and not later than the end of this month.
 - [Offspring Fling!](http://store.steampowered.com/app/211360/)
