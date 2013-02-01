@@ -65,4 +65,3 @@ Games with a GNU/Linux version available, but not on Steam
 > Check out the [tutorial](http://pcgamingwiki.com/wiki/Unreal_Tournament#Linux)
 - [Windosill](http://store.steampowered.com/app/37600/)
 - [X2: The Threat](http://store.steampowered.com/app/2800/)
-- [Zen Bound 2](http://store.steampowered.com/app/61600/)
