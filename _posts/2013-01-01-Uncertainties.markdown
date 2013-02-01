@@ -34,6 +34,7 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 > Finally today we see the light at the end of the tunnel - Euro Truck Simulator 2 Linux port is almost finished. Very soon we should be able to start beta testing it. (January 11, 2013)
 [source](http://blog.scssoft.com/2013/01/linux-is-close.html)
 - [Garry's Mod](http://store.steampowered.com/app/4000/)
+>
 [source](http://garry.tv/post/42030021399/catch-up)
 - [Hacker Evolution: Untold](http://store.steampowered.com/app/70110/)
 > We are working on it right now. It will be out as soon as possible and not later than the end of this month.
@@ -50,7 +51,8 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 > Eventually - our guys are pretty tied up just at the moment, but that's the plan. 
 [source](https://twitter.com/sidhenz/status/288123060098326528)
 - [Strike Suit Zero](http://store.steampowered.com/app/209540/)
-> [source](http://www.joystiq.com/2013/01/23/strike-suit-zero-ignores-the-countdown-out-now-for-pc/)
+>
+[source](http://www.joystiq.com/2013/01/23/strike-suit-zero-ignores-the-countdown-out-now-for-pc/)
 - [Titan Attacks!](http://store.steampowered.com/app/203210/)
 > See Revenge of the Titans .
 - [Toki Tori](http://store.steampowered.com/app/38700/)
