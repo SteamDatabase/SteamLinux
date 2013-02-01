@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uncertainties
-anchor: games_uncertainties
+anchor: uncertainties
 categories: [steamlist]
 ---
 
@@ -34,7 +34,7 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 > Finally today we see the light at the end of the tunnel - Euro Truck Simulator 2 Linux port is almost finished. Very soon we should be able to start beta testing it. (January 11, 2013)
 [source](http://blog.scssoft.com/2013/01/linux-is-close.html)
 - [Garry's Mod](http://store.steampowered.com/app/4000/)
->
+> I’ve been setting up servers on and off over the last month. Mainly to build GMod (pc, linux and osx).
 [source](http://garry.tv/post/42030021399/catch-up)
 - [Hacker Evolution: Untold](http://store.steampowered.com/app/70110/)
 > We are working on it right now. It will be out as soon as possible and not later than the end of this month.
@@ -48,10 +48,10 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Shadowgrounds Survivor](http://store.steampowered.com/app/11200/)
 > See Shadowgrounds.
 - [Shatter](http://store.steampowered.com/app/20820/)
-> Eventually - our guys are pretty tied up just at the moment, but that's the plan. 
+> Eventually - our guys are pretty tied up just at the moment, but that's the plan.
 [source](https://twitter.com/sidhenz/status/288123060098326528)
 - [Strike Suit Zero](http://store.steampowered.com/app/209540/)
->
+> Developer Born Ready Games is working on Mac and Linux versions of Strike Suit Zero and it will support the Oculus Rift VR headset, all due out later this year.
 [source](http://www.joystiq.com/2013/01/23/strike-suit-zero-ignores-the-countdown-out-now-for-pc/)
 - [Titan Attacks!](http://store.steampowered.com/app/203210/)
 > See Revenge of the Titans .
@@ -82,5 +82,5 @@ The following games are unfortunately not coming to Steam or are unlikely to com
 - [Torchlight](http://store.steampowered.com/app/41500/)
 > We have no announcements on this front today. Thanks for your question.
 [source](http://steamcommunity.com/app/41500/discussions/0/828925849183725891/#c846943514184499975) 
-- [Wizorb](http://store.steampowered.com/app/207420/) 
+- [Wizorb](http://store.steampowered.com/app/207420/)
 > We have no plan to release Wizorb on Steam.

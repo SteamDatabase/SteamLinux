@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pending
-anchor: games_pending
+anchor: pending
 categories: [steamlist]
 ---
 
