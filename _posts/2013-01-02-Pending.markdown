@@ -10,8 +10,10 @@ This is the list of games that are marked as downloadable for GNU/Linux, but are
 Entries with Missing Executable
 -------------------------------
 
+- [Bastion](http://store.steampowered.com/app/107100/)
 - [Cave Story+](http://store.steampowered.com/app/200900/)
 - [Dwarfs!?](http://store.steampowered.com/app/35480/)
+- [Psychonauts](http://store.steampowered.com/app/3830/)
 - [Shank 2](http://store.steampowered.com/app/102840/)
 - [VVVVVV](http://store.steampowered.com/app/70300/)
 - [Waking Mars](http://store.steampowered.com/app/227200/)
@@ -34,7 +36,6 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [10000000](http://store.steampowered.com/app/227580/)
 - [Analogue: A Hate Story](http://store.steampowered.com/app/209370/)
 - [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
-- [Bastion](http://store.steampowered.com/app/107100/)
 - [BIT.TRIP BEAT](http://store.steampowered.com/app/63700/)
 - [BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien](http://store.steampowered.com/app/218060/)
 - [BIT.TRIP RUNNER](http://store.steampowered.com/app/63710/)
@@ -48,7 +49,6 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
 - [Multiwinia](http://store.steampowered.com/app/1530/)
 - [Oil Rush](http://store.steampowered.com/app/200390/)
-- [Psychonauts](http://store.steampowered.com/app/3830/)
 - [Rochard](http://store.steampowered.com/app/107800/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [The Cave](http://store.steampowered.com/app/221810/)
