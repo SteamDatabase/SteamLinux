@@ -25,5 +25,3 @@ Entries with Missing Executable
 Not Available on this platform
 ------------------------------
 - [Defender's Quest: Valley of the Forgotten Demo](http://store.steampowered.com/app/223090/)
-
-

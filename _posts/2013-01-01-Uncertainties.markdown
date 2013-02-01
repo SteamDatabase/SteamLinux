@@ -53,7 +53,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 > About Toki Tori 1 Linux, yes we are definitely going to bring that towards Steam Linux, but we are still not sure when.
 - [Trine](http://store.steampowered.com/app/35700/)
 > See Shadowgrounds entry & I think Trine is a given, just needs some time (i.e. spring).
-- [The Cave](http://store.steampowered.com/app/221810/)
 - [Vessel](http://store.steampowered.com/app/108500/)
 > We will! Gonna fix some multithreading issues first so its fast though.
 
