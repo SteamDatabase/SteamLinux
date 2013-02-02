@@ -45,6 +45,8 @@ Games confirmed to be working
 - [Space Pirates and Zombies](http://store.steampowered.com/app/107200/)
 - [SpaceChem](http://store.steampowered.com/app/92800/)
 - [Splice](http://store.steampowered.com/app/209790/) [Broken overlay](#right_info)
+> Achievements does not unlock.  
+[source](http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741)
 - [Steel Storm: Burning Retribution](http://store.steampowered.com/app/96200/)
 > Overlay doesn't work with 64-bit version.
 - [Spectraball](http://store.steampowered.com/app/18300/)
