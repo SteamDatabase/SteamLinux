@@ -20,6 +20,8 @@ Demos confirmed to be working
 Entries with Missing Executable
 -------------------------------
 - [iBomber Attack Demo](http://store.steampowered.com/app/224800/)
+- [Solar 2 Demo](http://store.steampowered.com/app/97010/)
+> Launching the game redirects you to its store page
 - [The Polynomial - Demo](http://store.steampowered.com/app/67010/)
 
 Not Available on this platform
