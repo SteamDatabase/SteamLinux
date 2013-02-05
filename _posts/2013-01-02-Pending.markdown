@@ -13,6 +13,7 @@ Entries with Missing Executable
 - [Bastion](http://store.steampowered.com/app/107100/)
 - [Cave Story+](http://store.steampowered.com/app/200900/)
 - [Dwarfs!?](http://store.steampowered.com/app/35480/)
+- [Faerie Solitaire](http://store.steampowered.com/app/38600/)
 - [Psychonauts](http://store.steampowered.com/app/3830/)
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Shank 2](http://store.steampowered.com/app/102840/)

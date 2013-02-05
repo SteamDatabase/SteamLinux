@@ -15,6 +15,7 @@ Games confirmed to be working
 - [Cogs](http://store.steampowered.com/app/26500/)
 - [Conquest of Elysium 3](http://store.steampowered.com/app/211900/) [Broken overlay](#right_info)
 - [Counter-Strike](http://store.steampowered.com/app/10/)
+- [Counter-Strike: Source](http://store.steampowered.com/app/240/)
 - [Crusader Kings II](http://store.steampowered.com/app/203770/)
 - [Cubemen](http://store.steampowered.com/app/207250/)
 - [Darwinia](http://store.steampowered.com/app/1500/)
