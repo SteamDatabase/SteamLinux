@@ -44,7 +44,6 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [BIT.TRIP RUNNER](http://store.steampowered.com/app/63710/)
 - [Botanicula](http://store.steampowered.com/app/207690/)
 - [Braid](http://store.steampowered.com/app/26800/)
-- [Closure](http://store.steampowered.com/app/72000/)
 - [Crayon Physics Deluxe](http://store.steampowered.com/app/26900/)
 - [Dustforce](http://store.steampowered.com/app/65300/)
 - [Gish](http://store.steampowered.com/app/9500/)
