@@ -10,6 +10,7 @@ This is the list of games that are marked as downloadable for GNU/Linux, but are
 Entries with Missing Executable
 -------------------------------
 
+- [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
 - [Bastion](http://store.steampowered.com/app/107100/)
 - [Cave Story+](http://store.steampowered.com/app/200900/)
 - [Dwarfs!?](http://store.steampowered.com/app/35480/)
@@ -37,7 +38,6 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 
 - [10000000](http://store.steampowered.com/app/227580/)
 - [Analogue: A Hate Story](http://store.steampowered.com/app/209370/)
-- [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
 - [Awesomenauts](http://store.steampowered.com/app/204300/)
 - [BIT.TRIP BEAT](http://store.steampowered.com/app/63700/)
 - [BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien](http://store.steampowered.com/app/218060/)
