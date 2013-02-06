@@ -38,6 +38,7 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [10000000](http://store.steampowered.com/app/227580/)
 - [Analogue: A Hate Story](http://store.steampowered.com/app/209370/)
 - [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
+- [Awesomenauts](http://store.steampowered.com/app/204300/)
 - [BIT.TRIP BEAT](http://store.steampowered.com/app/63700/)
 - [BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien](http://store.steampowered.com/app/218060/)
 - [BIT.TRIP RUNNER](http://store.steampowered.com/app/63710/)
