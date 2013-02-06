@@ -41,6 +41,7 @@ Games confirmed to be working
 - [Penumbra Overture](http://store.steampowered.com/app/22180/)
 - [Postal 2 Complete](http://store.steampowered.com/app/223470/)
 - [Psychonauts](http://store.steampowered.com/app/3830/) [Broken overlay](#right_info)
+> Achievements do not unlock.
 - [Puddle](http://store.steampowered.com/app/222140/)
 - [Red Orchestra: Ostfront 41-15](http://store.steampowered.com/app/1200/)
 - [Serious Sam 3: BFE](http://store.steampowered.com/app/41070/)
