@@ -22,7 +22,6 @@ Entries with Missing Executable
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 - [VVVVVV](http://store.steampowered.com/app/70300/)
 - [Waking Mars](http://store.steampowered.com/app/227200/)
-- [Zen Bound 2](http://store.steampowered.com/app/61600/)
 
 Entries with Invalid App Config
 -------------------------------
@@ -55,3 +54,4 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [The Cave](http://store.steampowered.com/app/221810/)
 - [Wargame: European Escalation](http://store.steampowered.com/app/58610/)
+- [Zen Bound 2](http://store.steampowered.com/app/61600/)
