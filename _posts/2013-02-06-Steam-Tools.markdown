@@ -14,8 +14,12 @@ Tools with Missing Executable
 > This server is not listed under Tools.  
 [steam://install/740/](steam://install/740)
 - [Half-Life Dedicated Server]()  
+> cd ~/.Steam/SteamApps/common/hlds/  
+> LD_LIBRARY_PATH=$LD_LIBRARY_PATH:. ./hlds_linux -game cstrike +map de_aztec  
 [steam://install/90](steam://install/90)
 - [Red Orchestra Linux Dedicated Server]()  
+> cd ~/.Steam/SteamApps/common/Red\ Orchestra\ Linux\ Dedicated Server/System  
+> ./ucc-bin server RO-Odessa.rom?game=ROGame.ROTeamGame -nohomedir  
 [steam://install/223250](steam://install/223250)
 
 Tools that fails to launch
@@ -32,6 +36,7 @@ Tools that fails to launch
 Tools listed as games
 ---------------------
 - [Killing Floor Dedicated Server - Linux]()  
+> Works from SteamCMD, might segfault with Steam Client
 [steam://install/215360](steam://install/215360)
 
 Tools with Linux information that does not install
