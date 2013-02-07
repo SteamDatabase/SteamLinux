@@ -13,11 +13,9 @@ Tools with Missing Executable
 - [Counter-Strike Global Offensive - Dedicated Server]()
 > This server is not listed under Tools.  
 [steam://install/740/](steam://install/740)
-- [Half-Life Dedicated Server]()
->  
+- [Half-Life Dedicated Server]()  
 [steam://install/90](steam://install/90)
-- [Red Orchestra Linux Dedicated Server]()
->  
+- [Red Orchestra Linux Dedicated Server]()  
 [steam://install/223250](steam://install/223250)
 
 Tools that fails to launch
@@ -33,8 +31,7 @@ Tools that fails to launch
 
 Tools listed as games
 ---------------------
-- [Killing Floor Dedicated Server - Linux]()
->  
+- [Killing Floor Dedicated Server - Linux]()  
 [steam://install/215360](steam://install/215360)
 
 Tools with Linux information that does not install
