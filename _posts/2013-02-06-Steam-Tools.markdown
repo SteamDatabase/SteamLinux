@@ -17,6 +17,10 @@ Tools with Missing Executable
 > cd ~/.Steam/SteamApps/common/hlds/  
 > LD_LIBRARY_PATH=$LD_LIBRARY_PATH:. ./hlds_linux -game cstrike +map de_aztec  
 [steam://install/90](steam://install/90)
+- [Nuclear Dawn - Dedicated Server]()  
+> cd ~/.Steam/SteamApps/common/Nuclear\ Dawn
+> LD_LIBRARY_PATH=$LD_LIBRARY_PATH:bin:. ./srcds_linux  -steam -game nucleardawn  
+[steam://install/111710](steam://install/111710)
 - [Red Orchestra Linux Dedicated Server]()  
 > cd ~/.Steam/SteamApps/common/Red\ Orchestra\ Linux\ Dedicated Server/System  
 > ./ucc-bin server RO-Odessa.rom?game=ROGame.ROTeamGame -nohomedir  
@@ -28,10 +32,6 @@ Tools that fails to launch
 > The script fails to escape spaces from within Steam, it can be launched with:  
 > cd ~/.Steam/SteamApps/common/Serious\ Sam\ 3; ./runSam3_DedicatedServer.sh  
 [steam://install/41080](steam://install/41080)
-- [Nuclear Dawn - Dedicated Server]()  
-> Tries to launch the dedicated server for windows, this can be circumvented with:  
-> cd ~/.Steam/SteamApps/common/Nuclear\ Dawn; LD_LIBRARY_PATH=$LD_LIBRARY_PATH:bin:. ./srcds_linux  -steam -game nucleardawn  
-[steam://install/111710](steam://install/111710)
 
 Tools listed as games
 ---------------------
