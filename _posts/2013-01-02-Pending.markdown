@@ -13,6 +13,7 @@ Entries with Missing Executable
 - [Bastion](http://store.steampowered.com/app/107100/)
 - [Cave Story+](http://store.steampowered.com/app/200900/)
 - [Dwarfs!?](http://store.steampowered.com/app/35480/)
+- [Dwarfs F2P](http://store.steampowered.com/app/213650/)
 - [Faerie Solitaire](http://store.steampowered.com/app/38600/)
 > To play, you have to opt-in into the open beta
 - [Savage 2: A Tortured Soul](http://store.steampowered.com/app/13700/)
@@ -46,7 +47,6 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [Braid](http://store.steampowered.com/app/26800/)
 - [Crayon Physics Deluxe](http://store.steampowered.com/app/26900/)
 - [Dustforce](http://store.steampowered.com/app/65300/)
-- [Dwarfs F2P](http://store.steampowered.com/app/213650/)
 - [Gish](http://store.steampowered.com/app/9500/)
 - [LIMBO](http://store.steampowered.com/app/48000/)
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
