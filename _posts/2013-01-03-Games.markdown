@@ -23,6 +23,7 @@ Games confirmed to be working
 - [Darwinia](http://store.steampowered.com/app/1500/)
 - [DEFCON](http://store.steampowered.com/app/1520/)
 - [Dungeons of Dredmor](http://store.steampowered.com/app/98800/) [Broken overlay](#right_info)
+- [Dwarfs!?](http://store.steampowered.com/app/35480/)
 - [Dynamite Jack](http://store.steampowered.com/app/202730/)
 - [Eversion](http://store.steampowered.com/app/33680/)
 - [Frozen Synapse](http://store.steampowered.com/app/98200/)
