@@ -10,6 +10,7 @@ Games confirmed to be working
 
 - [Amnesia: The Dark Descent](http://store.steampowered.com/app/57300/)
 - [And Yet It Moves](http://store.steampowered.com/app/18700/)
+- [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
 - [Aquaria](http://store.steampowered.com/app/24420/)
 > Achievements do not unlock.
 - [Closure](http://store.steampowered.com/app/72000/)
@@ -21,7 +22,6 @@ Games confirmed to be working
 - [Cubemen](http://store.steampowered.com/app/207250/)
 - [Darwinia](http://store.steampowered.com/app/1500/)
 - [DEFCON](http://store.steampowered.com/app/1520/)
-> DEFCON only works if you own the [Introversion bundle](http://store.steampowered.com/sub/14002/)
 - [Dungeons of Dredmor](http://store.steampowered.com/app/98800/) [Broken overlay](#right_info)
 - [Dynamite Jack](http://store.steampowered.com/app/202730/)
 - [Eversion](http://store.steampowered.com/app/33680/)

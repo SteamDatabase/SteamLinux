@@ -10,7 +10,6 @@ This is the list of games that are marked as downloadable for GNU/Linux, but are
 Entries with Missing Executable
 -------------------------------
 
-- [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
 - [Bastion](http://store.steampowered.com/app/107100/)
 - [Cave Story+](http://store.steampowered.com/app/200900/)
 - [Dwarfs!?](http://store.steampowered.com/app/35480/)
