@@ -35,6 +35,7 @@ Games confirmed to be working
 [source](https://wiki.archlinux.org/index.php/Steam#Harvest:_Massive_Encounter)
 - [iBomber Attack](http://store.steampowered.com/app/218660/)
 - [iBomber Defense Pacific](http://store.steampowered.com/app/206690/)
+- [Intrusion 2](http://store.steampowered.com/app/214970/) [Broken overlay](#right_info)
 - [Killing Floor](http://store.steampowered.com/app/1250/)
 - [Lume](http://store.steampowered.com/app/105100/)
 - [Multiwinia](http://store.steampowered.com/app/1530/)
