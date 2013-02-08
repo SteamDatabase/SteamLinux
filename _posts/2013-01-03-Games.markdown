@@ -37,6 +37,7 @@ Games confirmed to be working
 - [iBomber Defense Pacific](http://store.steampowered.com/app/206690/)
 - [Killing Floor](http://store.steampowered.com/app/1250/)
 - [Lume](http://store.steampowered.com/app/105100/)
+- [Multiwinia](http://store.steampowered.com/app/1530/)
 - [Osmos](http://store.steampowered.com/app/29180/)
 - [Penumbra Black Plague Gold Edition](http://store.steampowered.com/app/22120/)
 - [Penumbra Overture](http://store.steampowered.com/app/22180/)
