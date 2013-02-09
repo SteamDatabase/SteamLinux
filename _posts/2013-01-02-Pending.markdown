@@ -14,11 +14,11 @@ Entries with Missing Executable
 - [Cave Story+](http://store.steampowered.com/app/200900/)
 - [Dwarfs F2P](http://store.steampowered.com/app/213650/)
 - [Faerie Solitaire](http://store.steampowered.com/app/38600/)
-> To play, you have to opt-in into the open beta
+> To play, you have to opt-in into the open beta.
 - [Savage 2: A Tortured Soul](http://store.steampowered.com/app/13700/)
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Shank 2](http://store.steampowered.com/app/102840/)
-> To play, you have to opt-in into the open beta
+> To play, you have to opt-in into the open beta.
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 - [VVVVVV](http://store.steampowered.com/app/70300/)
@@ -28,7 +28,6 @@ Entries with Invalid App Config
 -------------------------------
 
 - [BIT.TRIP VOID](http://store.steampowered.com/app/205070/)
-- [Defender's Quest: Valley of the Forgotten](http://store.steampowered.com/app/218410/)
 
 CDR Entries with Linux Listed
 ------------------------------
