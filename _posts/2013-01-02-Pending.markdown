@@ -58,4 +58,6 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 
 Unconfirmed
 -----------
-Nothing here at the moment!
+
+- [Titan Attacks!](http://store.steampowered.com/app/203210/)
+- [Magical Diary](http://store.steampowered.com/app/211340/)
