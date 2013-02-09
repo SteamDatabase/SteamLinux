@@ -42,6 +42,7 @@ Games confirmed to be working
 - [Multiwinia](http://store.steampowered.com/app/1530/)
 - [Osmos](http://store.steampowered.com/app/29180/)
 - [Penumbra Black Plague Gold Edition](http://store.steampowered.com/app/22120/)
+- [Penumbra Requiem](http://store.steampowered.com/app/22140/)
 - [Penumbra Overture](http://store.steampowered.com/app/22180/)
 - [Postal 2 Complete](http://store.steampowered.com/app/223470/)
 - [Psychonauts](http://store.steampowered.com/app/3830/) [Broken overlay](#right_info)
