@@ -19,8 +19,7 @@ Entries with Missing Executable
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Shank 2](http://store.steampowered.com/app/102840/)
 > To play, you have to opt-in into the open beta
-- [Spiral Knights Preview](http://store.steampowered.com/app/99900/)
-> This is for the Preview version with AppID 99920 which has no store page.
+- [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 - [VVVVVV](http://store.steampowered.com/app/70300/)
 - [Waking Mars](http://store.steampowered.com/app/227200/)
