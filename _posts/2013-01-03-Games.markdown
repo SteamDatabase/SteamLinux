@@ -11,7 +11,6 @@ Games confirmed to be working
 - [Amnesia: The Dark Descent](http://store.steampowered.com/app/57300/)
 - [And Yet It Moves](http://store.steampowered.com/app/18700/)
 - [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
-> If overlay is enabled, the game has mouse lag.
 - [Aquaria](http://store.steampowered.com/app/24420/)
 > Achievements do not unlock.
 - [Closure](http://store.steampowered.com/app/72000/)
