@@ -44,6 +44,7 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [Braid](http://store.steampowered.com/app/26800/)
 - [Crayon Physics Deluxe](http://store.steampowered.com/app/26900/)
 - [Dustforce](http://store.steampowered.com/app/65300/)
+- [Gear Up](http://store.steampowered.com/app/214420/)
 - [Gish](http://store.steampowered.com/app/9500/)
 - [LIMBO](http://store.steampowered.com/app/48000/)
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
