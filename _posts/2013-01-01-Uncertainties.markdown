@@ -26,7 +26,8 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 > We're gonna talk to Valve about it so no guarantee/details/etc about it happening or not, right now. 
 [source](http://forums.trendyent.com/showthread.php?88074-Linux-Version-FAQ&p=747779&viewfull=1#post747779) 
 - [Droid Assault](http://store.steampowered.com/app/219200/)
-> See Revenge of the Titans.
+> Yes, when we've got a bit of time. 
+[source](http://steamcommunity.com/app/93200/discussions/0/846939614958478255/#c846939614982266945) 
 - [Eufloria](http://store.steampowered.com/app/41210/)
 > Eufloria HD will be PC/Mac/Linux, probably summer 2013. ... it will be on Steam.
 [source](http://steamcommunity.com/app/41210/discussions/0/864951022580397498/#c846944052733617314)
@@ -40,9 +41,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 > We are working on it right now. It will be out as soon as possible and not later than the end of this month.
 - [Offspring Fling!](http://store.steampowered.com/app/211360/)
 > I would say its about 50/50 right now...I need to change how the final application is built. I basically need to wrap Offspring Fling with software to make it into a Linux executable, but currently I'm having some problems getting it to work for unknown reasons... until I can work out these bugs, I can't get the Linux version onto Steam.
-- [Revenge of the Titans](http://store.steampowered.com/app/93200/)
-> Yes, when we've got a bit of time. 
-[source](http://steamcommunity.com/app/93200/discussions/0/846939614958478255/#c846939614982266945) 
 - [Shadowgrounds](http://store.steampowered.com/app/2500/)
 > We will probably bring the other games to Steam Linux at some point, at least Trine... but I can't promise it just yet so no ETA, there's some other issues involved (we didn't port them ourselves and they have a bit too many technical issues compared to Trine 2). But it will most likely happen at some point., the SG games are a bit 50/50, we sell them elsewhere but they bring a lot of support issues in their current state so we're hesitant to broaden the audience too much if we can't get the issues fixed... But we'll see how that goes.
 - [Shadowgrounds Survivor](http://store.steampowered.com/app/11200/)
