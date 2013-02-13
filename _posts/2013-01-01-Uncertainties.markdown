@@ -25,9 +25,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Dungeon Defenders](http://store.steampowered.com/app/65800/)
 > We're gonna talk to Valve about it so no guarantee/details/etc about it happening or not, right now. 
 [source](http://forums.trendyent.com/showthread.php?88074-Linux-Version-FAQ&p=747779&viewfull=1#post747779) 
-- [Droid Assault](http://store.steampowered.com/app/219200/)
-> Yes, when we've got a bit of time. 
-[source](http://steamcommunity.com/app/93200/discussions/0/846939614958478255/#c846939614982266945) 
 - [Eufloria](http://store.steampowered.com/app/41210/)
 > Eufloria HD will be PC/Mac/Linux, probably summer 2013. ... it will be on Steam.
 [source](http://steamcommunity.com/app/41210/discussions/0/864951022580397498/#c846944052733617314)
