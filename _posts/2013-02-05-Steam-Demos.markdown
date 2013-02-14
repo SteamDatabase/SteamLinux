@@ -7,6 +7,9 @@ categories: [other]
 Demos confirmed to be working
 -----------------------------
 - [Amnesia: The Dark Descent Demo](http://store.steampowered.com/app/57310/)
+- [Magical Diary Demo](http://steamdb.info/app/212140/)
+> Game won't launch with overlay activated.
+
 - [Solar 2 Demo](http://store.steampowered.com/app/97010/)
 - [The Book of Unwritten Tales: The Critter Chronicles Demo](http://store.steampowered.com/app/226540/) [Broken overlay](#right_info)
 - [The Clockwork Man Demo](http://store.steampowered.com/app/111020/) [Broken overlay](#right_info)
@@ -21,7 +24,6 @@ Demos confirmed to be working
 Entries with Missing Executable
 -------------------------------
 - [iBomber Attack Demo](http://store.steampowered.com/app/224800/)
-- [Magical Diary Demo](http://steamdb.info/app/212140/)
 - [The Polynomial - Demo](http://store.steampowered.com/app/67010/)
 
 Not Available on this platform
