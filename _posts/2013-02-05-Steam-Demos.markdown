@@ -24,6 +24,7 @@ Demos confirmed to be working
 Entries with Missing Executable
 -------------------------------
 - [iBomber Attack Demo](http://store.steampowered.com/app/224800/)
+- [Intrusion 2 Demo](http://store.steampowered.com/app/217470/)
 - [The Polynomial - Demo](http://store.steampowered.com/app/67010/)
 
 Not Available on this platform
