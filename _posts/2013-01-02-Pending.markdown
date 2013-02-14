@@ -56,5 +56,3 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 
 Unconfirmed
 -----------
-
-- [Magical Diary](http://store.steampowered.com/app/211340/)
