@@ -13,6 +13,7 @@ Games confirmed to be working
 - [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
 - [Aquaria](http://store.steampowered.com/app/24420/)
 > Achievements do not unlock.
+- [Bastion](http://store.steampowered.com/app/107100/)
 - [Closure](http://store.steampowered.com/app/72000/)
 - [Cogs](http://store.steampowered.com/app/26500/)
 - [Conquest of Elysium 3](http://store.steampowered.com/app/211900/) [Broken overlay](#right_info)

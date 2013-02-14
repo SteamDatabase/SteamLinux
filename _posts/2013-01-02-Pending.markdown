@@ -10,7 +10,6 @@ This is the list of games that are marked as downloadable for GNU/Linux, but are
 Entries with Missing Executable
 -------------------------------
 
-- [Bastion](http://store.steampowered.com/app/107100/)
 - [Cave Story+](http://store.steampowered.com/app/200900/)
 - [Droid Assault](http://store.steampowered.com/app/219200/)
 - [Dwarfs F2P](http://store.steampowered.com/app/213650/)
