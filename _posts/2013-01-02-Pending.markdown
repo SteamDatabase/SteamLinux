@@ -10,6 +10,7 @@ This is the list of games that are marked as downloadable for GNU/Linux, but are
 Entries with Missing Executable
 -------------------------------
 
+- [Beat Hazard](http://store.steampowered.com/app/49600/)
 - [Cave Story+](http://store.steampowered.com/app/200900/)
 - [Dwarfs F2P](http://store.steampowered.com/app/213650/)
 - [Faerie Solitaire](http://store.steampowered.com/app/38600/)
