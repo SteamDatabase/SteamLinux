@@ -22,7 +22,6 @@ Entries with Missing Executable
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 - [VVVVVV](http://store.steampowered.com/app/70300/)
 - [Waking Mars](http://store.steampowered.com/app/227200/)
-- [Zen Bound 2](http://store.steampowered.com/app/61600/)
 
 Entries with Invalid App Config
 -------------------------------

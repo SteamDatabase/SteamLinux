@@ -83,3 +83,4 @@ Games confirmed to be working
 - [Waveform](http://store.steampowered.com/app/204180/) [Broken overlay](#right_info)
 - [X3: Reunion](http://store.steampowered.com/app/2810/)
 - [World of Goo](http://store.steampowered.com/app/22000/)
+- [Zen Bound 2](http://store.steampowered.com/app/61600/)
