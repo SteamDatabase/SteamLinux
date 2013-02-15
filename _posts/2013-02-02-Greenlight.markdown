@@ -16,9 +16,6 @@ categories: [other]
 - [Folk Tale](http://steamcommunity.com/sharedfiles/filedetails/?id=92993746)
 > Q1 2013
 [source](http://www.overclockers.com/lickstarter-and-gam-development-highlighting-the-demand-for-linux-gaming)
-- [Gear Up](http://steamcommunity.com/sharedfiles/filedetails/?id=91641700)
-> Spring 2013
-[source](http://steamcommunity.com/sharedfiles/filedetails/?id=91641700)
 - [Incredipede](steamcommunity.com/sharedfiles/filedetails/?id=92701947)
 - [Interstellar Marines](http://steamcommunity.com/sharedfiles/filedetails/?id=93777661)
 > Late 2013

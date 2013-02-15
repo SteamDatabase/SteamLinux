@@ -33,6 +33,7 @@ Games confirmed to be working
 - [Frozen Synapse](http://store.steampowered.com/app/98200/)
 - [FTL: Faster Than Light](http://store.steampowered.com/app/212680/) [Broken overlay](#right_info)
 - [Galcon Fusion](http://store.steampowered.com/app/44200/)
+- [Gear Up](http://store.steampowered.com/app/214420/) [Broken overlay](#right_info)
 - [Hacker Evolution Duality](http://store.steampowered.com/app/70120/)
 - [Half-Life](http://store.steampowered.com/app/70/)
 - [Harvest: Massive Encounter](http://store.steampowered.com/app/15400/)
