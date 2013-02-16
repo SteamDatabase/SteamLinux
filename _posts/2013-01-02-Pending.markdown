@@ -22,6 +22,7 @@ Entries with Missing Executable
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 - [VVVVVV](http://store.steampowered.com/app/70300/)
+- [The Cave](http://store.steampowered.com/app/221810/)
 - [Waking Mars](http://store.steampowered.com/app/227200/)
 
 Entries with Invalid App Config
@@ -50,7 +51,6 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [Oil Rush](http://store.steampowered.com/app/200390/)
 - [Rochard](http://store.steampowered.com/app/107800/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
-- [The Cave](http://store.steampowered.com/app/221810/)
 - [Wargame: European Escalation](http://store.steampowered.com/app/58610/)
 
 Unconfirmed
