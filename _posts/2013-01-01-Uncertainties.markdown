@@ -66,9 +66,6 @@ The following games are unfortunately not coming to Steam or are unlikely to com
 > Well, we do think about it but right now we are too busy. I am sorry.
 - [Samorost 2](http://store.steampowered.com/app/40720/)
 > Well, we do think about it but right now we are too busy. I am sorry.
-- [Spirits](http://store.steampowered.com/app/210170/)
-> We don't have a release date for Spirits on Steam Linux at the moment, as we are focusing 100% on our next game.
-[source](http://steamcommunity.com/app/210170/discussions/0/828925849236164379/#c828925849237649732) 
 - [Super Meat Boy](http://store.steampowered.com/app/40800/)
 > No.
 [source](http://steamcommunity.com/app/40800/discussions/0/864951475490355056/) 
