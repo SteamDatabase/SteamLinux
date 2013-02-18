@@ -14,6 +14,7 @@ Demos confirmed to be working
 - [The Book of Unwritten Tales: The Critter Chronicles Demo](http://store.steampowered.com/app/226540/) [Broken overlay](#right_info)
 - [The Clockwork Man Demo](http://store.steampowered.com/app/111020/) [Broken overlay](#right_info)
 - [The Clockwork Man: The Hidden World Demo](http://store.steampowered.com/app/111030/) [Broken overlay](#right_info)
+- [The Polynomial - Demo](http://store.steampowered.com/app/67010/)
 - [Tiny and Big: Grandpa's Leftovers Demo](http://store.steampowered.com/app/214090/)
 - [Towns Demo](http://store.steampowered.com/app/221030/) [Broken overlay](#right_info)
 - [Unity of Command Demo](http://store.steampowered.com/app/223920/) [Broken overlay](#right_info)
@@ -24,7 +25,6 @@ Demos confirmed to be working
 Entries with Missing Executable
 -------------------------------
 - [iBomber Attack Demo](http://store.steampowered.com/app/224800/)
-- [The Polynomial - Demo](http://store.steampowered.com/app/67010/)
 
 Not Available on this platform
 ------------------------------
