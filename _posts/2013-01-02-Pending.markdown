@@ -15,6 +15,7 @@ Entries with Missing Executable
 - [Dwarfs F2P](http://store.steampowered.com/app/213650/)
 - [Faerie Solitaire](http://store.steampowered.com/app/38600/)
 > To play, you have to opt-in into the open beta.
+- [Rochard](http://store.steampowered.com/app/107800/)
 - [Savage 2: A Tortured Soul](http://store.steampowered.com/app/13700/)
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Shank 2](http://store.steampowered.com/app/102840/)
@@ -50,7 +51,6 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [LIMBO](http://store.steampowered.com/app/48000/)
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
 - [Oil Rush](http://store.steampowered.com/app/200390/)
-- [Rochard](http://store.steampowered.com/app/107800/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [Spirits](http://store.steampowered.com/app/210170/)
 - [Wargame: European Escalation](http://store.steampowered.com/app/58610/)
