@@ -8,7 +8,7 @@ Demos confirmed to be working
 -----------------------------
 - [Amnesia: The Dark Descent Demo](http://store.steampowered.com/app/57310/)
 - [Intrusion 2 Demo](http://store.steampowered.com/app/217470/)
-- [Magical Diary Demo](http://steamdb.info/app/212140/)
+- [Magical Diary Demo](http://store.steampowered.com/app/212140/)
 > Game won't launch with overlay activated.
 - [Solar 2 Demo](http://store.steampowered.com/app/97010/)
 - [The Book of Unwritten Tales: The Critter Chronicles Demo](http://store.steampowered.com/app/226540/) [Broken overlay](#right_info)
