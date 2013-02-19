@@ -58,6 +58,7 @@ Games confirmed to be working
 - [Puddle](http://store.steampowered.com/app/222140/)
 - [Red Orchestra: Ostfront 41-15](http://store.steampowered.com/app/1200/)
 - [Revenge of the Titans](http://store.steampowered.com/app/93200/)
+- [Rochard](http://store.steampowered.com/app/107800/)
 - [Serious Sam 3: BFE](http://store.steampowered.com/app/41070/)
 - [Solar 2](http://store.steampowered.com/app/97000/)
 - [Space Pirates and Zombies](http://store.steampowered.com/app/107200/)
