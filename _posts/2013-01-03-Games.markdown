@@ -14,6 +14,7 @@ Games confirmed to be working
 - [Aquaria](http://store.steampowered.com/app/24420/)
 > Achievements do not unlock.
 - [Bastion](http://store.steampowered.com/app/107100/)
+- [Beat Hazard](http://store.steampowered.com/app/49600/)
 - [Closure](http://store.steampowered.com/app/72000/)
 - [Cogs](http://store.steampowered.com/app/26500/)
 - [Conquest of Elysium 3](http://store.steampowered.com/app/211900/) [Broken overlay](#right_info)
