@@ -12,7 +12,6 @@ Entries with Missing Executable
 
 - [Beat Hazard](http://store.steampowered.com/app/49600/)
 - [Cave Story+](http://store.steampowered.com/app/200900/)
-- [Dwarfs F2P](http://store.steampowered.com/app/213650/)
 - [Faerie Solitaire](http://store.steampowered.com/app/38600/)
 > To play, you have to opt-in into the open beta.
 - [Rochard](http://store.steampowered.com/app/107800/)
