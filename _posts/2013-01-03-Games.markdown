@@ -60,6 +60,7 @@ Games confirmed to be working
 - [Revenge of the Titans](http://store.steampowered.com/app/93200/)
 - [Rochard](http://store.steampowered.com/app/107800/)
 - [Serious Sam 3: BFE](http://store.steampowered.com/app/41070/)
+- [Shank 2](http://store.steampowered.com/app/102840/)
 - [Solar 2](http://store.steampowered.com/app/97000/)
 - [Space Pirates and Zombies](http://store.steampowered.com/app/107200/)
 - [SpaceChem](http://store.steampowered.com/app/92800/)
