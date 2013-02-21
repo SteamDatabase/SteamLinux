@@ -17,7 +17,6 @@ Entries with Missing Executable
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 - [VVVVVV](http://store.steampowered.com/app/70300/)
-- [The Cave](http://store.steampowered.com/app/221810/)
 - [Waking Mars](http://store.steampowered.com/app/227200/)
 
 Entries with Invalid App Config

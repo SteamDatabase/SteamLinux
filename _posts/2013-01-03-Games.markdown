@@ -77,6 +77,7 @@ Games confirmed to be working
 - [Team Fortress 2 Beta](http://store.steampowered.com/app/520/)
 - [The Book of Unwritten Tales: The Critter Chronicles](http://store.steampowered.com/app/221830/)
 - [The Book of Unwritten Tales](http://store.steampowered.com/app/215160/) [Broken overlay](#right_info)
+- [The Cave](http://store.steampowered.com/app/221810/)
 - [The Clockwork Man: The Hidden World](http://store.steampowered.com/app/111010/) [Broken overlay](#right_info)
 - [The Clockwork Man](http://store.steampowered.com/app/111000/) [Broken overlay](#right_info)
 - [The Journey Down: Chapter One](http://store.steampowered.com/app/220090/)
