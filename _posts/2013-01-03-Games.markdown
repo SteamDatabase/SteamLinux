@@ -91,5 +91,6 @@ Games confirmed to be working
 - [Uplink](http://store.steampowered.com/app/1510/)
 - [Waveform](http://store.steampowered.com/app/204180/)
 - [X3: Reunion](http://store.steampowered.com/app/2810/)
+- [Waking Mars](http://store.steampowered.com/app/227200/)
 - [World of Goo](http://store.steampowered.com/app/22000/)
 - [Zen Bound 2](http://store.steampowered.com/app/61600/)
