@@ -89,6 +89,7 @@ Games confirmed to be working
 - [Trine 2](http://store.steampowered.com/app/35720/)
 - [Unity of Command: Stalingrad Campaign](http://store.steampowered.com/app/218090/)
 - [Uplink](http://store.steampowered.com/app/1510/)
+- [VVVVVV](http://store.steampowered.com/app/70300/)
 - [Waveform](http://store.steampowered.com/app/204180/)
 - [X3: Reunion](http://store.steampowered.com/app/2810/)
 - [Waking Mars](http://store.steampowered.com/app/227200/)
