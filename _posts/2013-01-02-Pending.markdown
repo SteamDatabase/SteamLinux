@@ -58,3 +58,4 @@ Unconfirmed
 - [Half-Life 2: Deathmatch](http://store.steampowered.com/app/320/)
 > Currently undergoing SteamPipe beta.
 [source](https://support.steampowered.com/kb_article.php?ref=7388-QPFN-2491)
+- [Kentucky Route Zero](http://store.steampowered.com/app/231200/)
