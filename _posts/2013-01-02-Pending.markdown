@@ -52,10 +52,22 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 Unconfirmed
 -----------
 
+- [Day of Defeat](http://store.steampowered.com/app/30/)
+> .so's bundled with Half-Life.
 - [Day of Defeat: Source](http://store.steampowered.com/app/300/)
 > Currently undergoing SteamPipe beta.
 [source](https://support.steampowered.com/kb_article.php?ref=7388-QPFN-2491)
+- [Deathmatch Classic](http://store.steampowered.com/app/40/)
+> .so's bundled with Half-Life
+- [Half-Life: Blue Shift](http://store.steampowered.com/app/130/)
+> .so's bundled with Half-Life
+- [Half-Life: Opposing Force](http://store.steampowered.com/app/50/)
+> .so's bundled with Half-Life
 - [Half-Life 2: Deathmatch](http://store.steampowered.com/app/320/)
 > Currently undergoing SteamPipe beta.
 [source](https://support.steampowered.com/kb_article.php?ref=7388-QPFN-2491)
 - [Kentucky Route Zero](http://store.steampowered.com/app/231200/)
+- [Ricochet](http://store.steampowered.com/app/60/)
+> .so's bundled with Half-Life
+- [Team Fortress Classic](http://store.steampowered.com/app/20/)
+> .so's bundled with Half-Life
