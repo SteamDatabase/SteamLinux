@@ -49,6 +49,7 @@ Games confirmed to be working
 - [iBomber Attack](http://store.steampowered.com/app/218660/)
 - [iBomber Defense Pacific](http://store.steampowered.com/app/206690/)
 - [Intrusion 2](http://store.steampowered.com/app/214970/) [Broken overlay](#right_info)
+- [Kentucky Route Zero](http://store.steampowered.com/app/231200/)
 - [Killing Floor](http://store.steampowered.com/app/1250/)
 - [Lume](http://store.steampowered.com/app/105100/) [Broken overlay](#right_info)
 - [Magical Diary](http://store.steampowered.com/app/211340/) [Broken overlay](#right_info)
