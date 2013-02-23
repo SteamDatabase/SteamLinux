@@ -13,6 +13,7 @@ Games confirmed to be working
 - [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
 - [Aquaria](http://store.steampowered.com/app/24420/)
 > Achievements do not unlock.
+
 - [Bastion](http://store.steampowered.com/app/107100/)
 - [Beat Hazard](http://store.steampowered.com/app/49600/)
 - [Cave Story+](http://store.steampowered.com/app/200900/)
@@ -28,6 +29,7 @@ Games confirmed to be working
 - [DEFCON](http://store.steampowered.com/app/1520/)
 - [Defender's Quest: Valley of the Forgotten](http://store.steampowered.com/app/218410/) [Broken overlay](#right_info)
 > Steamworks features are unavailable.
+
 - [Droid Assault](http://store.steampowered.com/app/219200/)
 - [Dungeons of Dredmor](http://store.steampowered.com/app/98800/) [Broken overlay](#right_info)
 - [Dwarfs!?](http://store.steampowered.com/app/35480/)
@@ -41,8 +43,9 @@ Games confirmed to be working
 - [Hacker Evolution Duality](http://store.steampowered.com/app/70120/)
 - [Half-Life](http://store.steampowered.com/app/70/)
 - [Harvest: Massive Encounter](http://store.steampowered.com/app/15400/)
-> Might require a workaround to launch without getting stuck in a loop.
+> May require a workaround to launch without getting stuck in a loop.
 [source](https://wiki.archlinux.org/index.php/Steam#Harvest:_Massive_Encounter)
+
 - [iBomber Attack](http://store.steampowered.com/app/218660/)
 - [iBomber Defense Pacific](http://store.steampowered.com/app/206690/)
 - [Intrusion 2](http://store.steampowered.com/app/214970/) [Broken overlay](#right_info)
@@ -57,6 +60,7 @@ Games confirmed to be working
 - [POSTAL 2 Complete](http://store.steampowered.com/app/223470/)
 - [Psychonauts](http://store.steampowered.com/app/3830/) [Broken overlay](#right_info)
 > Achievements do not unlock.
+
 - [Puddle](http://store.steampowered.com/app/222140/)
 - [Red Orchestra: Ostfront 41-15](http://store.steampowered.com/app/1200/)
 - [Revenge of the Titans](http://store.steampowered.com/app/93200/)
@@ -69,8 +73,10 @@ Games confirmed to be working
 - [Splice](http://store.steampowered.com/app/209790/) [Broken overlay](#right_info)
 > Achievements do not unlock.
 [source](http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741)
+
 - [Steel Storm: Burning Retribution](http://store.steampowered.com/app/96200/)
 > Overlay doesn't work with 64-bit version.
+
 - [Spectraball](http://store.steampowered.com/app/18300/)
 - [Superbrothers: Sword & Sworcery EP](http://store.steampowered.com/app/204060/)
 - [Team Fortress 2](http://store.steampowered.com/app/440/)
@@ -86,6 +92,7 @@ Games confirmed to be working
 - [Titan Attacks!](http://store.steampowered.com/app/203210/)
 - [Towns](http://store.steampowered.com/app/221020/) [Broken overlay](#right_info)
 > Overlay doesn't work with 64-bit java.
+
 - [Trine 2](http://store.steampowered.com/app/35720/)
 - [Unity of Command: Stalingrad Campaign](http://store.steampowered.com/app/218090/)
 - [Uplink](http://store.steampowered.com/app/1510/)

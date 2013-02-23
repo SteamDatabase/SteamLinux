@@ -22,37 +22,54 @@ Doom 3
 ------
 - [Doom 3](http://store.steampowered.com/app/9050/)
 > Use [dhewm3](http://github.com/dhewm/dhewm3)
+
 - [Doom 3: Resurrection of Evil](http://store.steampowered.com/app/9070/)
 > Use [dhewm3](http://github.com/dhewm/dhewm3)
+
 - [Doom 3: BFG Edition](http://store.steampowered.com/app/208200/)
 > Use... er, [working on it](https://github.com/Doom3BFG-SDL/DOOM-3-BFG)
+
 - [Heretic: Shadow of the Serpent Riders](http://store.steampowered.com/app/2390/)
 > Use [Zandronum](http://www.zandronum.com/)
+
 - [HeXen: Beyond Heretic](http://store.steampowered.com/app/2360/)
 > Use [Zandronum](http://www.zandronum.com/)
+
 - [HeXen: Deathkings of the Dark Citadel](http://store.steampowered.com/app/2370/)
 > Use [Zandronum](http://www.zandronum.com/)
+
 - [HeXen II](http://store.steampowered.com/app/9060/)
 > Use [Hammer of Thyrion](http://uhexen2.sourceforge.net/)
+
 - [Quake](http://store.steampowered.com/app/2310/)
 > Use [DarkPlaces](http://icculus.org/twilight/darkplaces/)
+
 - [Quake Mission Pack 1: Scourge of Armagon](http://store.steampowered.com/app/9040/)
 > Use [DarkPlaces](http://icculus.org/twilight/darkplaces/)
+
 - [Quake Mission Pack 2: Dissolution of Eternity](http://store.steampowered.com/app/9030/)
 > Use [DarkPlaces](http://icculus.org/twilight/darkplaces/)
+
 - [Quake II](http://store.steampowered.com/app/2320/)
 > Use [Yamagi Quake II](http://www.yamagi.org/quake2/)
+
 - [Quake II Mission Pack: The Reckoning](http://store.steampowered.com/app/2330/)
 > Use [Yamagi Quake II](http://www.yamagi.org/quake2/)
+
 - [Quake II Mission Pack: Ground Zero](http://store.steampowered.com/app/2340/)
 > Use [Yamagi Quake II](http://www.yamagi.org/quake2/)
+
 - [Quake III Arena](http://store.steampowered.com/app/2200/)
 > Use [ioquake3](http://ioquake3.org/)
+
 - [Quake III Team Arena](http://store.steampowered.com/app/2350/)
 > Use [ioquake3](http://ioquake3.org/)
+
 - [Wolfenstein 3D](http://store.steampowered.com/app/2270/)
 > Use [Wolf4SDL](http://www.chaos-software.de.vu/)
+
 - [Spear of Destiny](http://store.steampowered.com/app/9000)
 > Use [Wolf4SDL](http://www.chaos-software.de.vu/)
+
 - [Return to Castle Wolfenstein](http://store.steampowered.com/app/9010/)
 > None

@@ -16,10 +16,12 @@ Tools with Missing Executable
 - [Counter-Strike Global Offensive - Dedicated Server]()
 > This server is not listed under Tools.  
 [steam://install/740/](steam://install/740)
+
 - [Half-Life Dedicated Server]()  
 > cd ~/.Steam/SteamApps/common/hlds/  
 > LD_LIBRARY_PATH=$LD_LIBRARY_PATH:. ./hlds_linux -game cstrike +map de_aztec  
 [steam://install/90](steam://install/90)
+
 - [Red Orchestra Linux Dedicated Server]()  
 > cd ~/.Steam/SteamApps/common/Red\ Orchestra\ Linux\ Dedicated Server/System  
 > ./ucc-bin server RO-Odessa.rom?game=ROGame.ROTeamGame -nohomedir  

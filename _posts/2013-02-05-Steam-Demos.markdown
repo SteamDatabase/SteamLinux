@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: Steam Demos
 categories: [other]
@@ -10,6 +11,7 @@ Demos confirmed to be working
 - [Intrusion 2 Demo](http://store.steampowered.com/app/217470/)
 - [Magical Diary Demo](http://store.steampowered.com/app/212140/)
 > Game won't launch with overlay activated.
+
 - [Solar 2 Demo](http://store.steampowered.com/app/97010/)
 - [The Book of Unwritten Tales: The Critter Chronicles Demo](http://store.steampowered.com/app/226540/) [Broken overlay](#right_info)
 - [The Clockwork Man Demo](http://store.steampowered.com/app/111020/) [Broken overlay](#right_info)

@@ -11,6 +11,9 @@ Games with a GNU/Linux version available, but not on Steam
 - [Altitude](http://store.steampowered.com/app/41300/)
 - [Ankh 2: Heart of Osiris](http://store.steampowered.com/app/12440/)
 - [Atom Zombie Smasher](http://store.steampowered.com/app/1700/)
+- [Avadon: The Black Fortress](http://store.steampowered.com/app/112100/)
+> It might happen someday, but it would require a bit of work on our end and we're swamped with Avadon 2.
+
 - [The Basement Collection](http://store.steampowered.com/app/55040/)
 - [Blocks That Matter](http://store.steampowered.com/app/214790/)
 - [Bullet Candy](http://store.steampowered.com/app/6600/)
@@ -33,6 +36,9 @@ Games with a GNU/Linux version available, but not on Steam
 - [Lone Survivor](http://store.steampowered.com/app/209830/)
 - [Majesty Gold](http://store.steampowered.com/app/25990/)
 - [McPixel](http://store.steampowered.com/app/220860/)
+- [Machinarium](http://store.steampowered.com/app/40700/)
+> Well, we do think about it but right now we are too busy. I am sorry.
+
 - [Memoir '44 Online](http://store.steampowered.com/app/108210/)
 - [NightSky HD](http://store.steampowered.com/app/99700/)
 - [No Time To Explain](http://store.steampowered.com/app/227280/)
@@ -46,22 +52,41 @@ Games with a GNU/Linux version available, but not on Steam
 - [Robin Hood: The Legend of Sherwood](http://store.steampowered.com/app/46560/)
 - [Rune Classic](http://store.steampowered.com/app/210950/)
 - [Sacred Gold](http://store.steampowered.com/app/12320/)
+- [Samorost 2](http://store.steampowered.com/app/40720/)
+> Well, we do think about it but right now we are too busy. I am sorry.
+
 - [Serious Sam 2](http://store.steampowered.com/app/204340/)
 > Check out the [tutorial](http://pcgamingwiki.com/wiki/Serious_Sam_II#Linux)
+
 - [Serious Sam Classic: First Encounter](http://store.steampowered.com/app/41050/)
 > Beta version of port available
+
 - [Serious Sam Classic: Second Encounter](http://store.steampowered.com/app/41060/)
 > Beta version of port available
+
 - [Shank](http://store.steampowered.com/app/6120/)
 - [SiN 1](http://store.steampowered.com/app/1313/)
 - [Snuggle Truck](http://store.steampowered.com/app/111100/)
+- [Super Meat Boy](http://store.steampowered.com/app/40800/)
+> No.
+[source](http://steamcommunity.com/app/40800/discussions/0/864951475490355056/) 
+
 - [Swords and Soldiers HD](http://store.steampowered.com/app/63500/)
 - [Torchlight](http://store.steampowered.com/app/41500/)
+> We have no announcements on this front today. Thanks for your question.
+[source](http://steamcommunity.com/app/41500/discussions/0/828925849183725891/#c846943514184499975) 
+
 - [Unreal Gold](http://store.steampowered.com/app/13250/)
 > Unofficial icculus.org port, single player only
+
 - [Unreal Tournament 2004](http://store.steampowered.com/app/13230/)
 > Check out the [tutorial](http://pcgamingwiki.com/wiki/Unreal_Tournaament_2004#Linux)
+
 - [Unreal Tournament: Game of the Year Edition](http://store.steampowered.com/app/13240)
 > Check out the [tutorial](http://pcgamingwiki.com/wiki/Unreal_Tournament#Linux)
+
 - [Windosill](http://store.steampowered.com/app/37600/)
+- [Wizorb](http://store.steampowered.com/app/207420/)
+> We have no plan to release Wizorb on Steam.
+
 - [X2: The Threat](http://store.steampowered.com/app/2800/)
