@@ -47,4 +47,3 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [Oil Rush](http://store.steampowered.com/app/200390/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [Spirits](http://store.steampowered.com/app/210170/)
-- [Wargame: European Escalation](http://store.steampowered.com/app/58610/)
