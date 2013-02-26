@@ -33,7 +33,6 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [Anna](http://store.steampowered.com/app/217690/)
 - [Awesomenauts](http://store.steampowered.com/app/204300/)
 - [BIT.TRIP BEAT](http://store.steampowered.com/app/63700/)
-- [BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien](http://store.steampowered.com/app/218060/)
 - [BIT.TRIP RUNNER](http://store.steampowered.com/app/63710/)
 - [Botanicula](http://store.steampowered.com/app/207690/)
 - [Braid](http://store.steampowered.com/app/26800/)
