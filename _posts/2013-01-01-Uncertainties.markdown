@@ -20,10 +20,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Beep](http://store.steampowered.com/app/104200/)
 > Yes, I do plan to release BEEP for Steam Linux. Probably sometime in the spring though as I'm currently very busy.
 
-- [The Binding of Isaac](http://store.steampowered.com/app/113200/)
-> Late January. 
-[source](http://steamcommunity.com/app/113200/discussions/0/846942156064425763/#c846942156064638849)
-
 - [Blocks That Matter](http://store.steampowered.com/app/111800/)
 > We are currently talking with Valve to get access to the beta Steam Client. We were busy and missed the beta launch :( But I think on Monday we will have access to the client and the libraries!
 
