@@ -83,6 +83,7 @@ Games confirmed to be working
 
 - [Spectraball](http://store.steampowered.com/app/18300/)
 - [Superbrothers: Sword & Sworcery EP](http://store.steampowered.com/app/204060/)
+- [Super Hexagon](http://store.steampowered.com/app/221640/)
 - [Team Fortress 2](http://store.steampowered.com/app/440/)
 - [Team Fortress 2 Beta](http://store.steampowered.com/app/520/)
 - [The Book of Unwritten Tales: The Critter Chronicles](http://store.steampowered.com/app/221830/)
