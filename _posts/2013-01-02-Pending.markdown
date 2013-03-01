@@ -51,7 +51,5 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 
 Unconfirmed
 -----------
-<<<<<<< HEAD
 
-=======
->>>>>>> 677d88bba80d1278a85023cc276c705a9a50cda8
+None at the moment.
