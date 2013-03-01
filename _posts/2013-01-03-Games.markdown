@@ -75,6 +75,7 @@ Games confirmed to be working
 - [Solar 2](http://store.steampowered.com/app/97000/)
 - [Space Pirates and Zombies](http://store.steampowered.com/app/107200/)
 - [SpaceChem](http://store.steampowered.com/app/92800/)
+- [Spirits](http://store.steampowered.com/app/210170/)
 - [Splice](http://store.steampowered.com/app/209790/) [Broken overlay](#right_info)
 > Achievements do not unlock.
 [source](http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741)

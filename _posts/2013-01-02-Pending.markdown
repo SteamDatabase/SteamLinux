@@ -16,7 +16,6 @@ Entries with Missing Executable
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Shatter](http://store.steampowered.com/app/20820/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
-- [Spirits](http://store.steampowered.com/app/210170/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 
 Entries with Invalid App Config
