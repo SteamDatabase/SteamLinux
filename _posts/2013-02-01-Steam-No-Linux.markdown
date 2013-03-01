@@ -24,7 +24,6 @@ Games with a GNU/Linux version available, but not on Steam
 - [Eschalon: Book I](http://store.steampowered.com/app/25600/)
 - [Eschalon: Book II](http://store.steampowered.com/app/25620/)
 - [Fieldrunners](http://store.steampowered.com/app/209690/)
-- [Gratuitous Space Battles](http://store.steampowered.com/app/41800/)
 - [Hack, Slash, Loot](http://store.steampowered.com/app/207430/)
 - [Hammerfight](http://store.steampowered.com/app/41100/)
 - [Inside a Star-filled Sky](http://store.steampowered.com/app/104100/)
