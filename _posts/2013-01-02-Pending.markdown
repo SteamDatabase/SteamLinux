@@ -16,6 +16,7 @@ Entries with Missing Executable
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Shatter](http://store.steampowered.com/app/20820/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
+- [Spirits](http://store.steampowered.com/app/210170/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 
 Entries with Invalid App Config
@@ -45,10 +46,8 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
 - [Oil Rush](http://store.steampowered.com/app/200390/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
-- [Spirits](http://store.steampowered.com/app/210170/)
 - [The Binding of Isaac](http://store.steampowered.com/app/113200/)
 
 Unconfirmed
 -----------
 
-- [Super Hexagon](http://store.steampowered.com/app/221640/)

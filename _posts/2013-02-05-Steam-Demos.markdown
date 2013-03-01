@@ -8,6 +8,7 @@ categories: [other]
 Demos confirmed to be working
 -----------------------------
 - [Amnesia: The Dark Descent Demo](http://store.steampowered.com/app/57310/)
+- [Defender's Quest: Valley of the Forgotten Demo](http://store.steampowered.com/app/223090/) [Broken overlay](#right_info)
 - [Intrusion 2 Demo](http://store.steampowered.com/app/217470/)
 - [Magical Diary Demo](http://store.steampowered.com/app/212140/)
 > Game won't launch with overlay activated.
@@ -27,7 +28,4 @@ Demos confirmed to be working
 Entries with Missing Executable
 -------------------------------
 - [iBomber Attack Demo](http://store.steampowered.com/app/224800/)
-
-Not Available on this platform
-------------------------------
-- [Defender's Quest: Valley of the Forgotten Demo](http://store.steampowered.com/app/223090/)
+- [Trine 2 Demo](http://store.steampowered.com/app/204260/)
