@@ -33,10 +33,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Deathmatch Classic](http://store.steampowered.com/app/40/)
 > .so's bundled with Half-Life
 
-- [Dungeon Defenders](http://store.steampowered.com/app/65800/)
-> We're gonna talk to Valve about it so no guarantee/details/etc about it happening or not, right now. 
-[source](http://forums.trendyent.com/showthread.php?88074-Linux-Version-FAQ&p=747779&viewfull=1#post747779) 
-
 - [Eufloria](http://store.steampowered.com/app/41210/)
 > Eufloria HD will be PC/Mac/Linux, probably summer 2013. ... it will be on Steam.
 [source](http://steamcommunity.com/app/41210/discussions/0/864951022580397498/#c846944052733617314)
