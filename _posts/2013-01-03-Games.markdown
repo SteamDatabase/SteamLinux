@@ -42,6 +42,7 @@ Games confirmed to be working
 - [FTL: Faster Than Light](http://store.steampowered.com/app/212680/) [Broken overlay](#right_info)
 - [Galcon Fusion](http://store.steampowered.com/app/44200/)
 - [Gear Up](http://store.steampowered.com/app/214420/) [Broken overlay](#right_info)
+- [Gratuitous Space Battles](http://store.steampowered.com/app/41800/)
 - [Guns of Icarus Online](http://store.steampowered.com/app/209080/)
 - [Hacker Evolution Duality](http://store.steampowered.com/app/70120/)
 - [Half-Life](http://store.steampowered.com/app/70/)

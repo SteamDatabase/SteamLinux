@@ -41,7 +41,6 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [Don't Starve](http://store.steampowered.com/app/219740/)
 - [Dustforce](http://store.steampowered.com/app/65300/)
 - [Gish](http://store.steampowered.com/app/9500/)
-- [Gratuitous Space Battles](http://store.steampowered.com/app/41800/)
 - [Highborn](http://store.steampowered.com/app/209850)
 - [LIMBO](http://store.steampowered.com/app/48000/)
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
