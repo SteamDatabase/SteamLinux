@@ -15,7 +15,6 @@ Entries with Missing Executable
 > To play, you have to opt-in into the open beta.
 
 - [Scoregasm](http://store.steampowered.com/app/202410/)
-- [Shatter](http://store.steampowered.com/app/20820/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 
@@ -45,6 +44,7 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [LIMBO](http://store.steampowered.com/app/48000/)
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
 - [Oil Rush](http://store.steampowered.com/app/200390/)
+- [Shatter](http://store.steampowered.com/app/20820/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [The Binding of Isaac](http://store.steampowered.com/app/113200/)
 

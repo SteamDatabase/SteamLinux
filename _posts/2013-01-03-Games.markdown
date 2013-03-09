@@ -12,8 +12,6 @@ Games confirmed to be working
 - [And Yet It Moves](http://store.steampowered.com/app/18700/)
 - [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
 - [Aquaria](http://store.steampowered.com/app/24420/)
-> Achievements do not unlock.
-
 - [Bastion](http://store.steampowered.com/app/107100/)
 - [Beat Hazard](http://store.steampowered.com/app/49600/)
 - [BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien](http://store.steampowered.com/app/218060/)
