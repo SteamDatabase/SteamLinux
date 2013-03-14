@@ -26,6 +26,10 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Deathmatch Classic](http://store.steampowered.com/app/40/)
 > .so's bundled with Half-Life
 
+- [Eschalon](http://store.steampowered.com/app/25600/)
+> We're working on the [Steam] Linux version now.
+[source](http://basiliskgames.com/forums/viewtopic.php?f=2&t=6351)
+
 - [Eufloria](http://store.steampowered.com/app/41210/)
 > Eufloria HD will be PC/Mac/Linux, probably summer 2013. ... it will be on Steam.
 [source](http://steamcommunity.com/app/41210/discussions/0/864951022580397498/#c846944052733617314)
