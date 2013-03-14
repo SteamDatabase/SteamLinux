@@ -26,6 +26,8 @@ Games confirmed to be working
 - [Crusader Kings II](http://store.steampowered.com/app/203770/)
 - [Cubemen](http://store.steampowered.com/app/207250/)
 - [Darwinia](http://store.steampowered.com/app/1500/)
+- [Day of Defeat: Source](http://store.steampowered.com/app/300/)
+- [Day of Defeat](http://store.steampowered.com/app/30/)
 - [DEFCON](http://store.steampowered.com/app/1520/)
 - [Defender's Quest: Valley of the Forgotten](http://store.steampowered.com/app/218410/) [Broken overlay](#right_info)
 > Steamworks features are unavailable.

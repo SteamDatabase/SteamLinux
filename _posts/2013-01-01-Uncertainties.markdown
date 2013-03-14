@@ -23,13 +23,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Blocks That Matter](http://store.steampowered.com/app/111800/)
 > We are currently talking with Valve to get access to the beta Steam Client. We were busy and missed the beta launch :( But I think on Monday we will have access to the client and the libraries!
 
-- [Day of Defeat](http://store.steampowered.com/app/30/)
-> .so's bundled with Half-Life.
-
-- [Day of Defeat: Source](http://store.steampowered.com/app/300/)
-> Currently undergoing SteamPipe beta.
-[source](https://support.steampowered.com/kb_article.php?ref=7388-QPFN-2491)
-
 - [Deathmatch Classic](http://store.steampowered.com/app/40/)
 > .so's bundled with Half-Life
 
