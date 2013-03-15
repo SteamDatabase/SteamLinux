@@ -14,7 +14,6 @@ Entries with Missing Executable
 - [Faerie Solitaire](http://store.steampowered.com/app/38600/)
 > To play, you have to opt-in into the open beta.
 
-- [Half-Life 2: Deathmatch](http://store.steampowered.com/app/320/)
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
