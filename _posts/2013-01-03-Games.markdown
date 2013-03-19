@@ -60,6 +60,7 @@ Games confirmed to be working
 - [Lume](http://store.steampowered.com/app/105100/) [Broken overlay](#right_info)
 - [Magical Diary](http://store.steampowered.com/app/211340/) [Broken overlay](#right_info)
 - [Multiwinia](http://store.steampowered.com/app/1530/)
+- [Organ Trail: Director's Cut](http://store.steampowered.com/app/233740/)
 - [Osmos](http://store.steampowered.com/app/29180/)
 - [Penumbra: Black Plague](http://store.steampowered.com/app/22120/)
 - [Penumbra: Requiem](http://store.steampowered.com/app/22140/)
