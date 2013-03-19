@@ -16,7 +16,6 @@ Entries with Missing Executable
 
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
-- [TRAUMA](http://store.steampowered.com/app/98100/)
 
 Entries with Invalid App Config
 -------------------------------
@@ -47,6 +46,7 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [Oil Rush](http://store.steampowered.com/app/200390/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [The Binding of Isaac](http://store.steampowered.com/app/113200/)
+- [TRAUMA](http://store.steampowered.com/app/98100/)
 
 Unconfirmed
 -----------
