@@ -66,6 +66,7 @@ Games confirmed to be working
 - [Penumbra: Black Plague](http://store.steampowered.com/app/22120/)
 - [Penumbra: Requiem](http://store.steampowered.com/app/22140/)
 - [Penumbra: Overture](http://store.steampowered.com/app/22180/)
+- [POSTAL](http://store.steampowered.com/app/232770/)
 - [POSTAL 2 Complete](http://store.steampowered.com/app/223470/)
 - [Psychonauts](http://store.steampowered.com/app/3830/) [Broken overlay](#right_info)
 > Achievements do not unlock.
