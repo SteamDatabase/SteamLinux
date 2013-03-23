@@ -11,6 +11,9 @@ Games confirmed to be working
 - [10,000,000](http://store.steampowered.com/app/227580/)
 - [Amnesia: The Dark Descent](http://store.steampowered.com/app/57300/)
 - [And Yet It Moves](http://store.steampowered.com/app/18700/)
+- [Anodyne](http://store.steampowered.com/app/234900/)
+> Requires Adobe AIR, see [this](http://steamcommunity.com/games/anodyne/announcements/detail/1731905815482640375) for instructions.
+
 - [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
 - [Aquaria](http://store.steampowered.com/app/24420/)
 - [Bastion](http://store.steampowered.com/app/107100/)
