@@ -37,6 +37,7 @@ Games confirmed to be working
 > Steamworks features are unavailable.
 
 - [Droid Assault](http://store.steampowered.com/app/219200/)
+- [Dungeon Defenders](http://store.steampowered.com/app/65800/)
 - [Dungeons of Dredmor](http://store.steampowered.com/app/98800/) [Broken overlay](#right_info)
 - [Dwarfs!?](http://store.steampowered.com/app/35480/)
 - [Dwarfs F2P](http://store.steampowered.com/app/213650/)
