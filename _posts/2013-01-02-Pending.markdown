@@ -50,6 +50,5 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 Unconfirmed
 -----------
 
-[Dungeon Hearts](http://store.steampowered.com/app/229520/)
-[Kinetic Void](http://store.steampowered.com/app/227160/)
-[X3: Terran Conflict](http://store.steampowered.com/app/2820/)
+- [Kinetic Void](http://store.steampowered.com/app/227160/)
+- [X3: Terran Conflict](http://store.steampowered.com/app/2820/)
