@@ -35,12 +35,12 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 [source](http://steamcommunity.com/app/41210/discussions/0/864951022580397498/#c846944052733617314)
 
 - [Euro Truck Simulator 2](http://store.steampowered.com/app/227300/)
-> Finally today we see the light at the end of the tunnel - Euro Truck Simulator 2 Linux port is almost finished. Very soon we should be able to start beta testing it. (January 11, 2013)
-[source](http://blog.scssoft.com/2013/01/linux-is-close.html)
+> Speaking about failing with time estimates, we are tempted to claim that the Linux version of ETS2 is now less than two weeks away from being ready for release. (March 18, 2013)
+[source](http://blog.scssoft.com/2013/03/scania-tds-on-mac-app-store.html)
 
 - [Garry's Mod](http://store.steampowered.com/app/4000/)
-> I’ve been setting up servers on and off over the last month. Mainly to build GMod (pc, linux and osx).
-[source](http://garry.tv/post/42030021399/catch-up)
+> Awaiting on the Awesomium Linux/Mac versions for release.
+[source](https://twitter.com/garrynewman/status/316860260541427712)
 
 - [Hacker Evolution: Untold](http://store.steampowered.com/app/70110/)
 > We are working on it right now. It will be out as soon as possible and not later than the end of this month.
