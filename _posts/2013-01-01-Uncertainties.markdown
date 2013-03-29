@@ -23,9 +23,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Blocks That Matter](http://store.steampowered.com/app/111800/)
 > We are currently talking with Valve to get access to the beta Steam Client. We were busy and missed the beta launch :( But I think on Monday we will have access to the client and the libraries!
 
-- [Deathmatch Classic](http://store.steampowered.com/app/40/)
-> .so's bundled with Half-Life
-
 - [Eschalon](http://store.steampowered.com/app/25600/)
 > We're working on the [Steam] Linux version now.
 [source](http://basiliskgames.com/forums/viewtopic.php?f=2&t=6351)
@@ -57,9 +54,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 
 - [Offspring Fling!](http://store.steampowered.com/app/211360/)
 > I would say its about 50/50 right now...I need to change how the final application is built. I basically need to wrap Offspring Fling with software to make it into a Linux executable, but currently I'm having some problems getting it to work for unknown reasons... until I can work out these bugs, I can't get the Linux version onto Steam.
-
-- [Ricochet](http://store.steampowered.com/app/60/)
- > .so's bundled with Half-Life
 
 - [Shadowgrounds](http://store.steampowered.com/app/2500/)
 > We will probably bring the other games to Steam Linux at some point, at least Trine... but I can't promise it just yet so no ETA, there's some other issues involved (we didn't port them ourselves and they have a bit too many technical issues compared to Trine 2). But it will most likely happen at some point., the SG games are a bit 50/50, we sell them elsewhere but they bring a lot of support issues in their current state so we're hesitant to broaden the audience too much if we can't get the issues fixed... But we'll see how that goes.
