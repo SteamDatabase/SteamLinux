@@ -42,12 +42,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Hacker Evolution: Untold](http://store.steampowered.com/app/70110/)
 > We are working on it right now. It will be out as soon as possible and not later than the end of this month.
 
-- [Half-Life: Blue Shift](http://store.steampowered.com/app/130/)
-> .so's bundled with Half-Life
-
-- [Half-Life: Opposing Force](http://store.steampowered.com/app/50/)
-> .so's bundled with Half-Life
-
 - [Hotline Miami](http://store.steampowered.com/app/219150/)
 > Any plans for Hotline Miami on Linux? Yes, :)
 [source](https://twitter.com/HotlineMiami/status/314420055691649025)

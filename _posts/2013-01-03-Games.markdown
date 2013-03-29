@@ -52,8 +52,10 @@ Games confirmed to be working
 - [Gratuitous Space Battles](http://store.steampowered.com/app/41800/)
 - [Guns of Icarus Online](http://store.steampowered.com/app/209080/)
 - [Hacker Evolution Duality](http://store.steampowered.com/app/70120/)
-- [Half-Life](http://store.steampowered.com/app/70/)
 - [Half-Life 2: Deathmatch](http://store.steampowered.com/app/320/)
+- [Half-Life: Blue Shift](http://store.steampowered.com/app/130/)
+- [Half-Life: Opposing Force](http://store.steampowered.com/app/50/)
+- [Half-Life](http://store.steampowered.com/app/70/)
 - [Harvest: Massive Encounter](http://store.steampowered.com/app/15400/)
 > May require a workaround to launch without getting stuck in a loop.
 [source](https://wiki.archlinux.org/index.php/Steam#Harvest:_Massive_Encounter)
