@@ -51,6 +51,10 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Half-Life: Opposing Force](http://store.steampowered.com/app/50/)
 > .so's bundled with Half-Life
 
+- [Hotline Miami](http://store.steampowered.com/app/219150/)
+> Any plans for Hotline Miami on Linux? Yes, :)
+[source](https://twitter.com/HotlineMiami/status/314420055691649025)
+
 - [Offspring Fling!](http://store.steampowered.com/app/211360/)
 > I would say its about 50/50 right now...I need to change how the final application is built. I basically need to wrap Offspring Fling with software to make it into a Linux executable, but currently I'm having some problems getting it to work for unknown reasons... until I can work out these bugs, I can't get the Linux version onto Steam.
 
