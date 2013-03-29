@@ -75,9 +75,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 > Developer Born Ready Games is working on Mac and Linux versions of Strike Suit Zero and it will support the Oculus Rift VR headset, all due out later this year.
 [source](http://www.joystiq.com/2013/01/23/strike-suit-zero-ignores-the-countdown-out-now-for-pc/)
 
-- [Team Fortress Classic](http://store.steampowered.com/app/20/)
-> .so's bundled with Half-Life
-
 - [Toki Tori](http://store.steampowered.com/app/38700/)
 > About Toki Tori 1 Linux, yes we are definitely going to bring that towards Steam Linux, but we are still not sure when.
 

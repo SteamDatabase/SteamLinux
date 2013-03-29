@@ -100,6 +100,7 @@ Games confirmed to be working
 - [Super Hexagon](http://store.steampowered.com/app/221640/)
 - [Team Fortress 2](http://store.steampowered.com/app/440/)
 - [Team Fortress 2 Beta](http://store.steampowered.com/app/520/)
+- [Team Fortress Classic](http://store.steampowered.com/app/20/)
 - [The Book of Unwritten Tales: The Critter Chronicles](http://store.steampowered.com/app/221830/)
 - [The Book of Unwritten Tales](http://store.steampowered.com/app/215160/) [Broken overlay](#right_info)
 - [The Cave](http://store.steampowered.com/app/221810/)
