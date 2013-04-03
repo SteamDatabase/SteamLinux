@@ -29,11 +29,12 @@ Games confirmed to be working
 - [Counter-Strike](http://store.steampowered.com/app/10/)
 - [Crusader Kings II](http://store.steampowered.com/app/203770/)
 - [Cubemen](http://store.steampowered.com/app/207250/)
+- [DEFCON](http://store.steampowered.com/app/1520/)
+- [Darkest Hour: Europe '44-'45](http://store.steampowered.com/app/1280/)
 - [Darwinia](http://store.steampowered.com/app/1500/)
 - [Day of Defeat: Source](http://store.steampowered.com/app/300/)
 - [Day of Defeat](http://store.steampowered.com/app/30/)
 - [Deathmatch Classic](http://store.steampowered.com/app/40/)
-- [DEFCON](http://store.steampowered.com/app/1520/)
 - [Defender's Quest: Valley of the Forgotten](http://store.steampowered.com/app/218410/) [Broken overlay](#right_info)
 > Steamworks features are unavailable.
 
@@ -68,6 +69,7 @@ Games confirmed to be working
 - [Killing Floor](http://store.steampowered.com/app/1250/)
 - [Lume](http://store.steampowered.com/app/105100/) [Broken overlay](#right_info)
 - [Magical Diary](http://store.steampowered.com/app/211340/) [Broken overlay](#right_info)
+- [Mare Nostrum](http://store.steampowered.com/app/1230/)
 - [Multiwinia](http://store.steampowered.com/app/1530/)
 - [Organ Trail: Director's Cut](http://store.steampowered.com/app/233740/)
 - [Osmos](http://store.steampowered.com/app/29180/)
