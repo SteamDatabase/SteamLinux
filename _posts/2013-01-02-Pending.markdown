@@ -14,6 +14,9 @@ Entries with Missing Executable
 - [Faerie Solitaire](http://store.steampowered.com/app/38600/)
 > To play, you have to opt-in into the open beta.
 
+- [Proteus](http://store.steampowered.com/app/219680/)
+> To play, you have to opt-in into the open beta.
+
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 
@@ -46,8 +49,8 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [Octodad: Dadliest Catch](http://store.steampowered.com/app/224480/)
 - [Oil Rush](http://store.steampowered.com/app/200390/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
-- [The Binding of Isaac](http://store.steampowered.com/app/113200/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
+- [The Binding of Isaac](http://store.steampowered.com/app/113200/)
 - [X3: Terran Conflict](http://store.steampowered.com/app/2820/)
 
 Unconfirmed
