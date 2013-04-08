@@ -14,9 +14,6 @@ Entries with Missing Executable
 - [Faerie Solitaire](http://store.steampowered.com/app/38600/)
 > To play, you have to opt-in into the open beta.
 
-- [Proteus](http://store.steampowered.com/app/219680/)
-> To play, you have to opt-in into the open beta.
-
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 
@@ -56,3 +53,4 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 Unconfirmed
 -----------
 
+- [Cubemen 2](http://store.steampowered.com/app/228440/)
