@@ -30,6 +30,7 @@ Games confirmed to be working
 - [Counter-Strike](http://store.steampowered.com/app/10/)
 - [Crusader Kings II](http://store.steampowered.com/app/203770/)
 - [Cubemen](http://store.steampowered.com/app/207250/)
+- [Cubemen 2](http://store.steampowered.com/app/228440/)
 - [DEFCON](http://store.steampowered.com/app/1520/)
 - [Darkest Hour: Europe '44-'45](http://store.steampowered.com/app/1280/)
 - [Darwinia](http://store.steampowered.com/app/1500/)

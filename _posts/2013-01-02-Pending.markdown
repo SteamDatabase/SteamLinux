@@ -51,5 +51,3 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 
 Unconfirmed
 -----------
-
-- [Cubemen 2](http://store.steampowered.com/app/228440/)
