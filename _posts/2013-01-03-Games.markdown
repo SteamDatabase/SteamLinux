@@ -74,6 +74,7 @@ Games confirmed to be working
 - [Magical Diary](http://store.steampowered.com/app/211340/) [Broken overlay](#right_info)
 - [Mare Nostrum](http://store.steampowered.com/app/1230/)
 - [Multiwinia](http://store.steampowered.com/app/1530/)
+- [Oil Rush](http://store.steampowered.com/app/200390/)
 - [Organ Trail: Director's Cut](http://store.steampowered.com/app/233740/)
 - [Osmos](http://store.steampowered.com/app/29180/)
 - [Penumbra: Black Plague](http://store.steampowered.com/app/22120/)

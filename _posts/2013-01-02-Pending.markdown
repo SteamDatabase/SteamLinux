@@ -15,8 +15,6 @@ Entries with Missing Executable
 
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
-- [Oil Rush](http://store.steampowered.com/app/200390/)
-> This game appears to be configured correctly, but packages are missing Linux deot.
 
 Entries with Invalid App Config
 -------------------------------
