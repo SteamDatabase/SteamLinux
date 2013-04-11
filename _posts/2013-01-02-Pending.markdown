@@ -10,26 +10,28 @@ This is the list of games that are marked as downloadable for GNU/Linux, but are
 Entries with Missing Executable
 -------------------------------
 
-- [Anna](http://store.steampowered.com/app/217690/)
 - [Faerie Solitaire](http://store.steampowered.com/app/38600/)
 > To play, you have to opt-in into the open beta.
 
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
+- [Oil Rush](http://store.steampowered.com/app/200390/)
+> This game appears to be configured correctly, but packages are missing Linux deot.
 
 Entries with Invalid App Config
 -------------------------------
 
 - [BIT.TRIP VOID](http://store.steampowered.com/app/205070/)
 
-CDR Entries with Linux Listed
+Entries with Linux Listed
 ------------------------------
 
-These show up in the CDR, but do **NOT** appear in your Steam library.
+These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT** appear in your Steam library.
 
 - [Air Conflicts: Pacific Carriers](http://store.steampowered.com/app/214910/)
 - [Altitude](http://store.steampowered.com/app/41300/)
 - [Analogue: A Hate Story](http://store.steampowered.com/app/209370/)
+- [Anna](http://store.steampowered.com/app/217690/)
 - [Awesomenauts](http://store.steampowered.com/app/204300/)
 - [BIT.TRIP BEAT](http://store.steampowered.com/app/63700/)
 - [BIT.TRIP RUNNER](http://store.steampowered.com/app/63710/)
@@ -43,11 +45,12 @@ These show up in the CDR, but do **NOT** appear in your Steam library.
 - [LIMBO](http://store.steampowered.com/app/48000/)
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
 - [Octodad: Dadliest Catch](http://store.steampowered.com/app/224480/)
-- [Oil Rush](http://store.steampowered.com/app/200390/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
-- [TRAUMA](http://store.steampowered.com/app/98100/)
 - [The Binding of Isaac](http://store.steampowered.com/app/113200/)
+- [TRAUMA](http://store.steampowered.com/app/98100/)
 - [X3: Terran Conflict](http://store.steampowered.com/app/2820/)
 
 Unconfirmed
 -----------
+
+None at the moment.
