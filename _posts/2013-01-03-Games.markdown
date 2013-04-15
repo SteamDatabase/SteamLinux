@@ -12,6 +12,7 @@ Games confirmed to be working
 - [Altitude](http://store.steampowered.com/app/41300/)
 - [Amnesia: The Dark Descent](http://store.steampowered.com/app/57300/)
 - [And Yet It Moves](http://store.steampowered.com/app/18700/)
+- [Anna](http://store.steampowered.com/app/217690/)
 - [Anodyne](http://store.steampowered.com/app/234900/)
 > Requires Adobe AIR, see [this](http://steamcommunity.com/games/anodyne/announcements/detail/1731905815482640375) for instructions.
 
@@ -134,4 +135,5 @@ Games confirmed to be working
 - [Waveform](http://store.steampowered.com/app/204180/)
 - [World of Goo](http://store.steampowered.com/app/22000/)
 - [X3: Reunion](http://store.steampowered.com/app/2810/)
+- [X3: Terran Conflict](http://store.steampowered.com/app/2820/)
 - [Zen Bound 2](http://store.steampowered.com/app/61600/)

@@ -29,7 +29,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Air Conflicts: Pacific Carriers](http://store.steampowered.com/app/214910/)
 - [Altitude](http://store.steampowered.com/app/41300/)
 - [Analogue: A Hate Story](http://store.steampowered.com/app/209370/)
-- [Anna](http://store.steampowered.com/app/217690/)
 - [Awesomenauts](http://store.steampowered.com/app/204300/)
 - [BIT.TRIP BEAT](http://store.steampowered.com/app/63700/)
 - [BIT.TRIP RUNNER](http://store.steampowered.com/app/63710/)
@@ -46,7 +45,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [The Binding of Isaac](http://store.steampowered.com/app/113200/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
-- [X3: Terran Conflict](http://store.steampowered.com/app/2820/)
 
 Unconfirmed
 -----------
