@@ -43,8 +43,9 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
 - [Octodad: Dadliest Catch](http://store.steampowered.com/app/224480/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
-- [The Binding of Isaac](http://store.steampowered.com/app/113200/)
+- [Starseed Pilgrim](http://store.steampowered.com/app/230980/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
+- [The Binding of Isaac](http://store.steampowered.com/app/113200/)
 
 Unconfirmed
 -----------
