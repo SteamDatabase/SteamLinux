@@ -12,10 +12,6 @@ categories: [other]
 > Q1 2013
 [source](http://steamcommunity.com/sharedfiles/filedetails/updates/93959913/1358169619)
 
-- [Euro Truck Simulator 2](http://store.steampowered.com/app/227300/)
-> Finally today we see the light at the end of the tunnel - Euro Truck Simulator 2 Linux port is almost finished. Very soon we should be able to start beta testing it.
-[source](http://blog.scssoft.com/2013/01/linux-is-close.html)
-
 - [Folk Tale](http://steamcommunity.com/sharedfiles/filedetails/?id=92993746)
 > Q1 2013
 [source](http://www.overclockers.com/lickstarter-and-gam-development-highlighting-the-demand-for-linux-gaming)

@@ -31,10 +31,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 > Eufloria HD will be PC/Mac/Linux, probably summer 2013. ... it will be on Steam.
 [source](http://steamcommunity.com/app/41210/discussions/0/864951022580397498/#c846944052733617314)
 
-- [Euro Truck Simulator 2](http://store.steampowered.com/app/227300/)
-> Speaking about failing with time estimates, we are tempted to claim that the Linux version of ETS2 is now less than two weeks away from being ready for release. (March 18, 2013)
-[source](http://blog.scssoft.com/2013/03/scania-tds-on-mac-app-store.html)
-
 - [Garry's Mod](http://store.steampowered.com/app/4000/)
 > Awaiting on the Awesomium Linux/Mac versions for release.
 [source](https://twitter.com/garrynewman/status/316860260541427712)
