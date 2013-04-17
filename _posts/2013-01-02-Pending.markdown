@@ -41,6 +41,7 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Highborn](http://store.steampowered.com/app/209850)
 - [Kinetic Void](http://store.steampowered.com/app/227160/)
 - [LIMBO](http://store.steampowered.com/app/48000/)
+- [Little Inferno](http://store.steampowered.com/app/221260/)
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
 - [Octodad: Dadliest Catch](http://store.steampowered.com/app/224480/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
