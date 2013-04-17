@@ -44,10 +44,11 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Octodad: Dadliest Catch](http://store.steampowered.com/app/224480/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [Starseed Pilgrim](http://store.steampowered.com/app/230980/)
+- [Stealth Bastard Deluxe](http://store.steampowered.com/app/209190/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 - [The Binding of Isaac](http://store.steampowered.com/app/113200/)
 
 Unconfirmed
 -----------
 
-None at the moment.
+- [Anomaly 2 Multiplayer Beta](http://store.steampowered.com/app/209890/)
