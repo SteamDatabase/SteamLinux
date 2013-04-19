@@ -38,6 +38,7 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Brütal Legend](http://store.steampowered.com/app/225260/)
 - [Crayon Physics Deluxe](http://store.steampowered.com/app/26900/)
 - [Dustforce](http://store.steampowered.com/app/65300/)
+- [English Country Tune](http://store.steampowered.com/app/207570/)
 - [Gish](http://store.steampowered.com/app/9500/)
 - [Highborn](http://store.steampowered.com/app/209850)
 - [Kinetic Void](http://store.steampowered.com/app/227160/)
