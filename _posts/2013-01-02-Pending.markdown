@@ -49,7 +49,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [Starseed Pilgrim](http://store.steampowered.com/app/230980/)
 - [Stealth Bastard Deluxe](http://store.steampowered.com/app/209190/)
-- [Surgeon Simulator 2013](http://store.steampowered.com/app/233720/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 - [The Binding of Isaac](http://store.steampowered.com/app/113200/)
 
