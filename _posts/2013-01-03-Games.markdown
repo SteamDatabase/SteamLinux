@@ -68,6 +68,7 @@ Games confirmed to be working
 - [iBomber Attack](http://store.steampowered.com/app/218660/)
 - [iBomber Defense Pacific](http://store.steampowered.com/app/206690/)
 - [Intrusion 2](http://store.steampowered.com/app/214970/) [Broken overlay](#right_info)
+- [Kairo](http://store.steampowered.com/app/233230/)
 - [Kentucky Route Zero](http://store.steampowered.com/app/231200/)
 - [Kerbal Space Program](http://store.steampowered.com/app/220200/)
 - [Killing Floor](http://store.steampowered.com/app/1250/)
