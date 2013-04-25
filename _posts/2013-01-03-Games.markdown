@@ -72,6 +72,7 @@ Games confirmed to be working
 - [Kentucky Route Zero](http://store.steampowered.com/app/231200/)
 - [Kerbal Space Program](http://store.steampowered.com/app/220200/)
 - [Killing Floor](http://store.steampowered.com/app/1250/)
+- [Kinetic Void](http://store.steampowered.com/app/227160/)
 - [Lume](http://store.steampowered.com/app/105100/) [Broken overlay](#right_info)
 - [Magical Diary](http://store.steampowered.com/app/211340/) [Broken overlay](#right_info)
 - [Mare Nostrum](http://store.steampowered.com/app/1230/)
