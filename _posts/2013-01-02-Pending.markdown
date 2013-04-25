@@ -54,6 +54,5 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 Unconfirmed
 -----------
 
-- [Anomaly 2 Multiplayer Beta](http://store.steampowered.com/app/209890/)
 - [The 39 Steps](http://store.steampowered.com/app/234940/)
 - [Shank](http://store.steampowered.com/app/6120/)
