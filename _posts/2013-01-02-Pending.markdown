@@ -9,6 +9,8 @@ This is the list of games that are marked as downloadable for GNU/Linux, but are
 
 Entries with Missing Executable
 -------------------------------
+
+- [BIT.TRIP VOID](http://store.steampowered.com/app/205070/)
 - [Euro Truck Simulator 2](http://store.steampowered.com/app/227300/)
 > To play, you have to opt-in into the open beta.
 
@@ -17,11 +19,6 @@ Entries with Missing Executable
 
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
-
-Entries with Invalid App Config
--------------------------------
-
-- [BIT.TRIP VOID](http://store.steampowered.com/app/205070/)
 
 Entries with Linux Listed
 ------------------------------
@@ -41,19 +38,21 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [English Country Tune](http://store.steampowered.com/app/207570/)
 - [Gish](http://store.steampowered.com/app/9500/)
 - [Highborn](http://store.steampowered.com/app/209850)
-- [Kinetic Void](http://store.steampowered.com/app/227160/)
 - [LIMBO](http://store.steampowered.com/app/48000/)
 - [Little Inferno](http://store.steampowered.com/app/221260/)
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
 - [Monster Loves You!](http://store.steampowered.com/app/226740/)
 - [Octodad: Dadliest Catch](http://store.steampowered.com/app/224480/)
+- [Prison Architect](http://store.steampowered.com/app/233450/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [Starseed Pilgrim](http://store.steampowered.com/app/230980/)
 - [Stealth Bastard Deluxe](http://store.steampowered.com/app/209190/)
-- [TRAUMA](http://store.steampowered.com/app/98100/)
 - [The Binding of Isaac](http://store.steampowered.com/app/113200/)
+- [TRAUMA](http://store.steampowered.com/app/98100/)
 
 Unconfirmed
 -----------
 
 - [Anomaly 2 Multiplayer Beta](http://store.steampowered.com/app/209890/)
+- [Kinetic Void](http://store.steampowered.com/app/227160/)
+- [The 39 Steps](http://store.steampowered.com/app/234940/)
