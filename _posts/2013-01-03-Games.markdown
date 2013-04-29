@@ -109,6 +109,7 @@ Games confirmed to be working
 > Achievements do not unlock.
 [source](http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741)
 
+- [Stealth Bastard Deluxe](http://store.steampowered.com/app/209190/)
 - [Steel Storm: Burning Retribution](http://store.steampowered.com/app/96200/)
 > Overlay doesn't work with 64-bit version.
 
