@@ -47,7 +47,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Prison Architect](http://store.steampowered.com/app/233450/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [Starseed Pilgrim](http://store.steampowered.com/app/230980/)
-- [Stealth Bastard Deluxe](http://store.steampowered.com/app/209190/)
 - [The Binding of Isaac](http://store.steampowered.com/app/113200/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 - [Wargame: Airland Battle](http://store.steampowered.com/app/222750/)
