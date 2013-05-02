@@ -86,6 +86,7 @@ Games confirmed to be working
 - [Penumbra: Black Plague](http://store.steampowered.com/app/22120/)
 - [Penumbra: Overture](http://store.steampowered.com/app/22180/)
 - [Penumbra: Requiem](http://store.steampowered.com/app/22140/)
+- [Portal](http://store.steampowered.com/app/400/)
 - [POSTAL](http://store.steampowered.com/app/232770/)
 - [POSTAL 2 Complete](http://store.steampowered.com/app/223470/)
 - [Proteus](http://store.steampowered.com/app/219680/)
