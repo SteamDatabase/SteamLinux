@@ -57,4 +57,5 @@ Unconfirmed
 - [Costume Quest](http://store.steampowered.com/app/115100/)
 - [The 39 Steps](http://store.steampowered.com/app/234940/)
 - [Shank](http://store.steampowered.com/app/6120/)
+- [Stacking](http://store.steampowered.com/app/115110/)
 
