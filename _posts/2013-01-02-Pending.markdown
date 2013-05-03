@@ -54,6 +54,7 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 Unconfirmed
 -----------
 
+- [Costume Quest](http://store.steampowered.com/app/115100/)
 - [The 39 Steps](http://store.steampowered.com/app/234940/)
 - [Shank](http://store.steampowered.com/app/6120/)
 
