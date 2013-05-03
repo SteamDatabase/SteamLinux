@@ -71,6 +71,7 @@ Games confirmed to be working
 - [iBomber Attack](http://store.steampowered.com/app/218660/)
 - [iBomber Defense Pacific](http://store.steampowered.com/app/206690/)
 - [Intrusion 2](http://store.steampowered.com/app/214970/) [Broken overlay](#right_info)
+- [Jack Lumber](http://store.steampowered.com/app/220900/)
 - [Kairo](http://store.steampowered.com/app/233230/)
 - [Kentucky Route Zero](http://store.steampowered.com/app/231200/)
 - [Kerbal Space Program](http://store.steampowered.com/app/220200/)
@@ -94,6 +95,7 @@ Games confirmed to be working
 > Achievements do not unlock.
 
 - [Puddle](http://store.steampowered.com/app/222140/)
+- [Receiver](http://store.steampowered.com/app/234190/)
 - [Red Orchestra: Ostfront 41-15](http://store.steampowered.com/app/1200/)
 - [Revenge of the Titans](http://store.steampowered.com/app/93200/)
 - [Ricochet](http://store.steampowered.com/app/60/)
