@@ -77,6 +77,10 @@ Games confirmed to be working
 - [Kerbal Space Program](http://store.steampowered.com/app/220200/)
 - [Killing Floor](http://store.steampowered.com/app/1250/)
 - [Kinetic Void](http://store.steampowered.com/app/227160/)
+- [Left 4 Dead 2](http://store.steampowered.com/app/550/)
+> Currently in public beta as a separate app that appears as "Left 4 Dead 2 Beta" in the library.
+[source](http://www.l4d.com/blog/post.php?id=10534)
+
 - [Lume](http://store.steampowered.com/app/105100/) [Broken overlay](#right_info)
 - [Magical Diary](http://store.steampowered.com/app/211340/) [Broken overlay](#right_info)
 - [Mare Nostrum](http://store.steampowered.com/app/1230/)
