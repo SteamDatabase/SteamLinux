@@ -120,8 +120,13 @@ section ul li:nth-child(odd) {
 	background: #1F2022;
 }
 
-#info section {
-	padding: 10px;
+.information section {
+	padding: 20px;
+}
+
+.information p {
+	padding: 0;
+	margin: 5px 0;
 }
 
 blockquote {
@@ -129,7 +134,7 @@ blockquote {
 }
 
 blockquote a,
-#info a {
+.information a {
 	color: #529CDE;
 }
 

@@ -17,9 +17,9 @@ Entries with Missing Executable
 > To play, you have to opt-in into the open beta.
 
 - [INSURGENCY](http://store.steampowered.com/app/222880/)
+- [Lugaru HD](http://store.steampowered.com/app/25010/)
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
-- [Lugaru HD](http://store.steampowered.com/app/25010/)
 
 Entries with Linux Listed
 ------------------------------
