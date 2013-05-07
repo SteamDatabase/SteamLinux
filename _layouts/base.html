@@ -7,7 +7,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>{% if page.title != site.site_title %}{{ page.title }} · {% endif %}{{ site.site_title }}</title>
+		<title>{{ site.site_title }}</title>
 
 		<link rel="stylesheet" href="/css/style.css">
 		<link rel="shortcut icon" href="/favicon.ico">
@@ -21,28 +21,15 @@
 			</hgroup>
 		</header>
 
-		<nav>
-			<ul>
-				<li><a href="/">Home</a>
-					<ul>
-					{% for post in site.categories.steamlist %}
-					<li><a href="/#{{ post.anchor }}">{{ post.title }}</a></li>
-					{% endfor %}
-					</ul>
-				</li>
-				<li><a href="#">Other Lists</a>
-					<ul>
-					{% for post in site.categories.other %}
-					<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-					{% endfor %}
-					</ul>
-				</li>
-				<li class="mobile-hide"><a href="https://github.com/SteamDatabase/SteamLinux">Source/Contribute</a></li>
-				<li><a href="http://steamcommunity.com/groups/steamlug">Steam Group</a></li>
-			</ul>
-		</nav>
-
 		<section>
+			<article>
+				<section>
+					<p>This list is mainly used as community-contributed source for Steam Database's <a href="http://steamdb.info/linux/">linux list</a>.</p>
+					<p>Visit <a href="http://steamcommunity.com/groups/steamlug">Linux User Group</a> on Steam for discussions related to Steam on Linux.</p>
+					<p>If you want to contribute to this list, check out <a href="https://github.com/SteamDatabase/SteamLinux">GitHub</a>.
+				</section>
+			</article>
+
 			{{ content }}
 		</section>
 

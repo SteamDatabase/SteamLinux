@@ -2,10 +2,6 @@
 layout: base
 title: Games, on Steam for Linux
 ---
-{% for post in site.categories.information %}
-{% include info.html %}
-{% endfor %}
-
-{% for post in site.categories.steamlist %}
+{% for post in site.posts %}
 {% include post.html %}
 {% endfor %}

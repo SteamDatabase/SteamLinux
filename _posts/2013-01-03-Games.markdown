@@ -2,7 +2,6 @@
 layout: post
 title: Games
 anchor: working
-categories: [steamlist]
 ---
 
 Games confirmed to be working

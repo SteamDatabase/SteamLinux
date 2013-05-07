@@ -34,7 +34,6 @@ li p {
 	padding: 0;
 }
 
-body > nav,
 body > footer,
 body > header,
 body > section {
@@ -58,8 +57,7 @@ article h1 a {
 	color: #EEE;
 }
 
-article > header,
-nav > ul {
+article > header {
 	display: block;
 	height: 40px;
 	line-height: 40px;
@@ -160,62 +158,12 @@ blockquote p:after {
 	content: close-quote;
 }
 
-nav > ul {
-	padding-left: 10px;
-}
-
-nav > ul > li > a,
-nav li:hover ul li a {
-	height: 100%;
-	width: 100%;
-	display: block;
-}
-
-nav > ul > li > a:hover,
-nav ul li:hover {
-	background: #333;
-	text-decoration: none;
-}
-
-nav > ul > li {
-	display: inline;
-	height: 40px;
-	float: left;
-	list-style: none;
-	padding: 0 10px;
-	position: relative;
-}
-
-nav li ul {
-	display: none;
-	position: absolute;
-	left: 0;
-	background: #111;
-}
-
-nav li:hover ul {
-	display: block;
-	padding: 0 10px;
-}
-
-nav li li {
-	margin: 0 -10px;
-	padding: 0 10px;
-	list-style: none;
-	display: list-item;
-	width: 120px;
-}
-
 a[href="#right_info"] {
 	float: right;
 	color: #E60000;
 }
 
 @media (max-width: 480px) {
-	.mobile-hide {
-		display: none;
-	}
-	
 	footer > span {
 		display: block;
 	}

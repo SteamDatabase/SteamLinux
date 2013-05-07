@@ -2,7 +2,6 @@
 layout: post
 title: Pending
 anchor: pending
-categories: [steamlist]
 ---
 
 This is the list of games that are marked as downloadable for GNU/Linux, but are not working or configured properly.
@@ -20,6 +19,7 @@ Entries with Missing Executable
 - [INSURGENCY](http://store.steampowered.com/app/222880/)
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
+- [Lugaru HD](http://store.steampowered.com/app/25010/)
 
 Entries with Linux Listed
 ------------------------------
@@ -41,7 +41,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Highborn](http://store.steampowered.com/app/209850)
 - [LIMBO](http://store.steampowered.com/app/48000/)
 - [Little Inferno](http://store.steampowered.com/app/221260/)
-- [Lugaru HD](http://store.steampowered.com/app/25010/)
 - [Monster Loves You!](http://store.steampowered.com/app/226740/)
 - [Octodad: Dadliest Catch](http://store.steampowered.com/app/224480/)
 - [Prison Architect](http://store.steampowered.com/app/233450/)

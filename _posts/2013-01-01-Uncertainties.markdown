@@ -2,7 +2,6 @@
 layout: post
 title: Uncertainties
 anchor: uncertainties
-categories: [steamlist]
 ---
 
 Probably coming
