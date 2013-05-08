@@ -19,6 +19,7 @@ Entries with Missing Executable
 - [INSURGENCY](http://store.steampowered.com/app/222880/)
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
 - [Scoregasm](http://store.steampowered.com/app/202410/)
+- [Shank](http://store.steampowered.com/app/6120/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 
 Entries with Linux Listed
@@ -33,7 +34,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [BIT.TRIP RUNNER](http://store.steampowered.com/app/63710/)
 - [Botanicula](http://store.steampowered.com/app/207690/)
 - [Braid](http://store.steampowered.com/app/26800/)
-- [Brütal Legend](http://store.steampowered.com/app/225260/)
 - [Crayon Physics Deluxe](http://store.steampowered.com/app/26900/)
 - [Dustforce](http://store.steampowered.com/app/65300/)
 - [English Country Tune](http://store.steampowered.com/app/207570/)
@@ -53,8 +53,5 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 Unconfirmed
 -----------
 
-- [Costume Quest](http://store.steampowered.com/app/115100/)
 - [The 39 Steps](http://store.steampowered.com/app/234940/)
-- [Shank](http://store.steampowered.com/app/6120/)
-- [Stacking](http://store.steampowered.com/app/115110/)
 

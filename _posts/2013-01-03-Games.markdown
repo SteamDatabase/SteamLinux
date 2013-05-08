@@ -23,11 +23,13 @@ Games confirmed to be working
 - [Bastion](http://store.steampowered.com/app/107100/)
 - [Beat Hazard](http://store.steampowered.com/app/49600/)
 - [BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien](http://store.steampowered.com/app/218060/)
+- [Brütal Legend](http://store.steampowered.com/app/225260/)
 - [Cave Story+](http://store.steampowered.com/app/200900/)
 - [Champions of Regnum](http://store.steampowered.com/app/222520/)
 - [Closure](http://store.steampowered.com/app/72000/)
 - [Cogs](http://store.steampowered.com/app/26500/)
 - [Conquest of Elysium 3](http://store.steampowered.com/app/211900/) [Broken overlay](#right_info)
+- [Costume Quest](http://store.steampowered.com/app/115100/)
 - [Counter-Strike: Condition Zero](http://store.steampowered.com/app/80/)
 - [Counter-Strike: Source](http://store.steampowered.com/app/240/)
 - [Counter-Strike](http://store.steampowered.com/app/10/)
@@ -96,8 +98,6 @@ Games confirmed to be working
 - [POSTAL 2 Complete](http://store.steampowered.com/app/223470/)
 - [Proteus](http://store.steampowered.com/app/219680/)
 - [Psychonauts](http://store.steampowered.com/app/3830/) [Broken overlay](#right_info)
-> Achievements do not unlock.
-
 - [Puddle](http://store.steampowered.com/app/222140/)
 - [Receiver](http://store.steampowered.com/app/234190/)
 - [Red Orchestra: Ostfront 41-15](http://store.steampowered.com/app/1200/)
@@ -116,6 +116,7 @@ Games confirmed to be working
 > Achievements do not unlock.
 [source](http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741)
 
+- [Stacking](http://store.steampowered.com/app/115110/)
 - [Stealth Bastard Deluxe](http://store.steampowered.com/app/209190/)
 - [Steel Storm: Burning Retribution](http://store.steampowered.com/app/96200/)
 > Overlay doesn't work with 64-bit version.
