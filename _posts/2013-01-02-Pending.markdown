@@ -50,6 +50,7 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [The Binding of Isaac](http://store.steampowered.com/app/113200/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 - [Wargame: Airland Battle](http://store.steampowered.com/app/222750/)
+- [War for the Overworld](http://store.steampowered.com/app/230190/)
 
 Unconfirmed
 -----------
