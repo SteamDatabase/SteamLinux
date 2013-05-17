@@ -16,9 +16,7 @@ Games confirmed to be working
 > Requires Adobe AIR, see [this](http://steamcommunity.com/games/anodyne/announcements/detail/1731905815482640375) for instructions.
 
 - [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
-- [Anomaly 2 Multiplayer Beta](http://store.steampowered.com/app/209890/)
-> Private beta to anybody that can get a key; has some deadlock issues ‐ beta!
-
+- [Anomaly 2](http://store.steampowered.com/app/209890/)
 - [Aquaria](http://store.steampowered.com/app/24420/)
 - [Bastion](http://store.steampowered.com/app/107100/)
 - [Beat Hazard](http://store.steampowered.com/app/49600/)
