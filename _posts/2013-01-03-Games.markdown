@@ -16,7 +16,7 @@ Games confirmed to be working
 > Requires Adobe AIR, see [this](http://steamcommunity.com/games/anodyne/announcements/detail/1731905815482640375) for instructions.
 
 - [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
-- [Anomaly 2](http://store.steampowered.com/app/209890/)
+- [Anomaly 2](http://store.steampowered.com/app/236730/)
 - [Aquaria](http://store.steampowered.com/app/24420/)
 - [Bastion](http://store.steampowered.com/app/107100/)
 - [Beat Hazard](http://store.steampowered.com/app/49600/)
@@ -153,4 +153,5 @@ Games confirmed to be working
 - [World of Goo](http://store.steampowered.com/app/22000/)
 - [X3: Reunion](http://store.steampowered.com/app/2810/)
 - [X3: Terran Conflict](http://store.steampowered.com/app/2820/)
+- [X3: Albion Prelude](http://store.steampowered.com/app/201310/)
 - [Zen Bound 2](http://store.steampowered.com/app/61600/)
