@@ -40,6 +40,7 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Gish](http://store.steampowered.com/app/9500/)
 - [Highborn](http://store.steampowered.com/app/209850)
 - [Hotline Miami](http://store.steampowered.com/app/219150/)
+- [Legend of Grimrock](http://store.steampowered.com/app/207170/)
 - [LIMBO](http://store.steampowered.com/app/48000/)
 - [Little Inferno](http://store.steampowered.com/app/221260/)
 - [Monster Loves You!](http://store.steampowered.com/app/226740/)
