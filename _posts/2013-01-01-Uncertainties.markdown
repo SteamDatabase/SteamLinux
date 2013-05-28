@@ -30,10 +30,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 > Eufloria HD will be PC/Mac/Linux, probably summer 2013. ... it will be on Steam.
 [source](http://steamcommunity.com/app/41210/discussions/0/864951022580397498/#c846944052733617314)
 
-- [Garry's Mod](http://store.steampowered.com/app/4000/)
-> Awaiting on the Awesomium Linux/Mac versions for release.
-[source](https://twitter.com/garrynewman/status/316860260541427712)
-
 - [Hacker Evolution: Untold](http://store.steampowered.com/app/70110/)
 > We are working on it right now. It will be out as soon as possible and not later than the end of this month.
 

@@ -33,7 +33,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 
 - [Air Conflicts: Pacific Carriers](http://store.steampowered.com/app/214910/)
 - [Analogue: A Hate Story](http://store.steampowered.com/app/209370/)
-- [Awesomenauts](http://store.steampowered.com/app/204300/)
 - [BIT.TRIP BEAT](http://store.steampowered.com/app/63700/)
 - [BIT.TRIP RUNNER](http://store.steampowered.com/app/63710/)
 - [Botanicula](http://store.steampowered.com/app/207690/)
@@ -41,6 +40,7 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Crayon Physics Deluxe](http://store.steampowered.com/app/26900/)
 - [Dustforce](http://store.steampowered.com/app/65300/)
 - [English Country Tune](http://store.steampowered.com/app/207570/)
+- [Garry's Mod](http://store.steampowered.com/app/4000/)
 - [Gish](http://store.steampowered.com/app/9500/)
 - [Highborn](http://store.steampowered.com/app/209850)
 - [LIMBO](http://store.steampowered.com/app/48000/)
@@ -58,5 +58,4 @@ Unconfirmed
 -----------
 
 - [The 39 Steps](http://store.steampowered.com/app/234940/)
-- [Thomas Was Alone](http://store.steampowered.com/app/220780/)
 
