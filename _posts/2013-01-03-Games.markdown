@@ -85,6 +85,7 @@ Games confirmed to be working
 [source](http://www.l4d.com/blog/post.php?id=10534)
 
 - [Left 4 Dead 2 Beta](http://store.steampowered.com/app/223530/)
+- [Legend of Grimrock](http://store.steampowered.com/app/207170/)
 - [Lume](http://store.steampowered.com/app/105100/) [Broken overlay](#right_info)
 - [Magical Diary](http://store.steampowered.com/app/211340/) [Broken overlay](#right_info)
 - [Mare Nostrum](http://store.steampowered.com/app/1230/)
