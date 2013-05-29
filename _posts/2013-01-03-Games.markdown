@@ -23,6 +23,7 @@ Games confirmed to be working
 - [Beat Hazard](http://store.steampowered.com/app/49600/)
 - [BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien](http://store.steampowered.com/app/218060/)
 - [Brütal Legend](http://store.steampowered.com/app/225260/)
+- [Capsized](http://store.steampowered.com/app/95300/)
 - [Cave Story+](http://store.steampowered.com/app/200900/)
 - [Champions of Regnum](http://store.steampowered.com/app/222520/)
 - [Closure](http://store.steampowered.com/app/72000/)
