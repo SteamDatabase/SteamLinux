@@ -42,10 +42,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Shadowgrounds Survivor](http://store.steampowered.com/app/11200/)
 > See Shadowgrounds.
 
-- [Shatter](http://store.steampowered.com/app/20820/)
-> Eventually - our guys are pretty tied up just at the moment, but that's the plan.
-[source](https://twitter.com/sidhenz/status/288123060098326528)
-
 - [Strike Suit Zero](http://store.steampowered.com/app/209540/)
 > Developer Born Ready Games is working on Mac and Linux versions of Strike Suit Zero and it will support the Oculus Rift VR headset, all due out later this year.
 [source](http://www.joystiq.com/2013/01/23/strike-suit-zero-ignores-the-countdown-out-now-for-pc/)
