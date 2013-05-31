@@ -9,6 +9,7 @@ This is the list of games that are marked as downloadable for GNU/Linux, but are
 Entries with Missing Executable
 -------------------------------
 
+- [Avadon: The Black Fortress](http://store.steampowered.com/app/112100/)
 - [BIT.TRIP VOID](http://store.steampowered.com/app/205070/)
 - [Euro Truck Simulator 2](http://store.steampowered.com/app/227300/)
 > To play, you have to opt-in into the open beta.
