@@ -18,10 +18,10 @@ Entries with Missing Executable
 > To play, you have to opt-in into the open beta.
 
 - [Garry's Mod](http://store.steampowered.com/app/4000/)
-> Beta password is Bloxwich.
+> Beta password is **bloxwich**.
 
 - [Hotline Miami](http://store.steampowered.com/app/219150/)
-> Beta password is HLM.
+> Beta password is **hlm**.
 
 - [INSURGENCY](http://store.steampowered.com/app/222880/)
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
