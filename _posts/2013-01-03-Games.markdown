@@ -54,6 +54,7 @@ Games confirmed to be working
 - [Dwarfs!?](http://store.steampowered.com/app/35480/)
 - [Dwarfs F2P](http://store.steampowered.com/app/213650/)
 - [Dynamite Jack](http://store.steampowered.com/app/202730/)
+- [English Country Tune](http://store.steampowered.com/app/207570/)
 - [Eversion](http://store.steampowered.com/app/33680/)
 - [Expeditions: Conquistador](http://store.steampowered.com/app/237430/)
 - [Frozen Synapse](http://store.steampowered.com/app/98200/)
