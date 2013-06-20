@@ -55,7 +55,15 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 Unconfirmed
 -----------
 
+- [Akaneiro: Demon Hunters](http://store.steampowered.com/app/230310/)
+- [Castle Story](http://store.steampowered.com/app/227860/)
+- [Europa Universalis IV](http://store.steampowered.com/app/236850/)
 - [Gateways](http://store.steampowered.com/app/216290/)
+- [Knights of Pen and Paper](http://store.steampowered.com/app/231740/)
 - [Mark of the Ninja](http://store.steampowered.com/app/214560/)
 - [Painkiller Hell & Damnation](http://store.steampowered.com/app/214870/)
+- [Planetary Annihilation](http://store.steampowered.com/app/233250/)
+- [The Raven - Legacy of a Master Thief](http://store.steampowered.com/app/233370/)
 - [Xenonauts](http://store.steampowered.com/app/223830/)
+
+
