@@ -22,6 +22,10 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Blocks That Matter](http://store.steampowered.com/app/111800/)
 > We are currently talking with Valve to get access to the beta Steam Client. We were busy and missed the beta launch :( But I think on Monday we will have access to the client and the libraries!
 
+- [Dota 2](http://store.steampowered.com/app/570/)
+> The Mac and Linux builds are currently in testing and will be available soon.
+[source](http://www.dota2.com/thebetaisover/)
+
 - [Eschalon](http://store.steampowered.com/app/25600/)
 > We're working on the [Steam] Linux version now.
 [source](http://basiliskgames.com/forums/viewtopic.php?f=2&t=6351)
