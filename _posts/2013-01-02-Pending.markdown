@@ -56,7 +56,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 Unconfirmed
 -----------
 
-- [Akaneiro: Demon Hunters](http://store.steampowered.com/app/230310/)
 - [Europa Universalis IV](http://store.steampowered.com/app/236850/)
 - [Mark of the Ninja](http://store.steampowered.com/app/214560/)
 - [Painkiller Hell & Damnation](http://store.steampowered.com/app/214870/)
