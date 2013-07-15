@@ -48,6 +48,7 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [LIMBO](http://store.steampowered.com/app/48000/)
 - [Monster Loves You!](http://store.steampowered.com/app/226740/)
 - [Octodad: Dadliest Catch](http://store.steampowered.com/app/224480/)
+- [RUSH](http://store.steampowered.com/app/38720/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 - [The Binding of Isaac](http://store.steampowered.com/app/113200/)
