@@ -95,6 +95,7 @@ Games confirmed to be working
 
 - [Left 4 Dead 2 Beta](http://store.steampowered.com/app/223530/)
 - [Legend of Grimrock](http://store.steampowered.com/app/207170/)
+- [Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded](http://store.steampowered.com/app/231910/)
 - [Little Inferno](http://store.steampowered.com/app/221260/)
 - [Lugaru HD](http://store.steampowered.com/app/25010/)
 - [Lume](http://store.steampowered.com/app/105100/) [Broken overlay](#right_info)
