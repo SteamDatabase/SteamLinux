@@ -48,6 +48,7 @@ Games confirmed to be working
 > Steamworks features are unavailable.
 
 - [Don't Starve](http://store.steampowered.com/app/219740/)
+- [Dota 2](http://store.steampowered.com/app/570/)
 - [Dota 2 Test](http://store.steampowered.com/app/205790/)
 - [Droid Assault](http://store.steampowered.com/app/219200/)
 - [Dungeon Defenders](http://store.steampowered.com/app/65800/)
@@ -90,9 +91,6 @@ Games confirmed to be working
 - [Kinetic Void](http://store.steampowered.com/app/227160/)
 - [Knights of Pen and Paper](http://store.steampowered.com/app/231740/)
 - [Left 4 Dead 2](http://store.steampowered.com/app/550/)
-> Currently in public beta as a separate app that appears as "Left 4 Dead 2 Beta" in the library.
-[source](http://www.l4d.com/blog/post.php?id=10534)
-
 - [Left 4 Dead 2 Beta](http://store.steampowered.com/app/223530/)
 - [Legend of Grimrock](http://store.steampowered.com/app/207170/)
 - [Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded](http://store.steampowered.com/app/231910/)
