@@ -12,7 +12,6 @@ Entries with Missing Executable
 - [AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome](http://store.steampowered.com/app/15560/)
 - [BIT.TRIP VOID](http://store.steampowered.com/app/205070/)
 - [Castle Story](http://store.steampowered.com/app/227860/)
-- [EDGE](http://store.steampowered.com/app/38740/)
 - [Euro Truck Simulator 2](http://store.steampowered.com/app/227300/)
 > To play, you have to opt-in into the open beta.
 
@@ -26,7 +25,6 @@ Entries with Missing Executable
 > Beta password is **hlm**.
 
 - [INSURGENCY](http://store.steampowered.com/app/222880/)
-- [RUSH](http://store.steampowered.com/app/38720/)
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 - [Starseed Pilgrim](http://store.steampowered.com/app/230980/)
