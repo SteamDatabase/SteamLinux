@@ -26,6 +26,10 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 > We're working on the [Steam] Linux version now.
 [source](http://basiliskgames.com/forums/viewtopic.php?f=2&t=6351)
 
+- [FEZ](http://store.steampowered.com/app/224760/)
+> I am now working on FEZ for Linux.
+[source](https://twitter.com/flibitijibibo/status/354008490760605696)
+
 - [Eufloria](http://store.steampowered.com/app/41210/)
 > Eufloria HD will be PC/Mac/Linux, probably summer 2013. ... it will be on Steam.
 [source](http://steamcommunity.com/app/41210/discussions/0/864951022580397498/#c846944052733617314)
