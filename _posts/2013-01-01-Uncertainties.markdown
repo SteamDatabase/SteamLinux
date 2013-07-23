@@ -32,6 +32,9 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 
 - [Hacker Evolution: Untold](http://store.steampowered.com/app/70110/)
 > We are working on it right now. It will be out as soon as possible and not later than the end of this month.
+- [Monaco](http://store.steampowered.com/app/113020)
+> Linux port is definitely happening guys. Just a matter of time now.
+[source](http://steamcommunity.com/app/113020/discussions/0/810920513840121263/?tscn=1374607710#p5)
 
 - [Natural Selection 2](http://store.steampowered.com/app/4920/)
 > This is real, we are aiming for true SteamPlay Windows / Linux / Mac support.
