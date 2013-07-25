@@ -62,5 +62,7 @@ Unconfirmed
 - [Mark of the Ninja](http://store.steampowered.com/app/214560/)
 - [Painkiller Hell & Damnation](http://store.steampowered.com/app/214870/)
 - [Planetary Annihilation](http://store.steampowered.com/app/233250/)
+- [Shadowrun Returns](http://store.steampowered.com/app/234650/)
+- [Teleglitch: Die More Edition](http://store.steampowered.com/app/234390/)
 - [Worms Reloaded](http://store.steampowered.com/app/22600/)
 - [Xenonauts](http://store.steampowered.com/app/223830/)
