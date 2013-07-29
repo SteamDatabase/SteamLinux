@@ -59,6 +59,7 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 Unconfirmed
 -----------
 
+- [Duke Nukem 3D: Megaton Edition](http://store.steampowered.com/app/225140/)
 - [Europa Universalis IV](http://store.steampowered.com/app/236850/)
 - [Mark of the Ninja](http://store.steampowered.com/app/214560/)
 - [Painkiller Hell & Damnation](http://store.steampowered.com/app/214870/)
