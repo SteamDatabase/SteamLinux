@@ -29,7 +29,6 @@ Entries with Missing Executable
 
 - [INSURGENCY](http://store.steampowered.com/app/222880/)
 - [Scoregasm](http://store.steampowered.com/app/202410/)
-- [Snuggle Truck](http://store.steampowered.com/app/111100/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 - [Starseed Pilgrim](http://store.steampowered.com/app/230980/)
 - [War for the Overworld](http://store.steampowered.com/app/230190/)

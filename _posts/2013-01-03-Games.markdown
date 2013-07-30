@@ -132,6 +132,7 @@ Games confirmed to be working
 - [Shank](http://store.steampowered.com/app/6120/)
 - [Shank 2](http://store.steampowered.com/app/102840/)
 - [Shatter](http://store.steampowered.com/app/20820/)
+- [Snuggle Truck](http://store.steampowered.com/app/111100/)
 - [Solar 2](http://store.steampowered.com/app/97000/)
 - [Space Pirates and Zombies](http://store.steampowered.com/app/107200/)
 - [SpaceChem](http://store.steampowered.com/app/92800/)
