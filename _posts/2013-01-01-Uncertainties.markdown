@@ -43,6 +43,10 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Offspring Fling!](http://store.steampowered.com/app/211360/)
 > I would say its about 50/50 right now...I need to change how the final application is built. I basically need to wrap Offspring Fling with software to make it into a Linux executable, but currently I'm having some problems getting it to work for unknown reasons... until I can work out these bugs, I can't get the Linux version onto Steam.
 
+- [Q.U.B.E.](http://store.steampowered.com/app/203730/)
+> We are currently working on a Linux port of QUBE, keep a look out in Q1/Q2 2013!
+[source](http://steamcommunity.com/app/203730/discussions/0/828925849437175688/)
+
 - [Reus](http://store.steampowered.com/app/222730/)
 > Through this topic I want to officially announce that we are working on a Mac and Linux version of Reus.
 [source](http://forums.abbeygames.com/viewtopic.php?f=18&t=587)
