@@ -61,10 +61,16 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 Unconfirmed
 -----------
 
+- [Centration](http://store.steampowered.com/app/243300/)
+- [Clockwork Empires](http://store.steampowered.com/app/224740/)
+- [Equate Game](http://store.steampowered.com/app/224880/)
 - [Europa Universalis IV](http://store.steampowered.com/app/236850/)
 - [Mark of the Ninja](http://store.steampowered.com/app/214560/)
+- [No More Room in Hell](http://store.steampowered.com/app/224260/)
+- [Obsidian Conflict](http://store.steampowered.com/app/17750/)
 - [Painkiller Hell & Damnation](http://store.steampowered.com/app/214870/)
 - [Planetary Annihilation](http://store.steampowered.com/app/233250/)
 - [Shadowrun Returns](http://store.steampowered.com/app/234650/)
+- [Shadow Warrior Classic Redux](http://store.steampowered.com/app/225160/)
 - [Worms Reloaded](http://store.steampowered.com/app/22600/)
 - [Xenonauts](http://store.steampowered.com/app/223830/)
