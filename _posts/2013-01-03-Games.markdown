@@ -64,6 +64,7 @@ Games confirmed to be working
 - [Expeditions: Conquistador](http://store.steampowered.com/app/237430/)
 - [Frozen Synapse](http://store.steampowered.com/app/98200/)
 - [FTL: Faster Than Light](http://store.steampowered.com/app/212680/)
+- [Garry's Mod](http://store.steampowered.com/app/4000/)
 - [Galcon Fusion](http://store.steampowered.com/app/44200/)
 - [Gateways](http://store.steampowered.com/app/216290/)
 - [Gear Up](http://store.steampowered.com/app/214420/) [Broken overlay](#right_info)

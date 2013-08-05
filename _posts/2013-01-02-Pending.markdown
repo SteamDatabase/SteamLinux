@@ -21,9 +21,6 @@ Entries with Missing Executable
 - [Faerie Solitaire](http://store.steampowered.com/app/38600/)
 > To play, you have to opt-in into the open beta.
 
-- [Garry's Mod](http://store.steampowered.com/app/4000/)
-> Beta password is **bloxwich**.
-
 - [Hotline Miami](http://store.steampowered.com/app/219150/)
 > Beta password is **hlm**.
 
