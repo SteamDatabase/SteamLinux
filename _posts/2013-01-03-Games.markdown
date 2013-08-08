@@ -140,6 +140,7 @@ Games confirmed to be working
 - [Solar 2](http://store.steampowered.com/app/97000/)
 - [Space Pirates and Zombies](http://store.steampowered.com/app/107200/)
 - [SpaceChem](http://store.steampowered.com/app/92800/)
+- [Spectraball](http://store.steampowered.com/app/18300/)
 - [Spirits](http://store.steampowered.com/app/210170/)
 - [Splice](http://store.steampowered.com/app/209790/)
 > Achievements do not unlock.
@@ -149,7 +150,6 @@ Games confirmed to be working
 - [Stealth Bastard Deluxe](http://store.steampowered.com/app/209190/)
 - [Steel Storm: Burning Retribution](http://store.steampowered.com/app/96200/)
 - [Strike Suit Zero](http://store.steampowered.com/app/209540/)
-- [Spectraball](http://store.steampowered.com/app/18300/)
 - [Superbrothers: Sword & Sworcery EP](http://store.steampowered.com/app/204060/)
 - [Super Hexagon](http://store.steampowered.com/app/221640/)
 - [Surgeon Simulator 2013](http://store.steampowered.com/app/233720/) 
