@@ -49,7 +49,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Dustforce](http://store.steampowered.com/app/65300/)
 - [Eets Munchies](http://store.steampowered.com/app/214550/)
 - [Gish](http://store.steampowered.com/app/9500/)
-- [Highborn](http://store.steampowered.com/app/209850)
 - [LIMBO](http://store.steampowered.com/app/48000/)
 - [Metro: Last Light](http://store.steampowered.com/app/43160/)
 - [Monster Loves You!](http://store.steampowered.com/app/226740/)
