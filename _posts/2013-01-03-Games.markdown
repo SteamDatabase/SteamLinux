@@ -79,6 +79,7 @@ Games confirmed to be working
 - [Half-Life 2: Episode Two](http://store.steampowered.com/app/420/)
 - [Half-Life 2: Lost Coast](http://store.steampowered.com/app/340/)
 - [Half-Life 2: Deathmatch](http://store.steampowered.com/app/320/)
+- [Hammerwatch](http://store.steampowered.com/app/239070/)
 - [Harvest: Massive Encounter](http://store.steampowered.com/app/15400/)
 > May require a workaround to launch without getting stuck in a loop.
 [source](https://wiki.archlinux.org/index.php/Steam#Harvest:_Massive_Encounter)
