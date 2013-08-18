@@ -73,6 +73,7 @@ Games confirmed to be working
 - [Gear Up](http://store.steampowered.com/app/214420/) [Broken overlay](#right_info)
 - [Gratuitous Space Battles](http://store.steampowered.com/app/41800/)
 - [Guns of Icarus Online](http://store.steampowered.com/app/209080/)
+- [Gone Home](http://store.steampowered.com/app/232430/)
 - [Hacker Evolution Duality](http://store.steampowered.com/app/70120/)
 - [Half-Life](http://store.steampowered.com/app/70/)
 - [Half-Life: Blue Shift](http://store.steampowered.com/app/130/)
