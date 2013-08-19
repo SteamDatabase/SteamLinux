@@ -19,4 +19,4 @@ Credits
 - [FatCow Web Hosting](http://www.fatcow.com/) - Favicon creator.
 - And a whole lot of very helpful people! Too many to list, truthfully.
 
-Feedback is welcome, and pull requests are even more welcome. 
+Feedback is welcome, and pull requests are even more welcome.
