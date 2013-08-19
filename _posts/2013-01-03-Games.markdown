@@ -34,6 +34,7 @@ Games confirmed to be working
 - [Conquest of Elysium 3](http://store.steampowered.com/app/211900/)
 - [Costume Quest](http://store.steampowered.com/app/115100/)
 - [Counter-Strike: Condition Zero](http://store.steampowered.com/app/80/)
+- [Counter-Strike: Condition Zero Deleted Scenes](http://store.steampowered.com/app/100/)
 - [Counter-Strike: Source](http://store.steampowered.com/app/240/)
 - [Counter-Strike](http://store.steampowered.com/app/10/)
 - [Crusader Kings II](http://store.steampowered.com/app/203770/)

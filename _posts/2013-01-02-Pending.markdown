@@ -62,6 +62,7 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 Unconfirmed
 -----------
 
+- [Amnesia: A Machine for Pigs](http://store.steampowered.com/app/239200/)
 - [Centration](http://store.steampowered.com/app/243300/)
 - [Clockwork Empires](http://store.steampowered.com/app/224740/)
 - [Equate Game](http://store.steampowered.com/app/224880/)
@@ -70,5 +71,6 @@ Unconfirmed
 - [Obsidian Conflict](http://store.steampowered.com/app/17750/)
 - [Painkiller Hell & Damnation](http://store.steampowered.com/app/214870/)
 - [Shadowrun Returns](http://store.steampowered.com/app/234650/)
+- [Sir, You Are Being Hunted](http://store.steampowered.com/app/242880/)
 - [Worms Reloaded](http://store.steampowered.com/app/22600/)
 - [Xenonauts](http://store.steampowered.com/app/223830/)
