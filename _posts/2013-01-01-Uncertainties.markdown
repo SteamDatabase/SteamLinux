@@ -36,10 +36,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 > Linux port is definitely happening guys. Just a matter of time now.
 [source](http://steamcommunity.com/app/113020/discussions/0/810920513840121263/?tscn=1374607710#p5)
 
-- [Natural Selection 2](http://store.steampowered.com/app/4920/)
-> This is real, we are aiming for true SteamPlay Windows / Linux / Mac support.
-[source](http://unknownworlds.com/ns2/state-of-development-june-2013/#attachment_1507)
-
 - [Offspring Fling!](http://store.steampowered.com/app/211360/)
 > I would say its about 50/50 right now...I need to change how the final application is built. I basically need to wrap Offspring Fling with software to make it into a Linux executable, but currently I'm having some problems getting it to work for unknown reasons... until I can work out these bugs, I can't get the Linux version onto Steam.
 
