@@ -31,6 +31,7 @@ Entries with Missing Executable
 - [Shadow Warrior Classic Redux](http://store.steampowered.com/app/225160/)
 > To play, you have to opt-in into the open beta.
 
+- [Snapshot](http://store.steampowered.com/app/204220/)
 - [War for the Overworld](http://store.steampowered.com/app/230190/)
 
 Entries with Linux Listed
@@ -53,7 +54,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Metro: Last Light](http://store.steampowered.com/app/43160/)
 - [Monster Loves You!](http://store.steampowered.com/app/226740/)
 - [Octodad: Dadliest Catch](http://store.steampowered.com/app/224480/)
-- [Snapshot](http://store.steampowered.com/app/204220/)
 - [Spiral Knights](http://store.steampowered.com/app/99900/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
 - [The Binding of Isaac](http://store.steampowered.com/app/113200/)
