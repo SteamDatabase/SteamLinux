@@ -53,6 +53,10 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 - [Shadowgrounds Survivor](http://store.steampowered.com/app/11200/)
 > See Shadowgrounds.
 
+- [Skullgirls](http://store.steampowered.com/app/245170/)
+> Skullgirls is coming to Linux! 
+[source](https://twitter.com/Skullgirls/statuses/312431724871180290)
+
 - [Trine](http://store.steampowered.com/app/35700/)
 > See Shadowgrounds entry & I think Trine is a given, just needs some time (i.e. spring).
 
