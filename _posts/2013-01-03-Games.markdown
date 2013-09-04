@@ -52,9 +52,11 @@ Games confirmed to be working
 
 - [DIVO](http://store.steampowered.com/app/230760/)
 - [Don't Starve](http://store.steampowered.com/app/219740/)
+- [Door Kickers](http://store.steampowered.com/app/248610/)
 - [Dota 2](http://store.steampowered.com/app/570/)
 - [Dota 2 Test](http://store.steampowered.com/app/205790/)
 - [Droid Assault](http://store.steampowered.com/app/219200/)
+- [Duke Nukem 3D: Megaton Edition](http://store.steampowered.com/app/225140/)
 - [Dungeon Defenders](http://store.steampowered.com/app/65800/)
 - [Dungeon Hearts](http://store.steampowered.com/app/229520/)
 - [Dungeons of Dredmor](http://store.steampowered.com/app/98800/) [Broken overlay](#right_info)
@@ -90,6 +92,7 @@ Games confirmed to be working
 > May require a workaround to launch without getting stuck in a loop.
 [source](https://wiki.archlinux.org/index.php/Steam#Harvest:_Massive_Encounter)
 
+- [Hate Plus](http://steamdb.info/app/239700/)
 - [iBomber Attack](http://store.steampowered.com/app/218660/)
 - [iBomber Defense Pacific](http://store.steampowered.com/app/206690/)
 - [Intrusion 2](http://store.steampowered.com/app/214970/) [Broken overlay](#right_info)
@@ -112,6 +115,7 @@ Games confirmed to be working
 
 - [Magical Diary](http://store.steampowered.com/app/211340/) [Broken overlay](#right_info)
 - [Mare Nostrum](http://store.steampowered.com/app/1230/)
+- [MirrorMoon EP](http://store.steampowered.com/app/231310/)
 - [Multiwinia](http://store.steampowered.com/app/1530/)
 - [Natural Selection 2](http://store.steampowered.com/app/4920/)
 - [Oil Rush](http://store.steampowered.com/app/200390/)
@@ -142,6 +146,7 @@ Games confirmed to be working
 - [Savage 2: A Tortured Soul](http://store.steampowered.com/app/13700/) [Broken overlay](#right_info)
 - [Secret of the Magic Crystal](http://store.steampowered.com/app/45100/)
 - [Serious Sam 3: BFE](http://store.steampowered.com/app/41070/)
+- [Shadow Warrior Classic Redux](http://store.steampowered.com/app/225160/)
 - [Shank](http://store.steampowered.com/app/6120/)
 - [Shank 2](http://store.steampowered.com/app/102840/)
 - [Shatter](http://store.steampowered.com/app/20820/)
@@ -170,6 +175,7 @@ Games confirmed to be working
 - [The Book of Unwritten Tales: The Critter Chronicles](http://store.steampowered.com/app/221830/)
 - [The Book of Unwritten Tales](http://store.steampowered.com/app/215160/) [Broken overlay](#right_info)
 - [The Cave](http://store.steampowered.com/app/221810/)
+- [The Chaos Engine](http://store.steampowered.com/app/242530/)
 - [The Clockwork Man: The Hidden World](http://store.steampowered.com/app/111010/) [Broken overlay](#right_info)
 - [The Clockwork Man](http://store.steampowered.com/app/111000/) [Broken overlay](#right_info)
 - [The Journey Down: Chapter One](http://store.steampowered.com/app/220090/)

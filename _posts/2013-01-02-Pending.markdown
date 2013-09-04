@@ -17,9 +17,6 @@ Entries with Missing Executable
 - [Euro Truck Simulator 2](http://store.steampowered.com/app/227300/)
 > To play, you have to opt-in into the open beta.
 
-- [Duke Nukem 3D: Megaton Edition](http://store.steampowered.com/app/225140/)
-> To play, you have to opt-in into the open beta.
-
 - [Faerie Solitaire](http://store.steampowered.com/app/38600/)
 > To play, you have to opt-in into the open beta.
 
@@ -33,9 +30,6 @@ Entries with Missing Executable
 - [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 - [Starseed Pilgrim](http://store.steampowered.com/app/230980/)
-- [Shadow Warrior Classic Redux](http://store.steampowered.com/app/225160/)
-> To play, you have to opt-in into the open beta.
-
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [War for the Overworld](http://store.steampowered.com/app/230190/)
 
