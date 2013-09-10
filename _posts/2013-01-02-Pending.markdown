@@ -60,7 +60,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 Unconfirmed
 -----------
 
-- [Amnesia: A Machine for Pigs](http://store.steampowered.com/app/239200/)
 - [Centration](http://store.steampowered.com/app/243300/)
 - [Clockwork Empires](http://store.steampowered.com/app/224740/)
 - [Equate Game](http://store.steampowered.com/app/224880/)
