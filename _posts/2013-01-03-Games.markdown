@@ -72,6 +72,7 @@ Games confirmed to be working
 - [Eversion](http://store.steampowered.com/app/33680/)
 - [Expeditions: Conquistador](http://store.steampowered.com/app/237430/)
 - [Electronic Super Joy](http://store.steampowered.com/app/244870/)
+- [FEZ](http://store.steampowered.com/app/224760/)
 - [FORCED](http://store.steampowered.com/app/249990/)
 - [Frozen Synapse](http://store.steampowered.com/app/98200/)
 - [FTL: Faster Than Light](http://store.steampowered.com/app/212680/)
