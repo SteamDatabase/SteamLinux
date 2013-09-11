@@ -122,6 +122,7 @@ Games confirmed to be working
 
 - [Magical Diary](http://store.steampowered.com/app/211340/) [Broken overlay](#right_info)
 - [Mare Nostrum](http://store.steampowered.com/app/1230/)
+- [Mark of the Ninja](http://store.steampowered.com/app/214560/)
 - [MirrorMoon EP](http://store.steampowered.com/app/231310/)
 - [Multiwinia](http://store.steampowered.com/app/1530/)
 - [Natural Selection 2](http://store.steampowered.com/app/4920/)
