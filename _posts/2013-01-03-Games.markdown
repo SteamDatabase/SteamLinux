@@ -66,6 +66,7 @@ Games confirmed to be working
 - [Dwarfs F2P](http://store.steampowered.com/app/213650/)
 - [Dynamite Jack](http://store.steampowered.com/app/202730/)
 - [EDGE](http://store.steampowered.com/app/38740/)
+- [Eets Munchies](http://store.steampowered.com/app/214550/)
 - [English Country Tune](http://store.steampowered.com/app/207570/)
 - [Europa Universalis IV](http://store.steampowered.com/app/236850/)
 - [Eversion](http://store.steampowered.com/app/33680/)
