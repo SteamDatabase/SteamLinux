@@ -53,6 +53,7 @@ Games confirmed to be working
 > Steamworks features are unavailable.
 
 - [DIVO](http://store.steampowered.com/app/230760/)
+- [Dominions 3](http://store.steampowered.com/app/248510/)
 - [Don't Starve](http://store.steampowered.com/app/219740/)
 - [Door Kickers](http://store.steampowered.com/app/248610/)
 - [Dota 2](http://store.steampowered.com/app/570/)
@@ -97,7 +98,7 @@ Games confirmed to be working
 > May require a workaround to launch without getting stuck in a loop.
 [source](https://wiki.archlinux.org/index.php/Steam#Harvest:_Massive_Encounter)
 
-- [Hate Plus](http://steamdb.info/app/239700/)
+- [Hate Plus](http://store.steampowered.com/app/239700/)
 - [Hotline Miami](http://store.steampowered.com/app/219150/)
 - [iBomber Attack](http://store.steampowered.com/app/218660/)
 - [iBomber Defense Pacific](http://store.steampowered.com/app/206690/)
@@ -201,8 +202,11 @@ Games confirmed to be working
 - [Uplink](http://store.steampowered.com/app/1510/)
 - [VVVVVV](http://store.steampowered.com/app/70300/)
 - [Waking Mars](http://store.steampowered.com/app/227200/)
+- [Wargame: Airland Battle](http://store.steampowered.com/app/222750/)
 - [Wargame: European Escalation](http://store.steampowered.com/app/58610/)
 - [Waveform](http://store.steampowered.com/app/204180/)
+- [Wizardry 6: Bane of the Cosmic Forge](http://store.steampowered.com/app/245410/)
+- [Wizardry 7: Crusaders of the Dark Savant](http://store.steampowered.com/app/245430/)
 - [World of Goo](http://store.steampowered.com/app/22000/)
 - [X3: Reunion](http://store.steampowered.com/app/2810/)
 - [X3: Terran Conflict](http://store.steampowered.com/app/2820/)

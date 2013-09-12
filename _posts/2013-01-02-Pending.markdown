@@ -4,15 +4,11 @@ title: Pending
 anchor: pending
 ---
 
-This is the list of games that are marked as downloadable for GNU/Linux, but are not working or configured properly.
-
 Entries with Missing Executable
 -------------------------------
 
-- [AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome](http://store.steampowered.com/app/15560/)
-- [Aztaka](http://store.steampowered.com/app/37100/)
-- [BIT.TRIP VOID](http://store.steampowered.com/app/205070/)
-- [Castle Story](http://store.steampowered.com/app/227860/)
+This is the list of games that are marked as downloadable for GNU/Linux, but are not working or configured properly.
+
 - [Delver](http://store.steampowered.com/app/249630/)
 - [Euro Truck Simulator 2](http://store.steampowered.com/app/227300/)
 > To play, you have to opt-in into the open beta.
@@ -22,40 +18,52 @@ Entries with Missing Executable
 
 - [INSURGENCY](http://store.steampowered.com/app/222880/)
 - [Paranautical Activity](http://store.steampowered.com/app/250580/)
-- [Scoregasm](http://store.steampowered.com/app/202410/)
+- [Project Zomboid](http://store.steampowered.com/app/108600/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 - [Starseed Pilgrim](http://store.steampowered.com/app/230980/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
-- [War for the Overworld](http://store.steampowered.com/app/230190/)
 
 Entries with Linux Listed
 ------------------------------
 
 These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT** appear in your Steam library.
 
+- [A Virus Named TOM](http://store.steampowered.com/app/207650/)
+- [AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome](http://store.steampowered.com/app/15560/)
 - [Air Conflicts: Pacific Carriers](http://store.steampowered.com/app/214910/)
+- [Aztaka](http://store.steampowered.com/app/37100/)
 - [BIT.TRIP BEAT](http://store.steampowered.com/app/63700/)
 - [BIT.TRIP RUNNER](http://store.steampowered.com/app/63710/)
+- [BIT.TRIP VOID](http://store.steampowered.com/app/205070/)
 - [Botanicula](http://store.steampowered.com/app/207690/)
 - [Braid](http://store.steampowered.com/app/26800/)
+- [Castle Story](http://store.steampowered.com/app/227860/)
 - [CID The Dummy](http://store.steampowered.com/app/45900/)
 - [Crayon Physics Deluxe](http://store.steampowered.com/app/26900/)
 - [Dustforce](http://store.steampowered.com/app/65300/)
+- [Fortix 2](http://store.steampowered.com/app/45450/)
+- [Game Dev Tycoon](http://store.steampowered.com/app/239820/)
 - [Gish](http://store.steampowered.com/app/9500/)
 - [LIMBO](http://store.steampowered.com/app/48000/)
 - [Metro: Last Light](http://store.steampowered.com/app/43160/)
 - [Monster Loves You!](http://store.steampowered.com/app/226740/)
 - [Octodad: Dadliest Catch](http://store.steampowered.com/app/224480/)
+- [PixelJunk™ Monsters Ultimate](http://store.steampowered.com/app/243780/)
+- [Realms of Arkania: Blade of Destiny](http://store.steampowered.com/app/237550/)
+- [Rogue Legacy](http://store.steampowered.com/app/241600/)
+- [Scoregasm](http://store.steampowered.com/app/202410/)
 - [Spiral Knights](http://store.steampowered.com/app/99900/)
+- [System Shock 2](http://store.steampowered.com/app/238210/)
+- [Ticket to Ride](http://store.steampowered.com/app/108200/)
 - [TRAUMA](http://store.steampowered.com/app/98100/)
-- [The Binding of Isaac](http://store.steampowered.com/app/113200/)
-- [Wargame: Airland Battle](http://store.steampowered.com/app/222750/)
+- [War for the Overworld](http://store.steampowered.com/app/230190/)
 
 Unconfirmed
 -----------
 
 - [Centration](http://store.steampowered.com/app/243300/)
 - [Clockwork Empires](http://store.steampowered.com/app/224740/)
+- [Dystopia Beta](http://store.steampowered.com/app/17590/)
 - [Equate Game](http://store.steampowered.com/app/224880/)
 - [No More Room in Hell](http://store.steampowered.com/app/224260/)
 - [Obsidian Conflict](http://store.steampowered.com/app/17750/)
