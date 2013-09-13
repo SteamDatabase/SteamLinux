@@ -88,6 +88,7 @@ Games confirmed to be working
 - [Half-Life](http://store.steampowered.com/app/70/)
 - [Half-Life: Blue Shift](http://store.steampowered.com/app/130/)
 - [Half-Life: Opposing Force](http://store.steampowered.com/app/50/)
+- [Half-Life Deathmatch: Source](http://store.steampowered.com/app/360/)
 - [Half-Life: Source](http://store.steampowered.com/app/280/)
 - [Half-Life 2](http://store.steampowered.com/app/220/)
 - [Half-Life 2: Episode One](http://store.steampowered.com/app/380/)
