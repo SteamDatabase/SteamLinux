@@ -98,7 +98,7 @@ Games confirmed to be working
 - [Hammerwatch](http://store.steampowered.com/app/239070/)
 - [Harvest: Massive Encounter](http://store.steampowered.com/app/15400/)
 > May require a workaround to launch without getting stuck in a loop.
-[source](https://wiki.archlinux.org/index.php/Steam#Harvest:_Massive_Encounter)
+[source](https://wiki.archlinux.org/index.php/Steam/Game-specific_troubleshooting#Harvest:_Massive_Encounter)
 
 - [Hate Plus](http://store.steampowered.com/app/239700/)
 - [Hotline Miami](http://store.steampowered.com/app/219150/)
