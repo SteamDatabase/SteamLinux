@@ -74,6 +74,7 @@ Games confirmed to be working
 - [Eversion](http://store.steampowered.com/app/33680/)
 - [Expeditions: Conquistador](http://store.steampowered.com/app/237430/)
 - [Electronic Super Joy](http://store.steampowered.com/app/244870/)
+- [Euro Truck Simulator 2](http://store.steampowered.com/app/227300/)
 - [FEZ](http://store.steampowered.com/app/224760/)
 - [FORCED](http://store.steampowered.com/app/249990/)
 - [Fortix 2](http://store.steampowered.com/app/45450/)
