@@ -10,9 +10,6 @@ Entries with Missing Executable
 This is the list of games that are marked as downloadable for GNU/Linux, but are not working or configured properly.
 
 - [Delver](http://store.steampowered.com/app/249630/)
-- [Euro Truck Simulator 2](http://store.steampowered.com/app/227300/)
-> To play, you have to opt-in into the open beta.
-
 - [Faerie Solitaire](http://store.steampowered.com/app/38600/)
 > To play, you have to opt-in into the open beta.
 
