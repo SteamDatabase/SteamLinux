@@ -57,6 +57,7 @@ Games confirmed to be working
 - [Dominions 3](http://store.steampowered.com/app/248510/)
 - [Don't Starve](http://store.steampowered.com/app/219740/)
 - [Door Kickers](http://store.steampowered.com/app/248610/)
+- [Doorways](http://store.steampowered.com/app/248470/)
 - [Dota 2](http://store.steampowered.com/app/570/)
 - [Dota 2 Test](http://store.steampowered.com/app/205790/)
 - [Droid Assault](http://store.steampowered.com/app/219200/)
