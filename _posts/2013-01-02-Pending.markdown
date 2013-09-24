@@ -33,7 +33,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [BIT.TRIP VOID](http://store.steampowered.com/app/205070/)
 - [Botanicula](http://store.steampowered.com/app/207690/)
 - [Braid](http://store.steampowered.com/app/26800/)
-- [Castle Story](http://store.steampowered.com/app/227860/)
 - [CID The Dummy](http://store.steampowered.com/app/45900/)
 - [Crayon Physics Deluxe](http://store.steampowered.com/app/26900/)
 - [Dustforce](http://store.steampowered.com/app/65300/)
