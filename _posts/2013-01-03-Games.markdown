@@ -160,6 +160,7 @@ Games confirmed to be working
 - [Revenge of the Titans](http://store.steampowered.com/app/93200/)
 - [Ricochet](http://store.steampowered.com/app/60/)
 - [Rochard](http://store.steampowered.com/app/107800/)
+- [Rocketbirds: Hardboiled Chicken](http://store.steampowered.com/app/215510/)
 - [RUSH](http://store.steampowered.com/app/38720/)
 - [Savage 2: A Tortured Soul](http://store.steampowered.com/app/13700/) [Broken overlay](#right_info)
 - [Secret of the Magic Crystal](http://store.steampowered.com/app/45100/)
