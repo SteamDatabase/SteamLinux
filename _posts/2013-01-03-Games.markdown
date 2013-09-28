@@ -121,6 +121,7 @@ Games confirmed to be working
 - [Knights of Pen and Paper](http://store.steampowered.com/app/231740/)
 - [Left 4 Dead 2](http://store.steampowered.com/app/550/)
 - [Left 4 Dead 2 Beta](http://store.steampowered.com/app/223530/)
+- [Legends of Aethereus](http://store.steampowered.com/app/248410/)
 - [Legend of Dungeon](http://store.steampowered.com/app/238280/)
 - [Legend of Grimrock](http://store.steampowered.com/app/207170/)
 - [Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded](http://store.steampowered.com/app/231910/)
