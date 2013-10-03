@@ -41,7 +41,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Metro: Last Light](http://store.steampowered.com/app/43160/)
 - [Monster Loves You!](http://store.steampowered.com/app/226740/)
 - [Octodad: Dadliest Catch](http://store.steampowered.com/app/224480/)
-- [PixelJunk™ Monsters Ultimate](http://store.steampowered.com/app/243780/)
 - [Realms of Arkania: Blade of Destiny](http://store.steampowered.com/app/237550/)
 - [Rogue Legacy](http://store.steampowered.com/app/241600/)
 - [Scoregasm](http://store.steampowered.com/app/202410/)
