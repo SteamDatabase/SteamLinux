@@ -19,7 +19,6 @@ This is the list of games that are marked as downloadable for GNU/Linux, but are
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 - [Starseed Pilgrim](http://store.steampowered.com/app/230980/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
-- [Air Conflicts: Pacific Carriers](http://store.steampowered.com/app/214910/)
 
 Entries with Linux Listed
 ------------------------------
