@@ -70,6 +70,10 @@ Games confirmed to be working
 - [Dwarfs!?](http://store.steampowered.com/app/35480/)
 - [Dwarfs F2P](http://store.steampowered.com/app/213650/)
 - [Dynamite Jack](http://store.steampowered.com/app/202730/)
+- [Dysfunctional Systems: Learning to Manage Chaos](http://store.steampowered.com/app/248800/)
+> Need to disable Steamworks on 64bit systems due to a bug.
+[source](http://steamcommunity.com/app/248800/discussions/0/846965705285069220/#c846966336102411647)
+
 - [EDGE](http://store.steampowered.com/app/38740/)
 - [Eets Munchies](http://store.steampowered.com/app/214550/)
 - [English Country Tune](http://store.steampowered.com/app/207570/)
