@@ -94,6 +94,7 @@ Games confirmed to be working
 - [Galcon Fusion](http://store.steampowered.com/app/44200/)
 - [Gateways](http://store.steampowered.com/app/216290/)
 - [Gear Up](http://store.steampowered.com/app/214420/) [Broken overlay](#right_info)
+- [Game Dev Tycoon](http://store.steampowered.com/app/239820/)
 - [Gratuitous Space Battles](http://store.steampowered.com/app/41800/)
 - [Guns of Icarus Online](http://store.steampowered.com/app/209080/)
 - [Gone Home](http://store.steampowered.com/app/232430/)
