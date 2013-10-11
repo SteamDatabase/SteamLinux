@@ -34,7 +34,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [CID The Dummy](http://store.steampowered.com/app/45900/)
 - [Crayon Physics Deluxe](http://store.steampowered.com/app/26900/)
 - [Dustforce](http://store.steampowered.com/app/65300/)
-- [Game Dev Tycoon](http://store.steampowered.com/app/239820/)
 - [Gish](http://store.steampowered.com/app/9500/)
 - [LIMBO](http://store.steampowered.com/app/48000/)
 - [Metro: Last Light](http://store.steampowered.com/app/43160/)
