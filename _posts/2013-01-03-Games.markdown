@@ -216,6 +216,7 @@ Games confirmed to be working
 - [The Polynomial - Space of the music](http://store.steampowered.com/app/67000/)
 - [The 39 Steps](http://store.steampowered.com/app/234940/)
 - [Thomas Was Alone](http://store.steampowered.com/app/220780/)
+- [Ticket to Ride](http://store.steampowered.com/app/108200/)
 - [Tiny and Big: Grandpa's Leftovers](http://store.steampowered.com/app/205910/)
 - [Titan Attacks!](http://store.steampowered.com/app/203210/)
 - [Toki Tori](http://store.steampowered.com/app/38700/)
