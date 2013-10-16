@@ -236,6 +236,7 @@ Games confirmed to be working
 - [Wizardry 6: Bane of the Cosmic Forge](http://store.steampowered.com/app/245410/)
 - [Wizardry 7: Crusaders of the Dark Savant](http://store.steampowered.com/app/245430/)
 - [World of Goo](http://store.steampowered.com/app/22000/)
+- [Worms Reloaded](http://store.steampowered.com/app/22600/)
 - [X3: Reunion](http://store.steampowered.com/app/2810/)
 - [X3: Terran Conflict](http://store.steampowered.com/app/2820/)
 - [X3: Albion Prelude](http://store.steampowered.com/app/201310/)
