@@ -57,6 +57,7 @@ Games confirmed to be working
 - [Defender's Quest: Valley of the Forgotten](http://store.steampowered.com/app/218410/) [Broken overlay](#right_info)
 > Steamworks features are unavailable.
 
+- [Delver](http://store.steampowered.com/app/249630/)
 - [DIVO](http://store.steampowered.com/app/230760/)
 - [Dominions 3](http://store.steampowered.com/app/248510/)
 - [Don't Starve](http://store.steampowered.com/app/219740/)
