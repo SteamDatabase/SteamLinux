@@ -32,9 +32,6 @@ This is a list of games with a native GNU/Linux version that have been confirmed
 
 - [Hacker Evolution: Untold](http://store.steampowered.com/app/70110/)
 > We are working on it right now. It will be out as soon as possible and not later than the end of this month.
-- [Monaco](http://store.steampowered.com/app/113020)
-> Linux port is definitely happening guys. Just a matter of time now.
-[source](http://steamcommunity.com/app/113020/discussions/0/810920513840121263/?tscn=1374607710#p5)
 
 - [Offspring Fling!](http://store.steampowered.com/app/211360/)
 > I would say its about 50/50 right now...I need to change how the final application is built. I basically need to wrap Offspring Fling with software to make it into a Linux executable, but currently I'm having some problems getting it to work for unknown reasons... until I can work out these bugs, I can't get the Linux version onto Steam.
