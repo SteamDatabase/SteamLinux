@@ -145,7 +145,7 @@ Games confirmed to be working
 - [Mare Nostrum](http://store.steampowered.com/app/1230/)
 - [Mark of the Ninja](http://store.steampowered.com/app/214560/)
 - [MirrorMoon EP](http://store.steampowered.com/app/231310/)
-- [Monaco](http://store.steampowered.com/app/113020)
+- [Monaco](http://store.steampowered.com/app/113020/)
 - [Multiwinia](http://store.steampowered.com/app/1530/)
 - [Natural Selection 2](http://store.steampowered.com/app/4920/)
 - [Oil Rush](http://store.steampowered.com/app/200390/)
