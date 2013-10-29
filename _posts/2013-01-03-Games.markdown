@@ -195,6 +195,7 @@ Games confirmed to be working
 - [Snuggle Truck](http://store.steampowered.com/app/111100/)
 - [Solar 2](http://store.steampowered.com/app/97000/)
 - [Space Pirates and Zombies](http://store.steampowered.com/app/107200/)
+- [Spacebase DF-9](http://store.steampowered.com/app/246090/)
 - [SpaceChem](http://store.steampowered.com/app/92800/)
 - [Spectraball](http://store.steampowered.com/app/18300/)
 - [Spirits](http://store.steampowered.com/app/210170/)
