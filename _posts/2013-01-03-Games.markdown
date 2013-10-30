@@ -119,6 +119,7 @@ Games confirmed to be working
 
 - [Hate Plus](http://store.steampowered.com/app/239700/)
 - [Hotline Miami](http://store.steampowered.com/app/219150/)
+- [I Have No Mouth, and I Must Scream](http://store.steampowered.com/app/245390/)
 - [iBomber Attack](http://store.steampowered.com/app/218660/)
 - [iBomber Defense Pacific](http://store.steampowered.com/app/206690/)
 - [Intrusion 2](http://store.steampowered.com/app/214970/) [Broken overlay](#right_info)
