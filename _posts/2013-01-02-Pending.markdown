@@ -35,7 +35,6 @@ These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT*
 - [Dustforce](http://store.steampowered.com/app/65300/)
 - [Gish](http://store.steampowered.com/app/9500/)
 - [LIMBO](http://store.steampowered.com/app/48000/)
-- [Metro: Last Light](http://store.steampowered.com/app/43160/)
 - [Monster Loves You!](http://store.steampowered.com/app/226740/)
 - [Octodad: Dadliest Catch](http://store.steampowered.com/app/224480/)
 - [Realms of Arkania: Blade of Destiny](http://store.steampowered.com/app/237550/)

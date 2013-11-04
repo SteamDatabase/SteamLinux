@@ -150,6 +150,7 @@ Games confirmed to be working
 - [Magical Diary](http://store.steampowered.com/app/211340/) [Broken overlay](#right_info)
 - [Mare Nostrum](http://store.steampowered.com/app/1230/)
 - [Mark of the Ninja](http://store.steampowered.com/app/214560/)
+- [Metro: Last Light](http://store.steampowered.com/app/43160/)
 - [MirrorMoon EP](http://store.steampowered.com/app/231310/)
 - [Monaco](http://store.steampowered.com/app/113020/)
 - [Multiwinia](http://store.steampowered.com/app/1530/)
