@@ -50,6 +50,7 @@ Games confirmed to be working
 - [Cubemen](http://store.steampowered.com/app/207250/)
 - [Cubemen 2](http://store.steampowered.com/app/228440/)
 - [DEFCON](http://store.steampowered.com/app/1520/)
+- [Dark Matter](http://store.steampowered.com/app/251410/)
 - [Darkest Hour: Europe '44-'45](http://store.steampowered.com/app/1280/)
 - [Darwinia](http://store.steampowered.com/app/1500/)
 - [Day of Defeat: Source](http://store.steampowered.com/app/300/)
