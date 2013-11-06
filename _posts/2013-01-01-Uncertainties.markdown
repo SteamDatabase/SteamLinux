@@ -65,10 +65,6 @@ Probably not coming
 
 This is a list of games that have a native GNU/Linux version but are unlikely to become available to Linux users on Steam.  
 
-- [Super Meat Boy](http://store.steampowered.com/app/40800/)
-> If Edmund and Tommy say to do it, we can get it up on Steam pretty easily, but I don't think they'd be interested.
-[source](https://icculus.org/pipermail/supermeatboy/2013-June/000024.html)
-
 - [The Binding of Isaac](http://store.steampowered.com/app/113200/)
 > the more time that passes the worse it looks, it has to do with there being no original build of isaac that exists on linux only wrath and no being able to turn wrath off... still working on it but is not looking great
 [source](http://spring.me/EdmundM/q/440988231027158913)
