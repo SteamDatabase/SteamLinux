@@ -179,8 +179,6 @@ Games confirmed to be working
 - [Proteus](http://store.steampowered.com/app/219680/)
 - [Psychonauts](http://store.steampowered.com/app/3830/)
 - [Puddle](http://store.steampowered.com/app/222140/)
-> May require additional libraries or installation of thirdy party packages (xdelta3, libquazip) for the launcher.
-
 - [Receiver](http://store.steampowered.com/app/234190/)
 - [Red Orchestra: Ostfront 41-15](http://store.steampowered.com/app/1200/)
 - [Revenge of the Titans](http://store.steampowered.com/app/93200/)
@@ -235,6 +233,8 @@ Games confirmed to be working
 - [The Journey Down: Chapter One](http://store.steampowered.com/app/220090/)
 - [The Polynomial - Space of the music](http://store.steampowered.com/app/67000/)
 - [The Raven - Legacy of a Master Thief](http://store.steampowered.com/app/233370/)
+> May require additional libraries or installation of thirdy party packages (xdelta3, libquazip) for the launcher.
+
 - [Thomas Was Alone](http://store.steampowered.com/app/220780/)
 - [Ticket to Ride](http://store.steampowered.com/app/108200/)
 > Steam API doesn't work on 64bit, including online mode.
