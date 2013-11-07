@@ -246,6 +246,7 @@ Games confirmed to be working
 - [Ultratron](http://store.steampowered.com/app/219190/)
 - [Unity of Command: Stalingrad Campaign](http://store.steampowered.com/app/218090/)
 - [Uplink](http://store.steampowered.com/app/1510/)
+- [Verdun](http://store.steampowered.com/app/242860/)
 - [VVVVVV](http://store.steampowered.com/app/70300/)
 - [Waking Mars](http://store.steampowered.com/app/227200/)
 - [War for the Overworld](http://store.steampowered.com/app/230190/)
