@@ -21,7 +21,9 @@ Games confirmed to be working
 > Requires Adobe AIR, see [this](http://steamcommunity.com/games/anodyne/announcements/detail/1731905815482640375) for instructions.
 
 - [Anomaly: Warzone Earth](http://store.steampowered.com/app/91200/)
+- [Anomaly: Warzone Eath Mobile Compain](http://store.steampowered.com/app/252170/)
 - [Anomaly 2](http://store.steampowered.com/app/236730/)
+- [Anomaly Korea](http://store.steampowered.com/app/251530)
 - [Aquaria](http://store.steampowered.com/app/24420/)
 - [Arma Tactics](http://store.steampowered.com/app/224860/)
 - [Assault Android Cactus](http://store.steampowered.com/app/250110/)
@@ -175,6 +177,7 @@ Games confirmed to be working
 - [Portal](http://store.steampowered.com/app/400/)
 - [POSTAL](http://store.steampowered.com/app/232770/)
 - [POSTAL 2 Complete](http://store.steampowered.com/app/223470/)
+- [Project Zomboid](http://store.steampowered.com/app/108600/)
 - [Proteus](http://store.steampowered.com/app/219680/)
 - [Psychonauts](http://store.steampowered.com/app/3830/)
 - [Puddle](http://store.steampowered.com/app/222140/)
