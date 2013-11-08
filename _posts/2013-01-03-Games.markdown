@@ -96,6 +96,7 @@ Games confirmed to be working
 - [Football Manager 2014](http://store.steampowered.com/app/231670/)
 - [FORCED](http://store.steampowered.com/app/249990/)
 - [Fortix 2](http://store.steampowered.com/app/45450/)
+- [Foul Play](http://store.steampowered.com/app/244810/)
 - [Frozen Synapse](http://store.steampowered.com/app/98200/)
 - [FTL: Faster Than Light](http://store.steampowered.com/app/212680/)
 - [Garry's Mod](http://store.steampowered.com/app/4000/)
