@@ -199,6 +199,7 @@ Games confirmed to be working
 - [Secret of the Magic Crystal](http://store.steampowered.com/app/45100/)
 - [Serious Sam 3: BFE](http://store.steampowered.com/app/41070/)
 - [Shadow Warrior Classic Redux](http://store.steampowered.com/app/225160/)
+- [Shadowrun Returns](http://store.steampowered.com/app/234650/)
 - [Shank](http://store.steampowered.com/app/6120/)
 - [Shank 2](http://store.steampowered.com/app/102840/)
 - [Shatter](http://store.steampowered.com/app/20820/)
