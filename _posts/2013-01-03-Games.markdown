@@ -172,6 +172,7 @@ Games confirmed to be working
 - [Penumbra: Requiem](http://store.steampowered.com/app/22140/)
 - [Perfection.](http://store.steampowered.com/app/246360/)
 - [PixelJunk™ Monsters Ultimate](http://store.steampowered.com/app/243780/)
+- [PixelJunk™ Shooter](http://store.steampowered.com/app/255870/)
 - [Planetary Annihilation](http://store.steampowered.com/app/233250/)
 > Doesn't have a 32-bit version yet.
 
@@ -225,6 +226,7 @@ Games confirmed to be working
 - [Super Meat Boy](http://store.steampowered.com/app/40800/)
 - [Superfrog HD](http://store.steampowered.com/app/234000/)
 - [Surgeon Simulator 2013](http://store.steampowered.com/app/233720/) 
+- [Survivor Squad](http://store.steampowered.com/app/258050/)
 - [Team Fortress 2](http://store.steampowered.com/app/440/)
 - [Team Fortress 2 Beta](http://store.steampowered.com/app/520/)
 - [Team Fortress Classic](http://store.steampowered.com/app/20/)
