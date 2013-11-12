@@ -160,6 +160,7 @@ Games confirmed to be working
 - [Metro: Last Light](http://store.steampowered.com/app/43160/)
 - [MirrorMoon EP](http://store.steampowered.com/app/231310/)
 - [Monaco](http://store.steampowered.com/app/113020/)
+- [MouseCraft](http://store.steampowered.com/app/252750/)
 - [Multiwinia](http://store.steampowered.com/app/1530/)
 - [Natural Selection 2](http://store.steampowered.com/app/4920/)
 - [No More Room in Hell](http://store.steampowered.com/app/224260/)
