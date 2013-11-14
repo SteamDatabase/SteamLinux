@@ -128,6 +128,7 @@ Games confirmed to be working
 - [I Have No Mouth, and I Must Scream](http://store.steampowered.com/app/245390/)
 - [iBomber Attack](http://store.steampowered.com/app/218660/)
 - [iBomber Defense Pacific](http://store.steampowered.com/app/206690/)
+- [Iesabel](http://store.steampowered.com/app/248710/)
 - [Intrusion 2](http://store.steampowered.com/app/214970/) [Broken overlay](#right_info)
 - [Ironclad Tactics](http://store.steampowered.com/app/226960/)
 - [Ittle Dew](http://store.steampowered.com/app/241320/)
