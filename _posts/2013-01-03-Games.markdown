@@ -264,6 +264,7 @@ Games confirmed to be working
 - [War for the Overworld](http://store.steampowered.com/app/230190/)
 - [Wargame: Airland Battle](http://store.steampowered.com/app/222750/)
 - [Wargame: European Escalation](http://store.steampowered.com/app/58610/)
+- [Wasteland 1 - The Original Classic](http://store.steampowered.com/app/259130/)
 - [Waveform](http://store.steampowered.com/app/204180/)
 - [Wizardry 6: Bane of the Cosmic Forge](http://store.steampowered.com/app/245410/)
 - [Wizardry 7: Crusaders of the Dark Savant](http://store.steampowered.com/app/245430/)
