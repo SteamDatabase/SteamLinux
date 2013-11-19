@@ -13,6 +13,9 @@ This is the list of games that are marked as downloadable for GNU/Linux, but are
 > To play, you have to opt-in into the open beta.
 
 - [INSURGENCY](http://store.steampowered.com/app/222880/)
+- [Nuclear Dawn](http://store.steampowered.com/app/17710/)
+> To play, you have to opt-in into the linux beta.
+
 - [Paranautical Activity](http://store.steampowered.com/app/250580/)
 - [Spiral Knights Preview](http://store.steampowered.com/app/99920/)
 - [Starseed Pilgrim](http://store.steampowered.com/app/230980/)
