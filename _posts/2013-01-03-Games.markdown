@@ -209,6 +209,7 @@ Games confirmed to be working
 - [Shank](http://store.steampowered.com/app/6120/)
 - [Shank 2](http://store.steampowered.com/app/102840/)
 - [Shatter](http://store.steampowered.com/app/20820/)
+- [Signal Ops](http://store.steampowered.com/app/257770/)
 - [Sir, You Are Being Hunted](http://store.steampowered.com/app/242880/)
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [Snuggle Truck](http://store.steampowered.com/app/111100/)
