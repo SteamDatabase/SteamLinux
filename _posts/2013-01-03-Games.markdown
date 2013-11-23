@@ -193,6 +193,7 @@ Games confirmed to be working
 > May require additional libraries or installation of thirdy party packages (xdelta3, libquazip) for the launcher.
 
 - [Receiver](http://store.steampowered.com/app/234190/)
+- [Redshirt](http://store.steampowered.com/app/247870/)
 - [Red Orchestra: Ostfront 41-15](http://store.steampowered.com/app/1200/)
 - [Revenge of the Titans](http://store.steampowered.com/app/93200/)
 - [Ricochet](http://store.steampowered.com/app/60/)
