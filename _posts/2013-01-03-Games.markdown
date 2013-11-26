@@ -120,6 +120,7 @@ Games confirmed to be working
 - [Half-Life: Blue Shift](http://store.steampowered.com/app/130/)
 - [Half-Life: Opposing Force](http://store.steampowered.com/app/50/)
 - [Half-Life: Source](http://store.steampowered.com/app/280/)
+- [Hammerflight](http://store.steampowered.com/app/41100/)
 - [Hammerwatch](http://store.steampowered.com/app/239070/)
 - [Harvest: Massive Encounter](http://store.steampowered.com/app/15400/)
 > May require a workaround to launch without getting stuck in a loop.
