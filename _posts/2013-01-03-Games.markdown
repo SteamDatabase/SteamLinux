@@ -222,6 +222,7 @@ Games confirmed to be working
 - [Space Pirates and Zombies](http://store.steampowered.com/app/107200/)
 - [Spacebase DF-9](http://store.steampowered.com/app/246090/)
 - [SpaceChem](http://store.steampowered.com/app/92800/)
+- [Sparkle 2 Evo](http://store.steampowered.com/app/253650/)
 - [Spectraball](http://store.steampowered.com/app/18300/)
 - [Spirits](http://store.steampowered.com/app/210170/)
 - [Splice](http://store.steampowered.com/app/209790/)
