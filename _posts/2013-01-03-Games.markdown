@@ -86,6 +86,7 @@ Games confirmed to be working
 
 - [EDGE](http://store.steampowered.com/app/38740/)
 - [Eets Munchies](http://store.steampowered.com/app/214550/)
+- [Eldritch](http://store.steampowered.com/app/252630/)
 - [English Country Tune](http://store.steampowered.com/app/207570/)
 - [Escape Goat](http://store.steampowered.com/app/251370/)
 - [Europa Universalis IV](http://store.steampowered.com/app/236850/)
