@@ -38,6 +38,7 @@ Games confirmed to be working
 - [Bionic Dues](http://store.steampowered.com/app/238910/)
 - [BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien](http://store.steampowered.com/app/218060/)
 - [Bridge Constructor](http://store.steampowered.com/app/250460/)
+- [Broken Sword 5](http://store.steampowered.com/app/262940/)
 - [Brütal Legend](http://store.steampowered.com/app/225260/)
 - [Capsized](http://store.steampowered.com/app/95300/)
 - [Castle Story](http://store.steampowered.com/app/227860/)
