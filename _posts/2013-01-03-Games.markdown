@@ -173,8 +173,6 @@ Games confirmed to be working
 - [Multiwinia](http://store.steampowered.com/app/1530/)
 - [Natural Selection 2](http://store.steampowered.com/app/4920/)
 - [NEO Scavenger](http://store.steampowered.com/app/248860/) [Broken overlay](#right_info)
-> The Steam overlay doesn't work.
-
 - [No More Room in Hell](http://store.steampowered.com/app/224260/)
 - [Nihilumbra](http://store.steampowered.com/app/252670/)
 - [Oil Rush](http://store.steampowered.com/app/200390/)
