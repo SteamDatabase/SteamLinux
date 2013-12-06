@@ -172,6 +172,9 @@ Games confirmed to be working
 - [MouseCraft](http://store.steampowered.com/app/252750/)
 - [Multiwinia](http://store.steampowered.com/app/1530/)
 - [Natural Selection 2](http://store.steampowered.com/app/4920/)
+- [NEO Scavenger](http://store.steampowered.com/app/248860/)
+> The Steam overlay doesn't work.
+
 - [No More Room in Hell](http://store.steampowered.com/app/224260/)
 - [Nihilumbra](http://store.steampowered.com/app/252670/)
 - [Oil Rush](http://store.steampowered.com/app/200390/)
