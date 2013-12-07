@@ -1,3 +1,13 @@
 language: php
 php:
   - 5.5
+notifications:
+  irc:
+    skip_join: true
+    on_success: never
+    on_failure: always
+    channels:
+      - "chat.freenode.net#steamlug"
+    template:
+      - "%{repository}#%{build_number} (%{commit} by %{author}): %{message}"
+      - "Build details: %{build_url}"
