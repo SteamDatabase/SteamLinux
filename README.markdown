@@ -1,5 +1,5 @@
-README
-======
+Games, on Steam for Linux [![Build Status](https://travis-ci.org/SteamDatabase/SteamLinux.png?branch=gh-pages)](https://travis-ci.org/SteamDatabase/SteamLinux)
+=========================
 This is the source code for *Games, on Steam for Linux*
 
 License

@@ -5,6 +5,7 @@ branches:
   only:
     - gh-pages
 notifications:
+  email: false
   irc:
     skip_join: true
     on_success: never
