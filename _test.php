@@ -21,7 +21,7 @@
 						continue;
 					}
 					
-					$this->assertRegExp( '/^- \[(.+)\]\(http:\/\/store\.steampowered\.com\/app\/[0-9]{1,6}\/\)$/', $Line );
+					$this->assertRegExp( '/^- \[(.+)\]\(http:\/\/store\.steampowered\.com\/app\/[0-9]{1,6}\/\)/', $Line );
 				}
 			}
 		}
