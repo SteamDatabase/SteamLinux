@@ -1,6 +1,9 @@
 language: php
 php:
   - 5.5
+branches:
+  only:
+    - gh-pages
 notifications:
   irc:
     skip_join: true
