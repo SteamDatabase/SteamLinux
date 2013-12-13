@@ -247,6 +247,7 @@ Games confirmed to be working
 - [Superfrog HD](http://store.steampowered.com/app/234000/)
 - [Surgeon Simulator 2013](http://store.steampowered.com/app/233720/) 
 - [Survivor Squad](http://store.steampowered.com/app/258050/)
+- [Tales of Maj'Eyal](http://store.steampowered.com/app/259680/)
 - [Team Fortress 2](http://store.steampowered.com/app/440/)
 - [Team Fortress 2 Beta](http://store.steampowered.com/app/520/)
 - [Team Fortress Classic](http://store.steampowered.com/app/20/)
