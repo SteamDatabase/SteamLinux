@@ -291,3 +291,4 @@ Games confirmed to be working
 - [X3: Terran Conflict](http://store.steampowered.com/app/2820/)
 - [X3: Albion Prelude](http://store.steampowered.com/app/201310/)
 - [Zen Bound 2](http://store.steampowered.com/app/61600/)
+- [Zigfrak](http://store.steampowered.com/app/259430/)
