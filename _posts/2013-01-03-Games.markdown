@@ -162,6 +162,7 @@ Games confirmed to be working
 > Overlay works only in full-screen mode.
 
 - [Magical Diary](http://store.steampowered.com/app/211340/) [Broken overlay](#right_info)
+- [Maia](http://store.steampowered.com/app/252250/)
 - [Mare Nostrum](http://store.steampowered.com/app/1230/)
 - [Mark of the Ninja](http://store.steampowered.com/app/214560/)
 - [Megabyte Punch](http://store.steampowered.com/app/248550/)
