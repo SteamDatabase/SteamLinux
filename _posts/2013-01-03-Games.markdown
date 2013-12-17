@@ -41,6 +41,7 @@ Games confirmed to be working
 - [Broken Sword 5](http://store.steampowered.com/app/262940/)
 - [Brütal Legend](http://store.steampowered.com/app/225260/)
 - [Capsized](http://store.steampowered.com/app/95300/)
+- [Cargo Commander](http://store.steampowered.com/app/220460/)
 - [Castle Story](http://store.steampowered.com/app/227860/)
 - [Cave Story+](http://store.steampowered.com/app/200900/)
 - [Champions of Regnum](http://store.steampowered.com/app/222520/)
