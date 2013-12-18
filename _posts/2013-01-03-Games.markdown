@@ -134,6 +134,7 @@ Games confirmed to be working
 [source](https://wiki.archlinux.org/index.php/Steam/Game-specific_troubleshooting#Harvest:_Massive_Encounter)
 
 - [Hate Plus](http://store.steampowered.com/app/239700/)
+- [Hero Academy](http://store.steampowered.com/app/209270/)
 - [Hotline Miami](http://store.steampowered.com/app/219150/)
 - [I Have No Mouth, and I Must Scream](http://store.steampowered.com/app/245390/)
 - [iBomber Attack](http://store.steampowered.com/app/218660/)
