@@ -25,7 +25,6 @@ Entries with Linux Listed
 
 These show up in the [Steam Database](http://steamdb.info/linux/), but do **NOT** appear in your Steam library.
 
-- [AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome](http://store.steampowered.com/app/15560/)
 - [Aztaka](http://store.steampowered.com/app/37100/)
 - [BIT.TRIP BEAT](http://store.steampowered.com/app/63700/)
 - [BIT.TRIP RUNNER](http://store.steampowered.com/app/63710/)
