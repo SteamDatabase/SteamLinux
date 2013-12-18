@@ -91,6 +91,7 @@ Games confirmed to be working
 - [Eets Munchies](http://store.steampowered.com/app/214550/)
 - [Eldritch](http://store.steampowered.com/app/252630/)
 - [English Country Tune](http://store.steampowered.com/app/207570/)
+- [Eryi's Action](http://store.steampowered.com/app/261700/)
 - [Escape Goat](http://store.steampowered.com/app/251370/)
 - [Europa Universalis IV](http://store.steampowered.com/app/236850/)
 - [Eversion](http://store.steampowered.com/app/33680/)
