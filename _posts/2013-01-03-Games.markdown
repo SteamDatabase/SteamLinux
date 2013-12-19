@@ -80,6 +80,7 @@ Games confirmed to be working
 - [Dungeon Defenders](http://store.steampowered.com/app/65800/)
 - [Dungeon Hearts](http://store.steampowered.com/app/229520/)
 - [Dungeons of Dredmor](http://store.steampowered.com/app/98800/) [Broken overlay](#right_info)
+- [Dust: An Elysian Tail](http://store.steampowered.com/app/236090/)
 - [Dwarfs!?](http://store.steampowered.com/app/35480/)
 - [Dwarfs F2P](http://store.steampowered.com/app/213650/)
 - [Dynamite Jack](http://store.steampowered.com/app/202730/)
