@@ -113,6 +113,7 @@ Games confirmed to be working
 - [Gateways](http://store.steampowered.com/app/216290/)
 - [Gear Up](http://store.steampowered.com/app/214420/) [Broken overlay](#right_info)
 - [Game Dev Tycoon](http://store.steampowered.com/app/239820/)
+- [Gemini Rue](http://store.steampowered.com/app/80310/)
 - [Gentlemen!](http://store.steampowered.com/app/253570/)
 - [Glare](http://store.steampowered.com/app/243140/)
 - [Gratuitous Space Battles](http://store.steampowered.com/app/41800/)
