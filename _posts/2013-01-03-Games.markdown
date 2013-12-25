@@ -68,6 +68,7 @@ Games confirmed to be working
 > Steamworks features are unavailable.
 
 - [Delver](http://store.steampowered.com/app/249630/)
+- [Democracy 3](http://store.steampowered.com/app/245470/)
 - [DIVO](http://store.steampowered.com/app/230760/)
 - [Dominions 3](http://store.steampowered.com/app/248510/)
 - [Don't Starve](http://store.steampowered.com/app/219740/)
@@ -236,6 +237,7 @@ Games confirmed to be working
 - [Snapshot](http://store.steampowered.com/app/204220/)
 - [Snuggle Truck](http://store.steampowered.com/app/111100/)
 - [Solar 2](http://store.steampowered.com/app/97000/)
+- [Solar Flux](http://store.steampowered.com/app/251910/)
 - [Space Pirates and Zombies](http://store.steampowered.com/app/107200/)
 - [Spacebase DF-9](http://store.steampowered.com/app/246090/)
 - [SpaceChem](http://store.steampowered.com/app/92800/)
