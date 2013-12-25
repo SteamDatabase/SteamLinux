@@ -1,28 +1,37 @@
 <?php
-	class SteamLinuxLinksTest extends PHPUnit_Framework_TestCase
+	class SteamLinuxTest extends PHPUnit_Framework_TestCase
 	{
-		public function testLinks()
+		private $FilePath = __DIR__ . DIRECTORY_SEPARATOR . 'GAMES.json';
+		private $Games;
+		
+		public function testFileExists()
 		{
-			$Files = glob( __DIR__ . DIRECTORY_SEPARATOR . '_posts' . DIRECTORY_SEPARATOR . '*.markdown' );
+			$this->assertFileExists( $this->FilePath );
+		}
+		
+		/**
+		 * @depends testFileExists
+		 */
+		public function testFileNotEmpty()
+		{
+			$this->Games = file_get_contents( $this->FilePath );
 			
-			$this->assertNotEmpty( $Files );
+			$this->assertNotEmpty( $this->Games );
+		}
+		
+		/**
+		 * @depends testFileNotEmpty
+		 */
+		public function testJSON()
+		{
+			$Games = json_decode( $this->Games, true );
 			
-			foreach( $Files as $File )
+			$this->assertSame( json_last_error(), JSON_ERROR_NONE, json_last_error_msg() );
+			
+			foreach( $Games as $Key => $Value )
 			{
-				$File = file( $File, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES );
-				
-				$this->assertNotEmpty( $File );
-				
-				foreach( $File as $Line )
-				{
-					// Simple check for markdown list and url
-					if( substr( $Line, 0, 3 ) !== '- [' )
-					{
-						continue;
-					}
-					
-					$this->assertRegExp( '/^- \[(.+)\]\(http:\/\/store\.steampowered\.com\/app\/[0-9]{1,6}\/\)/', $Line );
-				}
+				$this->assertTrue( is_numeric( $Key ) );
+				$this->assertTrue( is_array( $Value ) );
 			}
 		}
 	}

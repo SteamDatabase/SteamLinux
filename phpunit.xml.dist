@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <phpunit colors="true">
 	<testsuites>
-		<testsuite name="Steam Store Links Test">
+		<testsuite name="Test JSON Validness">
 			<file>./_test.php</file>
 		</testsuite>
 	</testsuites>
