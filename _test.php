@@ -1,45 +1,46 @@
 <?php
 	class SteamLinuxTest extends PHPUnit_Framework_TestCase
 	{
-		private $FilePath;
-		private $Games;
-		
-		public function setFilePath()
+		public function filePathProvider()
 		{
-			$this->FilePath = __DIR__ . DIRECTORY_SEPARATOR . 'GAMES.json';
+			return __DIR__ . DIRECTORY_SEPARATOR . 'GAMES.json';
 		}
 		
 		/**
-		 * @dataProvider setFilePath
+		 * @dataProvider filePathProvider
 		 */
-		public function testFileExists()
+		public function testFileExists( $filePath )
 		{
-			$this->assertFileExists( $this->FilePath );
+			$this->assertFileExists( $filePath );
+			
+			return $filePath;
 		}
 		
 		/**
 		 * @depends testFileExists
 		 */
-		public function testFileNotEmpty()
+		public function testFileNotEmpty( $filePath )
 		{
-			$this->Games = file_get_contents( $this->FilePath );
+			$games = file_get_contents( $filePath );
 			
-			$this->assertNotEmpty( $this->Games );
+			$this->assertNotEmpty( $games );
+			
+			return $games;
 		}
 		
 		/**
 		 * @depends testFileNotEmpty
 		 */
-		public function testJSON()
+		public function testJSON( $games )
 		{
-			$Games = json_decode( $this->Games, true );
+			$games = json_decode( $games, true );
 			
 			$this->assertSame( json_last_error(), JSON_ERROR_NONE, json_last_error_msg() );
 			
-			foreach( $Games as $Key => $Value )
+			foreach( $games as $key => $value )
 			{
-				$this->assertTrue( is_numeric( $Key ) );
-				$this->assertTrue( is_array( $Value ) );
+				$this->assertTrue( is_numeric( $key ) );
+				$this->assertTrue( is_array( $value ) );
 			}
 		}
 	}
