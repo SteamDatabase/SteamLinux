@@ -100,6 +100,9 @@ Games confirmed to be working
 - [Expeditions: Conquistador](http://store.steampowered.com/app/237430/)
 - [Electronic Super Joy](http://store.steampowered.com/app/244870/)
 - [Euro Truck Simulator 2](http://store.steampowered.com/app/227300/)
+- [Faerie Solitaire](http://store.steampowered.com/app/38600/)
+> To play, you have to opt-in into the open beta.
+
 - [Fester Mudd: Curse of the Gold - Episode 1](http://store.steampowered.com/app/253310/)
 - [FEZ](http://store.steampowered.com/app/224760/)
 - [Finding Teddy](http://store.steampowered.com/app/259600/)
@@ -186,6 +189,9 @@ Games confirmed to be working
 - [No More Room in Hell](http://store.steampowered.com/app/224260/)
 - [Not the Robots](http://store.steampowered.com/app/257120/)
 - [Nihilumbra](http://store.steampowered.com/app/252670/)
+- [Nuclear Dawn](http://store.steampowered.com/app/17710/)
+> To play, you have to opt-in into the linux beta.
+
 - [Oil Rush](http://store.steampowered.com/app/200390/)
 - [Organ Trail: Director's Cut](http://store.steampowered.com/app/233740/)
 - [Osmos](http://store.steampowered.com/app/29180/)
