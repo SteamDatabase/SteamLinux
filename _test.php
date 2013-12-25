@@ -1,9 +1,17 @@
 <?php
 	class SteamLinuxTest extends PHPUnit_Framework_TestCase
 	{
-		private $FilePath = __DIR__ . DIRECTORY_SEPARATOR . 'GAMES.json';
+		private $FilePath;
 		private $Games;
 		
+		public function setFilePath()
+		{
+			$this->FilePath = __DIR__ . DIRECTORY_SEPARATOR . 'GAMES.json';
+		}
+		
+		/**
+		 * @dataProvider setFilePath
+		 */
 		public function testFileExists()
 		{
 			$this->assertFileExists( $this->FilePath );
