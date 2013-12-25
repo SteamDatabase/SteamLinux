@@ -262,7 +262,6 @@ Games confirmed to be working
 - [Syder Arcade](http://store.steampowered.com/app/252310/)
 - [Tales of Maj'Eyal](http://store.steampowered.com/app/259680/)
 - [Team Fortress 2](http://store.steampowered.com/app/440/)
-- [Team Fortress 2 Beta](http://store.steampowered.com/app/520/)
 - [Team Fortress Classic](http://store.steampowered.com/app/20/)
 - [Teleglitch: Die More Edition](http://store.steampowered.com/app/234390/)
 - [Tetrobot and Co.](http://store.steampowered.com/app/235980/)
