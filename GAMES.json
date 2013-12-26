@@ -50,7 +50,8 @@
 	"234900":
 	{
 		"Working": true,
-		"Comment": "Requires Adobe AIR see http://steamcommunity.com/games/anodyne/announcements/detail/1731905815482640375 for instructions"
+		"Comment": "Requires Adobe AIR.",
+        "CommentURL": "http://steamcommunity.com/games/anodyne/announcements/detail/1731905815482640375"
 	},
 	"91200":
 	{
@@ -280,7 +281,7 @@
 	"98800":
 	{
 		"Working": true,
-		"Comment": "Broken Overlay"
+		"Comment": "Broken overlay."
 	},
 	"236090":
 	{
@@ -301,7 +302,8 @@
 	"248800":
 	{
 		"Working": true,
-		"Comment": "Need to disable Steamworks on 64bit systems due to a bug. http://steamcommunity.com/app/248800/discussions/0/846965705285069220/#c846966336102411647"
+		"Comment": "Need to disable Steamworks on 64bit systems due to a bug.",
+        "CommentURL": "http://steamcommunity.com/app/248800/discussions/0/846965705285069220/#c846966336102411647"
 	},
 	"38740":
 	{
@@ -350,6 +352,7 @@
 	"38600":
 	{
 		"Working": true,
+        "Beta": true,
 		"Comment": "To play you have to opt-in into the open beta."
 	},
 	"253310":
@@ -403,7 +406,7 @@
 	"214420":
 	{
 		"Working": true,
-		"Comment": "Broken Overlay"
+		"Comment": "Broken overlay."
 	},
 	"239820":
 	{
@@ -488,7 +491,8 @@
 	"15400":
 	{
 		"Working": true,
-		"Comment": "May require a workaround to launch without getting stuck in a loop. https://wiki.archlinux.org/index.php/Steam/Game-specific_troubleshooting#Harvest:_Massive_Encounter"
+		"Comment": "May require a workaround to launch without getting stuck in a loop.",
+        "CommentURL": "https://wiki.archlinux.org/index.php/Steam/Game-specific_troubleshooting#Harvest:_Massive_Encounter"
 	},
 	"239700":
 	{
@@ -521,7 +525,7 @@
 	"214970":
 	{
 		"Working": true,
-		"Comment": "Broken Overlay"
+		"Comment": "Broken overlay."
 	},
 	"226960":
 	{
@@ -612,7 +616,7 @@
 	"211340":
 	{
 		"Working": true,
-		"Comment": "Broken Overlay"
+		"Comment": "Broken overlay."
 	},
 	"252250":
 	{
@@ -661,7 +665,7 @@
 	"248860":
 	{
 		"Working": true,
-		"Comment": "Broken Overlay"
+		"Comment": "Broken overlay."
 	},
 	"224260":
 	{
@@ -678,7 +682,8 @@
 	"17710":
 	{
 		"Working": true,
-		"Comment": "To play you have to opt-in into the linux beta."
+        "Beta": true,
+		"Comment": "To play you have to opt-in into the open beta."
 	},
 	"200390":
 	{
@@ -821,7 +826,7 @@
 	"13700":
 	{
 		"Working": true,
-		"Comment": "Broken Overlay"
+		"Comment": "Broken overlay."
 	},
 	"45100":
 	{
@@ -882,7 +887,8 @@
 	"242570":
 	{
 		"Working": true,
-		"Comment": "To play you have to opt-in into the linux beta."
+        "Beta": true,
+		"Comment": "To play you have to opt-in into the open beta."
 	},
 	"107200":
 	{
@@ -911,7 +917,8 @@
 	"209790":
 	{
 		"Working": true,
-		"Comment": "Achievements do not unlock. http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741"
+		"Comment": "Achievements do not unlock.",
+        "CommentURL": "http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741"
 	},
 	"115110":
 	{
@@ -988,7 +995,7 @@
 	"215160":
 	{
 		"Working": true,
-		"Comment": "Broken Overlay"
+		"Comment": "Broken overlay."
 	},
 	"221810":
 	{
@@ -1001,12 +1008,12 @@
 	"111010":
 	{
 		"Working": true,
-		"Comment": "Broken Overlay"
+		"Comment": "Broken overlay."
 	},
 	"111000":
 	{
 		"Working": true,
-		"Comment": "Broken Overlay"
+		"Comment": "Broken overlay."
 	},
 	"220090":
 	{
@@ -1136,11 +1143,11 @@
 	"249150":
 	{
 		"Hidden": true,
-		"Comment": "Demo, not a game"
+		"Comment": "Demo, not a game."
 	},
 	"790":
 	{
 		"Hidden": true,
-		"Comment": "Valve's server, not a game"
+		"Comment": "Valve's server, not a game."
 	}
 }
