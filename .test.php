@@ -1,7 +1,7 @@
 <?php
 	class SteamLinuxTest extends PHPUnit_Framework_TestCase
 	{
-		public function testFileExists( $filePath )
+		public function testFileExists( )
 		{
 			// Trying to get dataProvider to work with depends in phpunit requires some serious magic
 			$filePath = __DIR__ . DIRECTORY_SEPARATOR . 'GAMES.json';
