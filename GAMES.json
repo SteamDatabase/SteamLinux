@@ -1137,5 +1137,10 @@
 	{
 		"Hidden": true,
 		"Comment": "Demo, not a game"
+	},
+	"790":
+	{
+		"Hidden": true,
+		"Comment": "Valve's server, not a game"
 	}
 }

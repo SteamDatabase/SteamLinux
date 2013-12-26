@@ -62,6 +62,6 @@
 			
 			ksort( $games );
 			
-			$this->assertEquals( $gamesOriginal, $games, 'File must be sorted correctly by appid' );
+			$this->assertTrue( $gamesOriginal === $games, 'File must be sorted correctly by appid' );
 		}
 	}
