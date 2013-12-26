@@ -32,26 +32,21 @@
 			
 			$this->assertSame( json_last_error(), JSON_ERROR_NONE, json_last_error_msg() );
 			
-			$allowedKeys = Array( 'Working', 'Hidden', 'Comment' );
+			$allowedKeys = Array(
+				'Working' => 'is_bool',
+				'Hidden'  => 'is_bool',
+				'Comment' => 'is_string'
+			);
 			
-			foreach( $games as $key => $value )
+			foreach( $games as $appID => $value )
 			{
-				$this->assertTrue( is_numeric( $key ) );
-				$this->assertTrue( is_array( $value ) );
+				$this->assertTrue( is_numeric( $appID ), 'Key "' . $appID . '" must be numeric' );
+				$this->assertTrue( is_array( $value ), 'Value of "' . $appID . '" must be an array' );
 				
 				foreach( $value as $key => $value2 )
 				{
-					$this->assertArrayHasKey( $key, $allowedKeys );
-					
-					if( $key === 'Working' || $key === 'Hidden' )
-					{
-						$this->assertTrue( is_bool( $value2 ) );
-					}
-					else if( $key === 'Comment' )
-					{
-						$this->assertTrue( is_string( $value2 ) );
-						$this->assertNotEmpty( $value2 );
-					}
+					$this->assertArrayHasKey( $key, $allowedKeys, 'Invalid key "' . $key . '" in "' . $appID . '"' );
+					$this->assertTrue( $allowedKeys[ $key ]( $value2 ), '"' . $key . '" in "' . $appID . '" is not "' . $allowedKeys[ $key ] . '"' );
 				}
 			}
 			
