@@ -1,16 +1,11 @@
 <?php
 	class SteamLinuxTest extends PHPUnit_Framework_TestCase
 	{
-		public function filePathProvider()
-		{
-			return Array( Array( __DIR__ . DIRECTORY_SEPARATOR . 'GAMES.json' ) );
-		}
-		
-		/**
-		 * @dataProvider filePathProvider
-		 */
 		public function testFileExists( $filePath )
 		{
+			// Trying to get dataProvider to work with depends in phpunit requires some serious magic
+			$filePath = __DIR__ . DIRECTORY_SEPARATOR . 'GAMES.json';
+			
 			$this->assertFileExists( $filePath );
 			
 			return $filePath;
@@ -72,6 +67,6 @@
 			
 			ksort( $games );
 			
-			$this->assertEquals( $gamesOriginal, $games, "File must be sorted correctly by appid" );
+			$this->assertEquals( $gamesOriginal, $games, 'File must be sorted correctly by appid' );
 		}
 	}

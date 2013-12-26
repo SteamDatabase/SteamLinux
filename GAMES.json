@@ -1132,5 +1132,10 @@
 	"259430":
 	{
 		"Working": true
+	},
+	"249150":
+	{
+		"Hidden": true,
+		"Comment": "Demo, not a game"
 	}
 }
