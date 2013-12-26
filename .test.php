@@ -33,9 +33,11 @@
 			$this->assertSame( json_last_error(), JSON_ERROR_NONE, json_last_error_msg() );
 			
 			$allowedKeys = Array(
-				'Working' => 'is_bool',
-				'Hidden'  => 'is_bool',
-				'Comment' => 'is_string'
+				'Working'    => 'is_bool',
+				'Hidden'     => 'is_bool',
+                'Beta'       => 'is_bool',
+				'Comment'    => 'is_string',
+                'CommentURL' => 'is_string'
 			);
 			
 			foreach( $games as $appID => $value )
