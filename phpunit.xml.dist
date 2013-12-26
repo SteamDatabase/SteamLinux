@@ -2,7 +2,7 @@
 <phpunit colors="true">
 	<testsuites>
 		<testsuite name="Test JSON Validness">
-			<file>./_test.php</file>
+			<file>./.test.php</file>
 		</testsuite>
 	</testsuites>
 </phpunit>

@@ -16,7 +16,6 @@ Credits
 - [swordfischer](https://github.com/swordfischer) - Re-made the list from scratch to use markdown and jekyll.
 - [xPaw](https://github.com/xPaw) - Improved the new list by making different stylesheet additions, and other minor improvements.
 - [soeb](https://github.com/soeb) - Frequent contributor to the list.
-- [FatCow Web Hosting](http://www.fatcow.com/) - Favicon creator.
 - And a whole lot of very helpful people! Too many to list, truthfully.
 
 Feedback is welcome, and pull requests are even more welcome.

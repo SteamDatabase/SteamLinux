@@ -3,7 +3,7 @@
 	{
 		public function filePathProvider()
 		{
-			return __DIR__ . DIRECTORY_SEPARATOR . 'GAMES.json';
+			return Array( __DIR__ . DIRECTORY_SEPARATOR . 'GAMES.json' );
 		}
 		
 		/**
@@ -13,7 +13,7 @@
 		{
 			$this->assertFileExists( $filePath );
 			
-			return $filePath;
+			return Array( $filePath );
 		}
 		
 		/**
@@ -25,7 +25,7 @@
 			
 			$this->assertNotEmpty( $games );
 			
-			return $games;
+			return Array( $games );
 		}
 		
 		/**
@@ -36,6 +36,8 @@
 			$games = json_decode( $games, true );
 			
 			$this->assertSame( json_last_error(), JSON_ERROR_NONE, json_last_error_msg() );
+			
+			$allowedKeys = Array( 'Working', 'Hidden', 'Comment' );
 			
 			foreach( $games as $key => $value )
 			{
