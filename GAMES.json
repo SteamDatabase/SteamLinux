@@ -51,7 +51,7 @@
 	{
 		"Working": true,
 		"Comment": "Requires Adobe AIR.",
-        "CommentURL": "http://steamcommunity.com/games/anodyne/announcements/detail/1731905815482640375"
+		"CommentURL": "http://steamcommunity.com/games/anodyne/announcements/detail/1731905815482640375"
 	},
 	"91200":
 	{
@@ -303,7 +303,7 @@
 	{
 		"Working": true,
 		"Comment": "Need to disable Steamworks on 64bit systems due to a bug.",
-        "CommentURL": "http://steamcommunity.com/app/248800/discussions/0/846965705285069220/#c846966336102411647"
+		"CommentURL": "http://steamcommunity.com/app/248800/discussions/0/846965705285069220/#c846966336102411647"
 	},
 	"38740":
 	{
@@ -352,7 +352,7 @@
 	"38600":
 	{
 		"Working": true,
-        "Beta": true,
+		"Beta": true,
 		"Comment": "To play you have to opt-in into the open beta."
 	},
 	"253310":
@@ -492,7 +492,7 @@
 	{
 		"Working": true,
 		"Comment": "May require a workaround to launch without getting stuck in a loop.",
-        "CommentURL": "https://wiki.archlinux.org/index.php/Steam/Game-specific_troubleshooting#Harvest:_Massive_Encounter"
+		"CommentURL": "https://wiki.archlinux.org/index.php/Steam/Game-specific_troubleshooting#Harvest:_Massive_Encounter"
 	},
 	"239700":
 	{
@@ -682,7 +682,7 @@
 	"17710":
 	{
 		"Working": true,
-        "Beta": true,
+		"Beta": true,
 		"Comment": "To play you have to opt-in into the open beta."
 	},
 	"200390":
@@ -887,7 +887,7 @@
 	"242570":
 	{
 		"Working": true,
-        "Beta": true,
+		"Beta": true,
 		"Comment": "To play you have to opt-in into the open beta."
 	},
 	"107200":
@@ -918,7 +918,7 @@
 	{
 		"Working": true,
 		"Comment": "Achievements do not unlock.",
-        "CommentURL": "http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741"
+		"CommentURL": "http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741"
 	},
 	"115110":
 	{

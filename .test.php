@@ -35,9 +35,9 @@
 			$allowedKeys = Array(
 				'Working'    => 'is_bool',
 				'Hidden'     => 'is_bool',
-                'Beta'       => 'is_bool',
+				'Beta'       => 'is_bool',
 				'Comment'    => 'is_string',
-                'CommentURL' => 'is_string'
+				'CommentURL' => 'is_string'
 			);
 			
 			foreach( $games as $appID => $value )
