@@ -3,7 +3,7 @@
 	{
 		public function filePathProvider()
 		{
-			return Array( __DIR__ . DIRECTORY_SEPARATOR . 'GAMES.json' );
+			return Array( Array( __DIR__ . DIRECTORY_SEPARATOR . 'GAMES.json' ) );
 		}
 		
 		/**
@@ -13,7 +13,7 @@
 		{
 			$this->assertFileExists( $filePath );
 			
-			return Array( $filePath );
+			return $filePath;
 		}
 		
 		/**
@@ -25,7 +25,7 @@
 			
 			$this->assertNotEmpty( $games );
 			
-			return Array( $games );
+			return $games;
 		}
 		
 		/**
@@ -43,6 +43,35 @@
 			{
 				$this->assertTrue( is_numeric( $key ) );
 				$this->assertTrue( is_array( $value ) );
+				
+				foreach( $value as $key => $value2 )
+				{
+					$this->assertArrayHasKey( $key, $allowedKeys );
+					
+					if( $key === 'Working' || $key === 'Hidden' )
+					{
+						$this->assertTrue( is_bool( $value2 ) );
+					}
+					else if( $key === 'Comment' )
+					{
+						$this->assertTrue( is_string( $value2 ) );
+						$this->assertNotEmpty( $value2 );
+					}
+				}
 			}
+			
+			return $games;
+		}
+		
+		/**
+		 * @depends testJSON
+		 */
+		public function testSorting( $games )
+		{
+			$gamesOriginal = $games;
+			
+			ksort( $games );
+			
+			$this->assertEquals( $gamesOriginal, $games, "File must be sorted correctly by appid" );
 		}
 	}
