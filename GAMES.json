@@ -91,10 +91,22 @@
 	{
 		"Working": true 
 	},
+	"580":
+	{
+		"Hidden": true
+	},
+	"742":
+	{
+		"Hidden": true
+	},
+	"817":
+	{
+		"Hidden": true
+	},
 	"790":
 	{
-	"Hidden": true,
-	"Comment": "Valve's server, not a game." 
+		"Hidden": true,
+		"Comment": "Valve's server, not a game." 
 	},
 	"1200":
 	{
@@ -477,6 +489,10 @@
 	{
 		"Working": true 
 	},
+	"205800":
+	{
+		"Hidden": true
+	},
 	"205910":
 	{
 		"Working": true 
@@ -587,6 +603,10 @@
 	{
 		"Working": true,
 		"Comment": "Broken overlay." 
+	},
+	"215360":
+	{
+		"Hidden": true
 	},
 	"215510":
 	{
@@ -793,6 +813,18 @@
 	{
 		"Working": true 
 	},
+	"232290":
+	{
+		"Hidden": true
+	},
+	"232330":
+	{
+		"Hidden": true
+	},
+	"232370":
+	{
+		"Hidden": true
+	},
 	"232430":
 	{
 		"Working": true 
@@ -861,6 +893,18 @@
 	{
 		"Working": true 
 	},
+	"236170":
+	{
+		"Hidden": true
+	},
+	"236190":
+	{
+		"Hidden": true
+	},
+	"236210":
+	{
+		"Hidden": true
+	},
 	"236730":
 	{
 		"Working": true 
@@ -880,6 +924,10 @@
 	"238280":
 	{
 		"Working": true 
+	},
+	"238690":
+	{
+		"Hidden": true
 	},
 	"238910":
 	{
@@ -1020,7 +1068,7 @@
 	},
 	"249150":
 	{
-	"Hidden": true,
+		"Hidden": true,
 		"Comment": "Demo, not a game." 
 	},
 	"249630":
@@ -1122,6 +1170,10 @@
 	"258050":
 	{
 		"Working": true 
+	},
+	"258550":
+	{
+		"Hidden": true
 	},
 	"258890":
 	{
