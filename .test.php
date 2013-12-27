@@ -30,7 +30,7 @@
 		{
 			$games = json_decode( $games, true );
 			
-			$this->assertSame( json_last_error(), JSON_ERROR_NONE, json_last_error_msg() );
+			$this->assertTrue( json_last_error() === JSON_ERROR_NONE, 'JSON Error: ' . json_last_error_msg() );
 			
 			$allowedKeys = Array(
 				'Working'    => 'is_bool',
@@ -40,15 +40,26 @@
 				'CommentURL' => 'is_string'
 			);
 			
-			foreach( $games as $appID => $value )
+			foreach( $games as $appID => $keys )
 			{
 				$this->assertTrue( is_numeric( $appID ), 'Key "' . $appID . '" must be numeric' );
-				$this->assertTrue( is_array( $value ), 'Value of "' . $appID . '" must be an array' );
+				$this->assertTrue( is_array( $keys ), 'Value of "' . $appID . '" must be an array' );
 				
-				foreach( $value as $key => $value2 )
+				foreach( $keys as $key => $value )
 				{
 					$this->assertArrayHasKey( $key, $allowedKeys, 'Invalid key "' . $key . '" in "' . $appID . '"' );
-					$this->assertTrue( $allowedKeys[ $key ]( $value2 ), '"' . $key . '" in "' . $appID . '" is not "' . $allowedKeys[ $key ] . '"' );
+					$this->assertTrue( $allowedKeys[ $key ]( $value ), '"' . $key . '" in "' . $appID . '" is not "' . $allowedKeys[ $key ] . '"' );
+					
+					if( $key === 'CommentURL' )
+					{
+						$this->assertTrue( array_key_exists( 'Comment', $keys ), 'CommentURL key cant be without Comment key in "' . $appID . '"' );
+					}
+					else if( $key === 'Hidden' )
+					{
+						$this->assertFalse( array_key_exists( 'Working', $keys ), 'Working key cant be used along with Hidden key in "' . $appID . '"' );
+						$this->assertFalse( array_key_exists( 'Beta', $keys ), 'Beta key cant be used along with Hidden key in "' . $appID . '"' );
+						$this->assertTrue( array_key_exists( 'Comment', $keys ), 'Hidden app "' . $appID . '" must contain a Comment explaining why it was hidden' );
+					}
 				}
 			}
 			

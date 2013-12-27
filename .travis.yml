@@ -1,9 +1,7 @@
 language: php
 php:
   - 5.5
-branches:
-  only:
-    - gh-pages
+script: phpunit --configuration .phpunit.xml --verbose --colors
 notifications:
   email: false
   irc:
