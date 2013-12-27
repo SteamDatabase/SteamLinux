@@ -1,171 +1,5 @@
 {
-	"227580":
-	{
-		"Working": true
-	},
-	"259620":
-	{
-		"Working": true
-	},
-	"207650":
-	{
-		"Working": true
-	},
-	"15560":
-	{
-		"Working": true
-	},
-	"214910":
-	{
-		"Working": true
-	},
-	"230310":
-	{
-		"Working": true
-	},
-	"41300":
-	{
-		"Working": true
-	},
-	"239200":
-	{
-		"Working": true
-	},
-	"57300":
-	{
-		"Working": true
-	},
-	"209370":
-	{
-		"Working": true
-	},
-	"18700":
-	{
-		"Working": true
-	},
-	"217690":
-	{
-		"Working": true
-	},
-	"234900":
-	{
-		"Working": true,
-		"Comment": "Requires Adobe AIR.",
-		"CommentURL": "http://steamcommunity.com/games/anodyne/announcements/detail/1731905815482640375"
-	},
-	"91200":
-	{
-		"Working": true
-	},
-	"252170":
-	{
-		"Working": true
-	},
-	"236730":
-	{
-		"Working": true
-	},
-	"251530":
-	{
-		"Working": true
-	},
-	"24420":
-	{
-		"Working": true
-	},
-	"224860":
-	{
-		"Working": true
-	},
-	"250110":
-	{
-		"Working": true
-	},
-	"112100":
-	{
-		"Working": true
-	},
-	"204300":
-	{
-		"Working": true
-	},
-	"41900":
-	{
-		"Working": true
-	},
-	"107100":
-	{
-		"Working": true
-	},
-	"237470":
-	{
-		"Working": true
-	},
-	"231040":
-	{
-		"Working": true
-	},
-	"49600":
-	{
-		"Working": true
-	},
-	"238910":
-	{
-		"Working": true
-	},
-	"218060":
-	{
-		"Working": true
-	},
-	"250460":
-	{
-		"Working": true
-	},
-	"262940":
-	{
-		"Working": true
-	},
-	"225260":
-	{
-		"Working": true
-	},
-	"95300":
-	{
-		"Working": true
-	},
-	"220460":
-	{
-		"Working": true
-	},
-	"227860":
-	{
-		"Working": true
-	},
-	"200900":
-	{
-		"Working": true
-	},
-	"222520":
-	{
-		"Working": true
-	},
-	"72000":
-	{
-		"Working": true
-	},
-	"26500":
-	{
-		"Working": true
-	},
-	"211900":
-	{
-		"Working": true
-	},
-	"115100":
-	{
-		"Working": true
-	},
-	"80":
+	"10":
 	{
 		"Working": true
 	},
@@ -173,31 +7,75 @@
 	{
 		"Working": true
 	},
-	"240":
+	"102840":
 	{
 		"Working": true
 	},
-	"10":
+	"105100":
+	{
+		"Working": true,
+		"Comment": "Overlay works only in full-screen mode."
+	},
+	"107100":
 	{
 		"Working": true
 	},
-	"203770":
+	"107200":
 	{
 		"Working": true
 	},
-	"207250":
+	"107800":
 	{
 		"Working": true
 	},
-	"228440":
+	"108200":
+	{
+		"Working": true,
+		"Comment": "Steam API doesn't work on 64bit including online mode."
+	},
+	"108600":
 	{
 		"Working": true
 	},
-	"1520":
+	"111000":
+	{
+		"Working": true,
+		"Comment": "Broken overlay."
+	},
+	"111010":
+	{	
+		"Working": true,
+		"Comment": "Broken overlay."
+	},
+	"111100":
 	{
 		"Working": true
 	},
-	"251410":
+	"112100":
+	{
+		"Working": true
+	},
+	"113020":
+	{
+		"Working": true
+	},
+	"115100":
+	{
+		"Working": true
+	},
+	"115110":
+	{
+		"Working": true
+	},
+	"1200":
+	{
+		"Working": true
+	},
+	"1230":
+	{
+		"Working": true
+	},
+	"1250":
 	{
 		"Working": true
 	},
@@ -205,286 +83,28 @@
 	{
 		"Working": true
 	},
-	"1500":
-	{
-		"Working": true
-	},
-	"300":
-	{
-		"Working": true
-	},
-	"30":
-	{
-		"Working": true
-	},
-	"40":
-	{
-		"Working": true
-	},
-	"218410":
-	{
-		"Working": true,
-		"Comment": "Steamworks features are unavailable."
-	},
-	"249630":
-	{
-		"Working": true
-	},
-	"245470":
-	{
-		"Working": true
-	},
-	"230760":
-	{
-		"Working": true
-	},
-	"248510":
-	{
-		"Working": true
-	},
-	"219740":
-	{
-		"Working": true
-	},
-	"248610":
-	{
-		"Working": true
-	},
-	"248470":
-	{
-		"Working": true
-	},
-	"570":
-	{
-		"Working": true
-	},
-	"205790":
-	{
-		"Working": true
-	},
-	"219200":
-	{
-		"Working": true
-	},
-	"225140":
-	{
-		"Working": true
-	},
-	"65800":
-	{
-		"Working": true
-	},
-	"229520":
-	{
-		"Working": true
-	},
-	"98800":
-	{
-		"Working": true,
-		"Comment": "Broken overlay."
-	},
-	"236090":
-	{
-		"Working": true
-	},
-	"35480":
-	{
-		"Working": true
-	},
-	"213650":
-	{
-		"Working": true
-	},
-	"202730":
-	{
-		"Working": true
-	},
-	"248800":
-	{
-		"Working": true,
-		"Comment": "Need to disable Steamworks on 64bit systems due to a bug.",
-		"CommentURL": "http://steamcommunity.com/app/248800/discussions/0/846965705285069220/#c846966336102411647"
-	},
-	"38740":
-	{
-		"Working": true
-	},
-	"214550":
-	{
-		"Working": true
-	},
-	"252630":
-	{
-		"Working": true
-	},
-	"207570":
-	{
-		"Working": true
-	},
-	"261700":
-	{
-		"Working": true
-	},
-	"251370":
-	{
-		"Working": true
-	},
-	"236850":
-	{
-		"Working": true
-	},
-	"33680":
-	{
-		"Working": true
-	},
-	"237430":
-	{
-		"Working": true
-	},
-	"244870":
-	{
-		"Working": true
-	},
-	"227300":
-	{
-		"Working": true
-	},
-	"38600":
-	{
-		"Working": true,
-		"Beta": true,
-		"Comment": "To play you have to opt-in into the open beta."
-	},
-	"253310":
-	{
-		"Working": true
-	},
-	"224760":
-	{
-		"Working": true
-	},
-	"259600":
-	{
-		"Working": true
-	},
-	"231670":
-	{
-		"Working": true
-	},
-	"249990":
-	{
-		"Working": true
-	},
-	"45450":
-	{
-		"Working": true
-	},
-	"244810":
-	{
-		"Working": true
-	},
-	"98200":
-	{
-		"Working": true
-	},
-	"212680":
-	{
-		"Working": true
-	},
-	"4000":
-	{
-		"Working": true
-	},
-	"44200":
-	{
-		"Working": true
-	},
-	"216290":
-	{
-		"Working": true
-	},
-	"214420":
-	{
-		"Working": true,
-		"Comment": "Broken overlay."
-	},
-	"239820":
-	{
-		"Working": true
-	},
-	"80310":
-	{
-		"Working": true
-	},
-	"253570":
-	{
-		"Working": true
-	},
-	"243140":
-	{
-		"Working": true
-	},
-	"41800":
-	{
-		"Working": true
-	},
-	"209080":
-	{
-		"Working": true
-	},
-	"232430":
-	{
-		"Working": true
-	},
-	"70120":
-	{
-		"Working": true
-	},
-	"70":
-	{
-		"Working": true
-	},
-	"220":
-	{
-		"Working": true
-	},
-	"380":
-	{
-		"Working": true
-	},
-	"420":
-	{
-		"Working": true
-	},
-	"340":
-	{
-		"Working": true
-	},
-	"320":
-	{
-		"Working": true
-	},
-	"360":
-	{
-		"Working": true
-	},
 	"130":
 	{
 		"Working": true
 	},
-	"50":
+	"13700":
+	{
+		"Working": true,
+		"Comment": "Broken overlay."
+	},
+	"1500":
 	{
 		"Working": true
 	},
-	"280":
+	"1510":
 	{
 		"Working": true
 	},
-	"41100":
+	"1520":
 	{
 		"Working": true
 	},
-	"239070":
+	"1530":
 	{
 		"Working": true
 	},
@@ -494,188 +114,7 @@
 		"Comment": "May require a workaround to launch without getting stuck in a loop.",
 		"CommentURL": "https://wiki.archlinux.org/index.php/Steam/Game-specific_troubleshooting#Harvest:_Massive_Encounter"
 	},
-	"239700":
-	{
-		"Working": true
-	},
-	"209270":
-	{
-		"Working": true
-	},
-	"219150":
-	{
-		"Working": true
-	},
-	"245390":
-	{
-		"Working": true
-	},
-	"218660":
-	{
-		"Working": true
-	},
-	"206690":
-	{
-		"Working": true
-	},
-	"248710":
-	{
-		"Working": true
-	},
-	"214970":
-	{
-		"Working": true,
-		"Comment": "Broken overlay."
-	},
-	"226960":
-	{
-		"Working": true
-	},
-	"241320":
-	{
-		"Working": true
-	},
-	"220900":
-	{
-		"Working": true
-	},
-	"233230":
-	{
-		"Working": true
-	},
-	"231200":
-	{
-		"Working": true
-	},
-	"220200":
-	{
-		"Working": true
-	},
-	"1250":
-	{
-		"Working": true
-	},
-	"227160":
-	{
-		"Working": true
-	},
-	"219830":
-	{
-		"Working": true
-	},
-	"231740":
-	{
-		"Working": true
-	},
-	"250380":
-	{
-		"Working": true
-	},
-	"248190":
-	{
-		"Working": true,
-		"Comment": "There might be some input glitches on the steam overlay."
-	},
-	"550":
-	{
-		"Working": true
-	},
-	"223530":
-	{
-		"Working": true
-	},
-	"248410":
-	{
-		"Working": true
-	},
-	"238280":
-	{
-		"Working": true
-	},
-	"207170":
-	{
-		"Working": true
-	},
-	"231910":
-	{
-		"Working": true
-	},
-	"221260":
-	{
-		"Working": true
-	},
-	"25010":
-	{
-		"Working": true
-	},
-	"105100":
-	{
-		"Working": true,
-		"Comment": "Overlay works only in full-screen mode."
-	},
-	"211340":
-	{
-		"Working": true,
-		"Comment": "Broken overlay."
-	},
-	"252250":
-	{
-		"Working": true
-	},
-	"1230":
-	{
-		"Working": true
-	},
-	"214560":
-	{
-		"Working": true
-	},
-	"248550":
-	{
-		"Working": true
-	},
-	"43160":
-	{
-		"Working": true
-	},
-	"231310":
-	{
-		"Working": true
-	},
-	"113020":
-	{
-		"Working": true
-	},
-	"258950":
-	{
-		"Working": true
-	},
-	"252750":
-	{
-		"Working": true
-	},
-	"1530":
-	{
-		"Working": true
-	},
-	"4920":
-	{
-		"Working": true
-	},
-	"248860":
-	{
-		"Working": true,
-		"Comment": "Broken overlay."
-	},
-	"224260":
-	{
-		"Working": true
-	},
-	"257120":
-	{
-		"Working": true
-	},
-	"252670":
+	"15560":
 	{
 		"Working": true
 	},
@@ -683,188 +122,48 @@
 	{
 		"Working": true,
 		"Beta": true,
-		"Comment": "To play you have to opt-in into the open beta."
+	},
+	"18300":
+	{
+		"Working": true
+	},
+	"18700":
+	{
+		"Working": true
+	},
+	"20":
+	{
+		"Working": true
 	},
 	"200390":
 	{
 		"Working": true
 	},
-	"233740":
+	"200900":
 	{
 		"Working": true
 	},
-	"29180":
+	"201310":
 	{
 		"Working": true
 	},
-	"25000":
+	"202730":
 	{
 		"Working": true
 	},
-	"214870":
+	"203210":
 	{
 		"Working": true
 	},
-	"259470":
+	"203770":
 	{
 		"Working": true
 	},
-	"22120":
+	"204060":
 	{
 		"Working": true
 	},
-	"22180":
-	{
-		"Working": true
-	},
-	"22140":
-	{
-		"Working": true
-	},
-	"246360":
-	{
-		"Working": true
-	},
-	"243780":
-	{
-		"Working": true
-	},
-	"255870":
-	{
-		"Working": true
-	},
-	"233250":
-	{
-		"Working": true,
-		"Comment": "Doesn't have a 32-bit version yet."
-	},
-	"400":
-	{
-		"Working": true
-	},
-	"232770":
-	{
-		"Working": true
-	},
-	"223470":
-	{
-		"Working": true
-	},
-	"108600":
-	{
-		"Working": true
-	},
-	"219680":
-	{
-		"Working": true
-	},
-	"3830":
-	{
-		"Working": true
-	},
-	"222140":
-	{
-		"Working": true
-	},
-	"233450":
-	{
-		"Working": true
-	},
-	"253410":
-	{
-		"Working": true
-	},
-	"233370":
-	{
-		"Working": true,
-		"Comment": "May require additional libraries or installation of thirdy party packages (xdelta3 libquazip) for the launcher."
-	},
-	"234190":
-	{
-		"Working": true
-	},
-	"247870":
-	{
-		"Working": true
-	},
-	"1200":
-	{
-		"Working": true
-	},
-	"93200":
-	{
-		"Working": true
-	},
-	"60":
-	{
-		"Working": true
-	},
-	"107800":
-	{
-		"Working": true
-	},
-	"215510":
-	{
-		"Working": true
-	},
-	"241600":
-	{
-		"Working": true
-	},
-	"38720":
-	{
-		"Working": true
-	},
-	"252490":
-	{
-		"Working": true
-	},
-	"248450":
-	{
-		"Working": true
-	},
-	"13700":
-	{
-		"Working": true,
-		"Comment": "Broken overlay."
-	},
-	"45100":
-	{
-		"Working": true
-	},
-	"41070":
-	{
-		"Working": true
-	},
-	"225160":
-	{
-		"Working": true
-	},
-	"234650":
-	{
-		"Working": true
-	},
-	"6120":
-	{
-		"Working": true
-	},
-	"102840":
-	{
-		"Working": true
-	},
-	"20820":
-	{
-		"Working": true
-	},
-	"259510":
-	{
-		"Working": true
-	},
-	"257770":
-	{
-		"Working": true
-	},
-	"242880":
+	"204180":
 	{
 		"Working": true
 	},
@@ -872,45 +171,59 @@
 	{
 		"Working": true
 	},
-	"111100":
+	"204300":
 	{
 		"Working": true
 	},
-	"97000":
+	"205790":
 	{
 		"Working": true
 	},
-	"251910":
+	"205910":
 	{
 		"Working": true
 	},
-	"242570":
-	{
-		"Working": true,
-		"Beta": true,
-		"Comment": "To play you have to opt-in into the open beta."
-	},
-	"107200":
+	"206690":
 	{
 		"Working": true
 	},
-	"246090":
+	"207170":
 	{
 		"Working": true
 	},
-	"92800":
+	"207250":
 	{
 		"Working": true
 	},
-	"253650":
+	"207570":
 	{
 		"Working": true
 	},
-	"18300":
+	"207650":
 	{
 		"Working": true
 	},
-	"210170":
+	"20820":
+	{
+		"Working": true
+	},
+	"209080":
+	{
+		"Working": true
+	},
+	"209190":
+	{
+		"Working": true
+	},
+	"209270":
+	{
+		"Working": true
+	},
+	"209370":
+	{
+		"Working": true
+	},
+	"209540":
 	{
 		"Working": true
 	},
@@ -920,147 +233,75 @@
 		"Comment": "Achievements do not unlock.",
 		"CommentURL": "http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741"
 	},
-	"115110":
+	"210170":
 	{
 		"Working": true
+	},
+	"211340":
+	{
+		"Working": true,
+		"Comment": "Broken overlay."
 	},
 	"211820":
 	{
 		"Working": true
 	},
-	"209190":
+	"211900":
 	{
 		"Working": true
 	},
-	"96200":
+	"212680":
 	{
 		"Working": true
 	},
-	"209540":
+	"213650":
 	{
 		"Working": true
 	},
-	"204060":
+	"214420":
+	{
+		"Working": true,
+		"Comment": "Broken overlay."
+	},
+	"214550":
 	{
 		"Working": true
 	},
-	"221640":
+	"214560":
 	{
 		"Working": true
 	},
-	"40800":
+	"214870":
 	{
 		"Working": true
 	},
-	"234000":
+	"214910":
 	{
 		"Working": true
 	},
-	"233720": 
+	"214970":
 	{
-		"Working": true
-	},
-	"258050":
-	{
-		"Working": true
-	},
-	"252310":
-	{
-		"Working": true
-	},
-	"259680":
-	{
-		"Working": true
-	},
-	"440":
-	{
-		"Working": true
-	},
-	"20":
-	{
-		"Working": true
-	},
-	"234390":
-	{
-		"Working": true
-	},
-	"235980":
-	{
-		"Working": true
-	},
-	"221830":
-	{
-		"Working": true
+		"Working": true,
+		"Comment": "Broken overlay."
 	},
 	"215160":
 	{
 		"Working": true,
 		"Comment": "Broken overlay."
 	},
-	"221810":
+	"215510":
 	{
 		"Working": true
 	},
-	"242530":
+	"216290":
 	{
 		"Working": true
 	},
-	"111010":
-	{
-		"Working": true,
-		"Comment": "Broken overlay."
-	},
-	"111000":
-	{
-		"Working": true,
-		"Comment": "Broken overlay."
-	},
-	"220090":
+	"217690":
 	{
 		"Working": true
 	},
-	"67000":
-	{
-		"Working": true
-	},
-	"234940":
-	{
-		"Working": true
-	},
-	"220780":
-	{
-		"Working": true
-	},
-	"108200":
-	{
-		"Working": true,
-		"Comment": "Steam API doesn't work on 64bit including online mode."
-	},
-	"205910":
-	{
-		"Working": true
-	},
-	"203210":
-	{
-		"Working": true
-	},
-	"38700":
-	{
-		"Working": true
-	},
-	"221020":
-	{
-		"Working": true
-	},
-	"35720":
-	{
-		"Working": true
-	},
-	"258890":
-	{
-		"Working": true
-	},
-	"219190":
+	"218060":
 	{
 		"Working": true
 	},
@@ -1068,23 +309,104 @@
 	{
 		"Working": true
 	},
-	"1510":
+	"218410":
+	{
+		"Working": true,
+		"Comment": "Steamworks features are unavailable."
+	},
+	"218660":
 	{
 		"Working": true
 	},
-	"242860":
+	"219150":
 	{
 		"Working": true
 	},
-	"70300":
+	"219190":
 	{
 		"Working": true
 	},
-	"227200":
+	"219200":
 	{
 		"Working": true
 	},
-	"230190":
+	"219680":
+	{
+		"Working": true
+	},
+	"219740":
+	{
+		"Working": true
+	},
+	"219830":
+	{
+		"Working": true
+	},
+	"220":
+	{
+		"Working": true
+	},
+	"22000":
+	{
+		"Working": true
+	},
+	"220090":
+	{
+		"Working": true
+	},
+	"220200":
+	{
+		"Working": true
+	},
+	"220460":
+	{
+		"Working": true
+	},
+	"220780":
+	{
+		"Working": true
+	},
+	"220900":
+	{
+		"Working": true
+	},
+	"221020":
+	{
+		"Working": true
+	},
+	"22120":
+	{
+		"Working": true
+	},
+	"221260":
+	{
+		"Working": true
+	},
+	"22140":
+	{
+		"Working": true
+	},
+	"221640":
+	{
+		"Working": true
+	},
+	"22180":
+	{
+		"Working": true
+	},
+	"221810":
+	{
+		"Working": true
+	},
+	"221830":
+	{
+		"Working": true
+	},
+	"222140":
+	{
+		"Working": true
+	},
+	"222520":
 	{
 		"Working": true
 	},
@@ -1092,15 +414,268 @@
 	{
 		"Working": true
 	},
-	"58610":
+	"223470":
 	{
 		"Working": true
 	},
-	"259130":
+	"223530":
 	{
 		"Working": true
 	},
-	"204180":
+	"224260":
+	{
+		"Working": true
+	},
+	"224760":
+	{
+		"Working": true
+	},
+	"224860":
+	{
+		"Working": true
+	},
+	"225140":
+	{
+		"Working": true
+	},
+	"225160":
+	{
+		"Working": true
+	},
+	"225260":
+	{
+		"Working": true
+	},
+	"22600":
+	{
+		"Working": true
+	},
+	"226960":
+	{
+		"Working": true
+	},
+	"227160":
+	{
+		"Working": true
+	},
+	"227200":
+	{
+		"Working": true
+	},
+	"227300":
+	{
+		"Working": true
+	},
+	"227580":
+	{
+		"Working": true
+	},
+	"227860":
+	{
+		"Working": true
+	},
+	"228440":
+	{
+		"Working": true
+	},
+	"229520":
+	{
+		"Working": true
+	},
+	"230190":
+	{
+		"Working": true
+	},
+	"230310":
+	{
+		"Working": true
+	},
+	"230760":
+	{
+		"Working": true
+	},
+	"231040":
+	{
+		"Working": true
+	},
+	"231200":
+	{
+		"Working": true
+	},
+	"231310":
+	{
+		"Working": true
+	},
+	"231670":
+	{
+		"Working": true
+	},
+	"231740":
+	{
+		"Working": true
+	},
+	"231910":
+	{
+		"Working": true
+	},
+	"232430":
+	{
+		"Working": true
+	},
+	"232770":
+	{
+		"Working": true
+	},
+	"233230":
+	{
+		"Working": true
+	},
+	"233250":
+	{
+		"Working": true,
+		"Comment": "Doesn't have a 32-bit version yet."
+	},
+	"233370":
+	{
+		"Working": true,
+		"Comment": "May require additional libraries or installation of thirdy party packages (xdelta3 libquazip) for the launcher."
+	},
+	"233450":
+	{
+		"Working": true
+	},
+	"233720":
+	{
+		"Working": true
+	},
+	"233740":
+	{
+		"Working": true
+	},
+	"234000":
+	{
+		"Working": true
+	},
+	"234190":
+	{
+		"Working": true
+	},
+	"234390":
+	{
+		"Working": true
+	},
+	"234650":
+	{
+		"Working": true
+	},
+	"234900":
+	{
+		"Working": true,
+		"Comment": "Requires Adobe AIR.",
+		"CommentURL": "http://steamcommunity.com/games/anodyne/announcements/detail/1731905815482640375"
+	},
+	"234940":
+	{
+		"Working": true
+	},
+	"235980":
+	{
+		"Working": true
+	},
+	"236090":
+	{
+		"Working": true
+	},
+	"236730":
+	{
+		"Working": true
+	},
+	"236850":
+	{
+		"Working": true
+	},
+	"237430":
+	{
+		"Working": true
+	},
+	"237470":
+	{
+		"Working": true
+	},
+	"238280":
+	{
+		"Working": true
+	},
+	"238910":
+	{
+		"Working": true
+	},
+	"239070":
+	{
+		"Working": true
+	},
+	"239200":
+	{
+		"Working": true
+	},
+	"239700":
+	{
+		"Working": true
+	},
+	"239820":
+	{
+		"Working": true
+	},
+	"240":
+	{
+		"Working": true
+	},
+	"241320":
+	{
+		"Working": true
+	},
+	"241600":
+	{
+		"Working": true
+	},
+	"242530":
+	{
+		"Working": true
+	},
+	"242570":
+	{
+		"Working": true,
+		"Beta": true
+	},
+	"242860":
+	{
+		"Working": true
+	},
+	"242880":
+	{
+		"Working": true
+	},
+	"243140":
+	{
+		"Working": true
+	},
+	"243780":
+	{
+		"Working": true
+	},
+	"24420":
+	{
+		"Working": true
+	},
+	"244810":
+	{
+		"Working": true
+	},
+	"244870":
+	{
+		"Working": true
+	},
+	"245390":
 	{
 		"Working": true
 	},
@@ -1112,11 +687,224 @@
 	{
 		"Working": true
 	},
-	"22000":
+	"245470":
 	{
 		"Working": true
 	},
-	"22600":
+	"246090":
+	{
+		"Working": true
+	},
+	"246360":
+	{
+		"Working": true
+	},
+	"247870":
+	{
+		"Working": true
+	},
+	"248190":
+	{
+		"Working": true,
+		"Comment": "There might be some input glitches on the steam overlay."
+	},
+	"248410":
+	{
+		"Working": true
+	},
+	"248450":
+	{
+		"Working": true
+	},
+	"248470":
+	{
+		"Working": true
+	},
+	"248510":
+	{
+		"Working": true
+	},
+	"248550":
+	{
+		"Working": true
+	},
+	"248610":
+	{
+		"Working": true
+	},
+	"248710":
+	{
+		"Working": true
+	},
+	"248800":
+	{
+		"Working": true,
+		"Comment": "Need to disable Steamworks on 64bit systems due to a bug.",
+		"CommentURL": "http://steamcommunity.com/app/248800/discussions/0/846965705285069220/#c846966336102411647"
+	},
+	"248860":
+	{
+		"Comment": "Broken overlay.",
+		"Working": true
+	},
+	"249150":
+	{
+		"Comment": "Demo, not a game.",
+		"Hidden": true
+	},
+	"249630":
+	{
+		"Working": true
+	},
+	"249990":
+	{
+		"Working": true
+	},
+	"25000":
+	{
+		"Working": true
+	},
+	"25010":
+	{
+		"Working": true
+	},
+	"250110":
+	{
+		"Working": true
+	},
+	"250380":
+	{
+		"Working": true
+	},
+	"250460":
+	{
+		"Working": true
+	},
+	"251370":
+	{
+		"Working": true
+	},
+	"251410":
+	{
+		"Working": true
+	},
+	"251530":
+	{
+		"Working": true
+	},
+	"251910":
+	{
+		"Working": true
+	},
+	"252170":
+	{
+		"Working": true
+	},
+	"252250":
+	{
+		"Working": true
+	},
+	"252310":
+	{
+		"Working": true
+	},
+	"252490":
+	{
+		"Working": true
+	},
+	"252630":
+	{
+		"Working": true
+	},
+	"252670":
+	{
+		"Working": true
+	},
+	"252750":
+	{
+		"Working": true
+	},
+	"253310":
+	{
+		"Working": true
+	},
+	"253410":
+	{
+		"Working": true
+	},
+	"253570":
+	{
+		"Working": true
+	},
+	"253650":
+	{
+		"Working": true
+	},
+	"255870":
+	{
+		"Working": true
+	},
+	"257120":
+	{
+		"Working": true
+	},
+	"257770":
+	{
+		"Working": true
+	},
+	"258050":
+	{
+		"Working": true
+	},
+	"258890":
+	{
+		"Working": true
+	},
+	"258950":
+	{
+		"Working": true
+	},
+	"259130":
+	{
+		"Working": true
+	},
+	"259430":
+	{
+		"Working": true
+	},
+	"259470":
+	{
+		"Working": true
+	},
+	"259510":
+	{
+		"Working": true
+	},
+	"259600":
+	{
+		"Working": true
+	},
+	"259620":
+	{
+		"Working": true
+	},
+	"259680":
+	{
+		"Working": true
+	},
+	"261700":
+	{
+		"Working": true
+	},
+	"262940":
+	{
+		"Working": true
+	},
+	"26500":
+	{
+		"Working": true
+	},
+	"280":
 	{
 		"Working": true
 	},
@@ -1128,7 +916,160 @@
 	{
 		"Working": true
 	},
-	"201310":
+	"29180":
+	{
+		"Working": true
+	},
+	"30":
+	{
+		"Working": true
+	},
+	"300":
+	{
+		"Working": true
+	},
+	"320":
+	{
+		"Working": true
+	},
+	"33680":
+	{
+		"Working": true
+	},
+	"340":
+	{
+		"Working": true
+	},
+	"35480":
+	{
+		"Working": true
+	},
+	"35720":
+	{
+		"Working": true
+	},
+	"360":
+	{
+		"Working": true
+	},
+	"380":
+	{
+		"Working": true
+	},
+	"3830":
+	{
+		"Working": true
+	},
+	"38600":
+	{
+		"Working": true,
+		"Beta": true
+	},
+	"38700":
+	{
+		"Working": true
+	},
+	"38720":
+	{
+		"Working": true
+	},
+	"38740":
+	{
+		"Working": true
+	},
+	"40":
+	{
+		"Working": true
+	},
+	"400":
+	{
+		"Working": true
+	},
+	"4000":
+	{
+		"Working": true
+	},
+	"40800":
+	{
+		"Working": true
+	},
+	"41070":
+	{
+		"Working": true
+	},
+	"41100":
+	{
+		"Working": true
+	},
+	"41300":
+	{
+		"Working": true
+	},
+	"41800":
+	{
+		"Working": true
+	},
+	"41900":
+	{
+		"Working": true
+	},
+	"420":
+	{
+		"Working": true
+	},
+	"43160":
+	{
+		"Working": true
+	},
+	"440":
+	{
+		"Working": true
+	},
+	"44200":
+	{
+		"Working": true
+	},
+	"45100":
+	{
+		"Working": true
+	},
+	"45450":
+	{
+		"Working": true
+	},
+	"4920":
+	{
+		"Working": true
+	},
+	"49600":
+	{
+		"Working": true
+	},
+	"50":
+	{
+		"Working": true
+	},
+	"550":
+	{
+		"Working": true
+	},
+	"570":
+	{
+		"Working": true
+	},
+	"57300":
+	{
+		"Working": true
+	},
+	"58610":
+	{
+		"Working": true
+	},
+	"60":
+	{
+		"Working": true
+	},
+	"6120":
 	{
 		"Working": true
 	},
@@ -1136,18 +1077,74 @@
 	{
 		"Working": true
 	},
-	"259430":
+	"65800":
 	{
 		"Working": true
 	},
-	"249150":
+	"67000":
 	{
-		"Hidden": true,
-		"Comment": "Demo, not a game."
+		"Working": true
+	},
+	"70":
+	{
+		"Working": true
+	},
+	"70120":
+	{
+		"Working": true
+	},
+	"70300":
+	{
+		"Working": true
+	},
+	"72000":
+	{
+		"Working": true
 	},
 	"790":
 	{
 		"Hidden": true,
 		"Comment": "Valve's server, not a game."
+	},
+	"80":
+	{
+		"Working": true
+	},
+	"80310":
+	{
+		"Working": true
+	},
+	"91200":
+	{
+		"Working": true
+	},
+	"92800":
+	{
+		"Working": true
+	},
+	"93200":
+	{
+		"Working": true
+	},
+	"95300":
+	{
+		"Working": true
+	},
+	"96200":
+	{
+		"Working": true
+	},
+	"97000":
+	{
+		"Working": true
+	},
+	"98200":
+	{
+		"Working": true
+	},
+	"98800":
+	{
+		"Working": true,
+		"Comment": "Broken overlay."
 	}
 }
