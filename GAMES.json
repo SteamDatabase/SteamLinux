@@ -1240,6 +1240,11 @@
 	{
 		"Working": true
 	},
+	"264140":
+	{
+		"Working": true
+		"Comment": "Linux version is currently in beta. Right-click, select properties and enable the beta to play."
+	}
 	"267060":
 	{
 		"Working": true
