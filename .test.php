@@ -24,9 +24,22 @@
 		}
 		
 		/**
+		 * We're sadistic bastards that only allow tabs
+		 *
 		 * @depends testFileNotEmpty
 		 */
-		public function testJSON( $games )
+		public function testWhitespace( $games )
+		{
+			$this->assertFalse( preg_match( '/^ +/m', $games ), 'Spaces used, we only allow tabs' );
+			$this->assertFalse( preg_match( '/^\t+ +/m', $games ), 'Tabs mixed with spaces, we only allow tabs' );
+			
+			return $games;
+		}
+		
+		/**
+		 * @depends testFileNotEmpty
+		 */
+		public function testWhitespace( $games )
 		{
 			$games = json_decode( $games, true );
 			
@@ -50,15 +63,20 @@
 					$this->assertArrayHasKey( $key, $allowedKeys, 'Invalid key "' . $key . '" in "' . $appID . '"' );
 					$this->assertTrue( $allowedKeys[ $key ]( $value ), '"' . $key . '" in "' . $appID . '" is not "' . $allowedKeys[ $key ] . '"' );
 					
-					if( $key === 'CommentURL' )
+					if( $key === 'Working' || $key === 'Beta' )
 					{
-						$this->assertTrue( array_key_exists( 'Comment', $keys ), 'CommentURL key cant be without Comment key in "' . $appID . '"' );
+						$this->assertFalse( array_key_exists( 'Hidden', $keys ), 'Hidden key cant be used along with ' . $key . ' key in "' . $appID . '"' );
+						$this->assertTrue( $value, $key . ' key in "' . $appID . '" can only be set to true because we only list working games' );
 					}
 					else if( $key === 'Hidden' )
 					{
-						$this->assertFalse( array_key_exists( 'Working', $keys ), 'Working key cant be used along with Hidden key in "' . $appID . '"' );
-						$this->assertFalse( array_key_exists( 'Beta', $keys ), 'Beta key cant be used along with Hidden key in "' . $appID . '"' );
+						$this->assertFalse( array_key_exists( 'Working', $keys ), 'Working key can not be used along with Hidden key in "' . $appID . '"' );
+						$this->assertFalse( array_key_exists( 'Beta', $keys ), 'Beta key can not be used along with Hidden key in "' . $appID . '"' );
 						$this->assertTrue( array_key_exists( 'Comment', $keys ), 'Hidden app "' . $appID . '" must contain a Comment explaining why it was hidden' );
+					}
+					else if( $key === 'CommentURL' )
+					{
+						$this->assertTrue( array_key_exists( 'Comment', $keys ), 'CommentURL key cant be without Comment key in "' . $appID . '"' );
 					}
 				}
 			}
