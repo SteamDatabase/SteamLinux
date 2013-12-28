@@ -30,8 +30,8 @@
 		 */
 		public function testWhitespace( $games )
 		{
-			$this->assertFalse( preg_match( '/^ +/m', $games ), 'Spaces used, we only allow tabs' );
-			$this->assertFalse( preg_match( '/^\t+ +/m', $games ), 'Tabs mixed with spaces, we only allow tabs' );
+			$this->assertNotRegExp( '/^ +/m', $games, 'Spaces used, we only allow tabs' );
+			$this->assertNotRegExp( '/^\t+ +/m', $games, 'Tabs mixed with spaces, we only allow tabs' );
 			
 			return $games;
 		}
