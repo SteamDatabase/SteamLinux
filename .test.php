@@ -37,9 +37,9 @@
 		}
 		
 		/**
-		 * @depends testFileNotEmpty
+		 * @depends testWhitespace
 		 */
-		public function testWhitespace( $games )
+		public function testJSON( $games )
 		{
 			$games = json_decode( $games, true );
 			
