@@ -357,7 +357,8 @@
 	},
 	"91200":
 	{
-		"Working": true
+		"Working": true,
+		"Comment": "Doesn't work with many AMD and Intel graphics configurations."
 	},
 	"92800":
 	{
@@ -1260,7 +1261,7 @@
 	},
 	"259700":
 	{
-		"Working": true	
+		"Working": true
 	},
 	"261700":
 	{
