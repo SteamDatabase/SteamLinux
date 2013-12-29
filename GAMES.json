@@ -414,8 +414,7 @@
 	},
 	"108200":
 	{
-		"Working": true,
-		"Comment": "Steam API doesn't work on 64bit including online mode."
+		"Working": true
 	},
 	"108600":
 	{
