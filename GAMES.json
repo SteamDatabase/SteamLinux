@@ -174,9 +174,7 @@
 	},
 	"15400":
 	{
-		"Working": true,
-		"Comment": "May require a workaround to launch without getting stuck in a loop.",
-		"CommentURL": "https://wiki.archlinux.org/index.php/Steam/Game-specific_troubleshooting#Harvest:_Massive_Encounter"
+		"Working": true
 	},
 	"15560":
 	{
@@ -601,7 +599,7 @@
 	"214970":
 	{
 		"Working": true,
-		"Comment": "Broken overlay."
+		"Comment": "Broken overlay. Steamworks features are unavailable."
 	},
 	"215160":
 	{
@@ -852,13 +850,11 @@
 	},
 	"233250":
 	{
-		"Working": true,
-		"Comment": "Doesn't have a 32-bit version yet."
+		"Working": true
 	},
 	"233370":
 	{
-		"Working": true,
-		"Comment": "May require additional libraries or installation of thirdy party packages (xdelta3 libquazip) for the launcher."
+		"Working": true
 	},
 	"233450":
 	{
@@ -894,9 +890,7 @@
 	},
 	"234900":
 	{
-		"Working": true,
-		"Comment": "Requires Adobe AIR.",
-		"CommentURL": "http://steamcommunity.com/games/anodyne/announcements/detail/1731905815482640375"
+		"Working": true
 	},
 	"234940":
 	{
@@ -1119,7 +1113,7 @@
 	},
 	"250380":
 	{
-		"Working": true
+		"Working": true	
 	},
 	"250460":
 	{
