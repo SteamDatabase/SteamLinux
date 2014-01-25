@@ -847,7 +847,7 @@
 	"231720":
 	{
 		"Working": true,
-		"Comment": "x86_64 version (used in x86_64 systems) requires to replace the steam_api.so from a game providing the x86_64 version. The game ships with a 32vbit version, which won't work."
+		"Comment": "x86_64 version (used in x86_64 systems) requires to replace the steam_api.so from a game providing the x86_64 version. The game ships with a 32 bit version, which won't work."
 	},
 	"231740":
 	{
