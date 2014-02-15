@@ -1216,7 +1216,7 @@
 	},
 	"252010":
 	{
-		"Working": true
+		"Working": true,
 		"Comment": "The game is not a Linux port but a WINE self contained package."
 	},
 	"252170":
