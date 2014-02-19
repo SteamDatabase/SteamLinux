@@ -461,6 +461,11 @@
 	{
 		"Working": true
 	},
+	"111700":
+	{
+		"Hidden": true,
+		"Comment": "Nuclear Dawn Staging"
+	},
 	"112100":
 	{
 		"Working": true
@@ -476,11 +481,6 @@
 	"115110":
 	{
 		"Working": true
-	},
-	"111700":
-	{
-		"Hidden": true,
-		"Comment": "Nuclear Dawn Staging"
 	},
 	"200390":
 	{
