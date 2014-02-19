@@ -184,6 +184,11 @@
 	{
 		"Working": true
 	},
+	"17590":
+	{
+		"Hidden": true,
+		"Comment": "Dystopia Beta"
+	},
 	"17710":
 	{
 		"Working": true,
@@ -370,6 +375,11 @@
 	"73010":
 	{
 		"Working": true
+	},
+	"73080":
+	{
+		"Hidden": true,
+		"Comment": "Crusader Kings 2 Beta"
 	},
 	"80310":
 	{
@@ -769,6 +779,11 @@
 	{
 		"Working": true
 	},
+	"224680":
+	{
+		"Hidden": true,
+		"Comment": "Strike Suit Zero Beta"
+	},
 	"224760":
 	{
 		"Working": true
@@ -792,6 +807,11 @@
 	"225420":
 	{
 		"Working": true
+	},
+	"226600":
+	{
+		"Hidden": true,
+		"Comment": "Octodad: Dadliest Catch Beta"
 	},
 	"226960":
 	{
@@ -824,6 +844,11 @@
 	"229520":
 	{
 		"Working": true
+	},
+	"229680":
+	{
+		"Hidden": true,
+		"Comment": "Guns of Icarus Dev App"
 	},
 	"230190":
 	{
