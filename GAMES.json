@@ -477,6 +477,11 @@
 	{
 		"Working": true
 	},
+	"111700":
+	{
+		"Hidden": true,
+		"Comment": "Nuclear Dawn Staging"
+	},
 	"200390":
 	{
 		"Working": true
@@ -750,6 +755,11 @@
 	"222140":
 	{
 		"Working": true
+	},
+	"222260":
+	{
+		"Hidden": true,
+		"Comment": "Europa Universalis IV Beta"
 	},
 	"222520":
 	{
@@ -1069,6 +1079,11 @@
 	{
 		"Hidden": true,
 		"Comment": "This is Korean version of Football Manager 2014"
+	},
+	"242500":
+	{
+		"Hidden": true,
+		"Comment": "Europa Universalis IV Review"
 	},
 	"242530":
 	{
