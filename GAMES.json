@@ -96,6 +96,11 @@
 		"Hidden": true,
 		"Comment": "Server, not a game."
 	},
+	"620":
+	{
+		"Working": true,
+		"Beta": true
+	},
 	"742":
 	{
 		"Hidden": true,
