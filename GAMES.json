@@ -1080,6 +1080,11 @@
 	{
 		"Working": true
 	},
+	"241640":
+	{
+		"Working": true
+		"Comment": "Seems to be beta, have some bugs. Also, you can opt-in "public-beta", but nothing changes. No Linux icon."
+	},
 	"242110":
 	{
 		"Working": true
