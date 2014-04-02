@@ -1168,7 +1168,8 @@
 	},
 	"245550":
 	{
-		"Working": true
+		"Working": true,
+		"Comment": "Overlay doesn't work."
 	},
 	"246090":
 	{
