@@ -343,7 +343,7 @@
 	},
 	"57640":
 	{
-		"Working": true
+		"Working": true,
 		"Comment": "Ignores SDL environment variables so isn't playable on multiple displays."
 	},
 	"57740":
