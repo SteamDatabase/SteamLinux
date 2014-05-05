@@ -1718,6 +1718,11 @@
 	{
 		"Working": true
 	},
+	"291050":
+	{
+		"Working": true,
+		"Comment": "Captures all keyboard input. Alt+Tab and other window manager keystrokes do not work."
+	},
 	"293200":
 	{
 		"Working": true
