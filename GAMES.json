@@ -116,6 +116,11 @@
 		"Hidden": true,
 		"Comment": "Server, not a game."
 	},
+	"1007":
+	{
+		"Hidden": true,
+		"Comment": "Steamworks SDK Redist"
+	},
 	"1200":
 	{
 		"Working": true
