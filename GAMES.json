@@ -1338,6 +1338,11 @@
 	{
 		"Working": true	
 	},
+	"250420":
+	{
+		"Working": true,
+		"Comment": "Overlay works in server-select window, but not in game window."
+	},
 	"250460":
 	{
 		"Working": true
