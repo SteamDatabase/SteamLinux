@@ -870,6 +870,10 @@
 		"Hidden": true,
 		"Comment": "Octodad: Dadliest Catch Beta"
 	},
+	"226620":
+	{
+		"Working": true
+	},
 	"226960":
 	{
 		"Working": true
@@ -1790,6 +1794,7 @@
 	},
 	"297120":
 	{
-		"Working": true
+		"Working": true,
+		"Comment": "Flickering graphics during menus on AMD fglrx drivers"
 	}
 }
