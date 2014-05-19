@@ -21,13 +21,20 @@ If you want to add a comment, there are 2 tags you can use:
 * `"Comment": "This game has no 64-bit binaries."`
 * `"CommentURL": "https://google.com/"` - not required if there is no source url.
 
-**Example**
+**Examples**
+```json
+	"234650":
+	{
+		"Working": true
+	},
+```
+
 ```json
 	"15400":
 	{
 		"Working": true,
 		"Comment": "May require a workaround to launch without getting stuck in a loop.",
-		"CommentURL": "https://wiki.archlinux.org/index.php/Steam/Game-specific_troubleshooting#Harvest:_Massive_Encounter" 
+		"CommentURL": "https://wiki.archlinux.org/index.php/Steam/Game-specific_troubleshooting#Harvest:_Massive_Encounter"
 	},
 ```
 Also make sure that the edited file validates on [JSONlint.com](http://jsonlint.com/) before submitting your patch.
