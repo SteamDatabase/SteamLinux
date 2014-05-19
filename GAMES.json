@@ -873,7 +873,7 @@
 	"226620":
 	{
 		"Working": true,
-	}
+	},
 	"226960":
 	{
 		"Working": true
@@ -1360,7 +1360,7 @@
 		"Working": false,
 		"Comment": "There is no Linux build, the developers have said it will arrive with patch 1.8, which will be the last patch made to the game",
 		"CommentURL": "http://steamcommunity.com/app/250580/discussions/0/540731691298129556/"
-	}
+	},
 	"250600":
 	{
 		"Working": true
