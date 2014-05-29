@@ -1692,6 +1692,10 @@
 	{
 		"Working": true
 	},
+	"265830":
+	{
+		"Working": true
+	},
 	"265890":
 	{
 		"Working": true
@@ -1804,6 +1808,10 @@
 	{
 		"Working": true,
 		"Comment": "This game has only 64-bit binaries."
+	},
+	"286380":
+	{
+		"Working": true
 	},
 	"287020":
 	{
