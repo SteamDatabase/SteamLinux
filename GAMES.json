@@ -1873,5 +1873,10 @@
 	"301190":
 	{
 		"Working": true
+	},
+	"301360":
+	{
+		"Working": true,
+		"Comment": "This game has only 64-bit binaries."
 	}
 }
