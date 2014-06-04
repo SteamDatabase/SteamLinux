@@ -1391,6 +1391,10 @@
 	{
 		"Working": true
 	},
+	"251210":
+	{
+		"Working": true
+	},
 	"251370":
 	{
 		"Working": true
@@ -1890,6 +1894,10 @@
 	{
 		"Working": true,
 		"Comment": "Flickering graphics during menus on AMD fglrx drivers"
+	},
+	"299780":
+	{
+		"Working": true
 	},
 	"301190":
 	{
