@@ -1606,6 +1606,11 @@
 	{
 		"Working": true
 	},
+	"260790":
+	{
+		"Working": true,
+		"Comment": "Steam Overlay broken with 64-bit version."
+	},
 	"261350":
 	{
 		"Working": true
