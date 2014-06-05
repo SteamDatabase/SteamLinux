@@ -1842,6 +1842,11 @@
 	{
 		"Working": true
 	},
+	"287580":
+	{
+		"Working": true,
+		"Comment": "Partly broken overlay (does not accept input)"
+	},
 	"290060":
 	{
 		"Working": true
