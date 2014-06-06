@@ -101,7 +101,17 @@
 			$gamesSorted = $games;
 			
 			ksort( $gamesSorted );
-			
-			$this->assertSame( $games, $gamesSorted, 'File must be sorted correctly by appid' );
+			$gamesKeys = array_keys( $games );
+			$gamesSortedKeys = array_keys( $gamesSorted );
+			$brokenKey = false;
+			for ($i = 0; $i < count( $gamesKeys ); ++$i)
+			{
+				if ( $gamesKeys[ $i ] !== $gamesSortedKeys[ $i ] )
+				{
+					$brokenKey = $gamesKeys[ $i ];
+					break;
+				}
+			}
+			$this->assertFalse( $brokenKey, 'File must be sorted correctly by appid, problem at "' . $brokenKey . '"' );
 		}
 	}
