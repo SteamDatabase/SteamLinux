@@ -4,21 +4,21 @@ This is the source code for *Games, on Steam for Linux*
 
 License
 -------
-The content are under public domain.
+The contents are under the public domain.
 
 Contribution
 ------------
 If you want to edit the list, make a fork on GitHub, make your changes and then
-make a pull request through GitHub. Desribe your changes and be thorough!
+make a pull request through GitHub. Describe your changes and be thorough!
 Follow the format, cite the sources, etc.
 
 When editing the `GAMES.json` file, remember to follow the format with **tabs
 as indentation**, and not spaces.  Keep in mind that the list should be sorted
 numerically.
 
-To set an app as working, you need to add the app number in quotes, and set it
+To set a game as working, you need to add the app number in quotes, and set it
 to true. This is the number you’ll see in URLs when browsing the Steam Store.
-http://store.steampowered.com/app/40/ would be 40. You would add **"40":
+http://store.steampowered.com/app/40/ would be app 40. You would add **"40":
 true,** on a new line.
 
 **Example**
@@ -32,9 +32,11 @@ true,** on a new line.
 }
 ```
 
-You can add extra information to a game that is working, with the tags below:
-* `"Hidden": true` for betas and game servers that work fine, but clutter up the list.
-* `"Beta": true` for games that have open beta that can be opted in via beta branch in game properties.
+You can add extra information to a game entry with the tags below:
+* `"Hidden": true` for betas and game servers that clutter up the list to hide them.
+* `"Beta": true` for games that have open beta that can be opted‐in via beta
+  branch in game properties. If the beta password is public, you may add that
+in a Comment.
 
 If you want to add a comment about additional issues, there are 2 more tags you can use:
 * `"Comment": "This game has no 64-bit binaries."`
@@ -61,7 +63,7 @@ Also make sure that the edited file validates on [JSONlint.com](http://jsonlint.
 Credits
 -------
 - [flibitijibibo](https://github.com/flibitijibibo) - Creator of The Big List of Steam Games on GNU/Linux.
-- [swordfischer](https://github.com/swordfischer) - Re-made the list from scratch to use markdown and jekyll, then json.
+- [swordfischer](https://github.com/swordfischer) - Re‐made the list from scratch to use markdown and jekyll, then json.
 - [xPaw](https://github.com/xPaw) - Improved the new list by making different stylesheet additions, and other minor improvements.
 - [weltall](https://github.com/weltall) - Frequent contributor to the list.
 - [soeb](https://github.com/soeb) - Frequent contributor to the list.
