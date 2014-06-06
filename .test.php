@@ -43,7 +43,7 @@
 		{
 			$games = json_decode( $games, true );
 			
-			$this->assertTrue( json_last_error() === JSON_ERROR_NONE, 'JSON Error: ' . json_last_error_msg() );
+			$this->assertTrue( json_last_error() === JSON_ERROR_NONE, 'JSON Error: ' . ( function_exists( "json_last_error_msg" ) ? json_last_error_msg() : json_last_error() ) );
 			
 			$allowedKeys = Array(
 				'Working'    => 'is_bool',
