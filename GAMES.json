@@ -1,96 +1,27 @@
 {
-	"10":
-	{
-		"Working": true
-	},
-	"20":
-	{
-		"Working": true
-	},
-	"30":
-	{
-		"Working": true
-	},
-	"40":
-	{
-		"Working": true
-	},
-	"50":
-	{
-		"Working": true
-	},
-	"60":
-	{
-		"Working": true
-	},
-	"70":
-	{
-		"Working": true
-	},
-	"80":
-	{
-		"Working": true
-	},
-	"100":
-	{
-		"Working": true
-	},
-	"130":
-	{
-		"Working": true
-	},
-	"220":
-	{
-		"Working": true
-	},
-	"240":
-	{
-		"Working": true
-	},
-	"280":
-	{
-		"Working": true
-	},
-	"300":
-	{
-		"Working": true
-	},
-	"320":
-	{
-		"Working": true
-	},
-	"340":
-	{
-		"Working": true
-	},
-	"360":
-	{
-		"Working": true
-	},
-	"380":
-	{
-		"Working": true
-	},
-	"400":
-	{
-		"Working": true
-	},
-	"420":
-	{
-		"Working": true
-	},
-	"440":
-	{
-		"Working": true
-	},
-	"550":
-	{
-		"Working": true
-	},
-	"570":
-	{
-		"Working": true
-	},
+	"10": true,
+	"20": true,
+	"30": true,
+	"40": true,
+	"50": true,
+	"60": true,
+	"70": true,
+	"80": true,
+	"100": true,
+	"130": true,
+	"220": true,
+	"240": true,
+	"280": true,
+	"300": true,
+	"320": true,
+	"340": true,
+	"360": true,
+	"380": true,
+	"400": true,
+	"420": true,
+	"440": true,
+	"550": true,
+	"570": true,
 	"580":
 	{
 		"Hidden": true,
@@ -98,7 +29,6 @@
 	},
 	"620":
 	{
-		"Working": true,
 		"Beta": true
 	},
 	"742":
@@ -121,596 +51,209 @@
 		"Hidden": true,
 		"Comment": "Steamworks SDK Redist"
 	},
-	"1200":
-	{
-		"Working": true
-	},
-	"1230":
-	{
-		"Working": true
-	},
-	"1250":
-	{
-		"Working": true
-	},
-	"1280":
-	{
-		"Working": true
-	},
-	"1500":
-	{
-		"Working": true
-	},
-	"1510":
-	{
-		"Working": true
-	},
-	"1520":
-	{
-		"Working": true
-	},
-	"1530":
-	{
-		"Working": true
-	},
-	"2810":
-	{
-		"Working": true
-	},
-	"2820":
-	{
-		"Working": true
-	},
-	"3830":
-	{
-		"Working": true
-	},
-	"4000":
-	{
-		"Working": true
-	},
-	"4920":
-	{
-		"Working": true
-	},
-	"6120":
-	{
-		"Working": true
-	},
+	"1200": true,
+	"1230": true,
+	"1250": true,
+	"1280": true,
+	"1500": true,
+	"1510": true,
+	"1520": true,
+	"1530": true,
+	"2810": true,
+	"2820": true,
+	"3830": true,
+	"4000": true,
+	"4920": true,
+	"6120": true,
 	"13700":
 	{
-		"Working": true,
 		"Comment": "Broken overlay."
 	},
-	"15400":
-	{
-		"Working": true
-	},
-	"15560":
-	{
-		"Working": true
-	},
-	"17520":
-	{
-		"Working": true
-	},
+	"15400": true,
+	"15560": true,
+	"17520": true,
 	"17590":
 	{
 		"Hidden": true,
 		"Comment": "Dystopia Beta"
 	},
-	"17710":
-	{
-		"Working": true
-	},
-	"18300":
-	{
-		"Working": true
-	},
-	"18700":
-	{
-		"Working": true
-	},
-	"20820":
-	{
-		"Working": true
-	},
-	"20920":
-	{
-		"Working": true
-	},
-	"22000":
-	{
-		"Working": true
-	},
-	"22120":
-	{
-		"Working": true
-	},
-	"22140":
-	{
-		"Working": true
-	},
-	"22180":
-	{
-		"Working": true
-	},
-	"22600":
-	{
-		"Working": true
-	},
-	"24420":
-	{
-		"Working": true
-	},
-	"25000":
-	{
-		"Working": true
-	},
-	"25010":
-	{
-		"Working": true
-	},
-	"25600":
-	{
-		"Working": true
-	},
-	"25620":
-	{
-		"Working": true
-	},
-	"26500":
-	{
-		"Working": true
-	},
-	"29160":
-	{
-		"Working": true
-	},
-	"29180":
-	{
-		"Working": true
-	},
-	"33600":
-	{
-		"Working": true
-	},
-	"33680":
-	{
-		"Working": true
-	},
-	"35480":
-	{
-		"Working": true
-	},
-	"35720":
-	{
-		"Working": true
-	},
+	"17710": true,
+	"18300": true,
+	"18700": true,
+	"20820": true,
+	"20920": true,
+	"22000": true,
+	"22120": true,
+	"22140": true,
+	"22180": true,
+	"22600": true,
+	"24420": true,
+	"25000": true,
+	"25010": true,
+	"25600": true,
+	"25620": true,
+	"26500": true,
+	"29160": true,
+	"29180": true,
+	"33600": true,
+	"33680": true,
+	"35480": true,
+	"35720": true,
 	"38600":
 	{
-		"Working": true,
 		"Beta": true
 	},
-	"38700":
-	{
-		"Working": true
-	},
-	"38720":
-	{
-		"Working": true
-	},
-	"38740":
-	{
-		"Working": true
-	},
-	"40800":
-	{
-		"Working": true
-	},
-	"41070":
-	{
-		"Working": true
-	},
-	"41100":
-	{
-		"Working": true
-	},
-	"41300":
-	{
-		"Working": true
-	},
-	"41800":
-	{
-		"Working": true
-	},
-	"41900":
-	{
-		"Working": true
-	},
-	"43160":
-	{
-		"Working": true
-	},
-	"44200":
-	{
-		"Working": true
-	},
-	"45100":
-	{
-		"Working": true
-	},
-	"45450":
-	{
-		"Working": true
-	},
+	"38700": true,
+	"38720": true,
+	"38740": true,
+	"40800": true,
+	"41070": true,
+	"41100": true,
+	"41300": true,
+	"41800": true,
+	"41900": true,
+	"43160": true,
+	"44200": true,
+	"45100": true,
+	"45450": true,
 	"45900":
 	{
-		"Working": true,
 		"Comment": "A Wine Bottle."
 	},
-	"49600":
-	{
-		"Working": true
-	},
-	"57300":
-	{
-		"Working": true
-	},
+	"49600": true,
+	"57300": true,
 	"57640":
 	{
-		"Working": true,
 		"Comment": "Ignores SDL environment variables so isn't playable on multiple displays."
 	},
-	"57740":
-	{
-		"Working": true
-	},
-	"58610":
-	{
-		"Working": true
-	},
-	"61600":
-	{
-		"Working": true
-	},
-	"63000":
-	{
-		"Working": true
-	},
-	"65800":
-	{
-		"Working": true
-	},
-	"67000":
-	{
-		"Working": true
-	},
-	"70100":
-	{
-		"Working": true
-	},
-	"70120":
-	{
-		"Working": true
-	},
-	"70300":
-	{
-		"Working": true
-	},
-	"72000":
-	{
-		"Working": true
-	},
-	"73010":
-	{
-		"Working": true
-	},
+	"57740": true,
+	"58610": true,
+	"61600": true,
+	"63000": true,
+	"65800": true,
+	"67000": true,
+	"70100": true,
+	"70120": true,
+	"70300": true,
+	"72000": true,
+	"73010": true,
 	"73080":
 	{
 		"Hidden": true,
 		"Comment": "Crusader Kings 2 Beta"
 	},
-	"80310":
-	{
-		"Working": true
-	},
-	"91200":
-	{
-		"Working": true
-	},
-	"92800":
-	{
-		"Working": true
-	},
-	"93200":
-	{
-		"Working": true
-	},
-	"95000":
-	{
-		"Working": true
-	},
-	"95300":
-	{
-		"Working": true
-	},
-	"96200":
-	{
-		"Working": true
-	},
-	"97000":
-	{
-		"Working": true
-	},
-	"98200":
-	{
-		"Working": true
-	},
+	"80310": true,
+	"91200": true,
+	"92800": true,
+	"93200": true,
+	"95000": true,
+	"95300": true,
+	"96200": true,
+	"97000": true,
+	"98200": true,
 	"98800":
 	{
-		"Working": true,
 		"Comment": "Broken overlay."
 	},
-	"102840":
-	{
-		"Working": true
-	},
+	"102840": true,
 	"105100":
 	{
-		"Working": true,
 		"Comment": "Overlay works only in full-screen mode. Steamworks features are unavailable."
 	},
-	"107100":
-	{
-		"Working": true
-	},
-	"107200":
-	{
-		"Working": true
-	},
-	"107800":
-	{
-		"Working": true
-	},
-	"108200":
-	{
-		"Working": true
-	},
-	"108600":
-	{
-		"Working": true
-	},
+	"107100": true,
+	"107200": true,
+	"107800": true,
+	"108200": true,
+	"108600": true,
 	"111000":
 	{
-		"Working": true,
 		"Comment": "Broken overlay."
 	},
 	"111010":
 	{
-		"Working": true,
 		"Comment": "Broken overlay."
 	},
-	"111100":
-	{
-		"Working": true
-	},
+	"111100": true,
 	"111700":
 	{
 		"Hidden": true,
 		"Comment": "Nuclear Dawn Staging"
 	},
-	"111800":
-	{
-		"Working": true
-	},
-	"112100":
-	{
-		"Working": true
-	},
-	"113020":
-	{
-		"Working": true
-	},
-	"115100":
-	{
-		"Working": true
-	},
-	"115110":
-	{
-		"Working": true
-	},
-	"200390":
-	{
-		"Working": true
-	},
-	"200900":
-	{
-		"Working": true
-	},
-	"201040":
-	{
-		"Working": true
-	},
-	"201310":
-	{
-		"Working": true
-	},
-	"201420":
-	{
-		"Working": true
-	},
-	"202730":
-	{
-		"Working": true
-	},
-	"203210":
-	{
-		"Working": true
-	},
-	"203770":
-	{
-		"Working": true
-	},
-	"204060":
-	{
-		"Working": true
-	},
-	"204180":
-	{
-		"Working": true
-	},
-	"204220":
-	{
-		"Working": true
-	},
-	"204240":
-	{
-		"Working": true
-	},
-	"204300":
-	{
-		"Working": true
-	},
-	"205790":
-	{
-		"Working": true
-	},
+	"111800": true,
+	"112100": true,
+	"113020": true,
+	"115100": true,
+	"115110": true,
+	"200390": true,
+	"200900": true,
+	"201040": true,
+	"201310": true,
+	"201420": true,
+	"202730": true,
+	"203210": true,
+	"203770": true,
+	"204060": true,
+	"204180": true,
+	"204220": true,
+	"204240": true,
+	"204300": true,
+	"205790": true,
 	"205800":
 	{
 		"Hidden": true,
 		"Comment": "Server, not a game."
 	},
-	"205910":
-	{
-		"Working": true
-	},
-	"206440":
-	{
-		"Working": true
-	},
-	"206690":
-	{
-		"Working": true
-	},
+	"205910": true,
+	"206440": true,
+	"206690": true,
 	"207080":
 	{
-		"Working": true,
 		"Beta": true
 	},
-	"207170":
-	{
-		"Working": true
-	},
-	"207250":
-	{
-		"Working": true
-	},
-	"207570":
-	{
-		"Working": true
-	},
-	"207650":
-	{
-		"Working": true
-	},
-	"207750":
-	{
-		"Working": true
-	},
-	"209080":
-	{
-		"Working": true
-	},
-	"209190":
-	{
-		"Working": true
-	},
-	"209270":
-	{
-		"Working": true
-	},
-	"209370":
-	{
-		"Working": true
-	},
-	"209540":
-	{
-		"Working": true
-	},
+	"207170": true,
+	"207250": true,
+	"207570": true,
+	"207650": true,
+	"207750": true,
+	"209080": true,
+	"209190": true,
+	"209270": true,
+	"209370": true,
+	"209540": true,
 	"209790":
 	{
-		"Working": true,
 		"Comment": "Achievements do not unlock.",
 		"CommentURL": "http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741"
 	},
-	"210170":
-	{
-		"Working": true
-	},
+	"210170": true,
 	"210770":
 	{
-		"Working": true,
 		"Beta": true
 	},
 	"211340":
 	{
-		"Working": true,
 		"Comment": "Broken overlay."
 	},
-	"211820":
-	{
-		"Working": true
-	},
-	"211900":
-	{
-		"Working": true
-	},
-	"212070":
-	{
-		"Working": true
-	},
-	"212680":
-	{
-		"Working": true
-	},
-	"213650":
-	{
-		"Working": true
-	},
+	"211820": true,
+	"211900": true,
+	"212070": true,
+	"212680": true,
+	"213650": true,
 	"214420":
 	{
-		"Working": true,
 		"Comment": "Broken overlay."
 	},
-	"214550":
-	{
-		"Working": true
-	},
-	"214560":
-	{
-		"Working": true
-	},
-	"214770":
-	{
-		"Working": true
-	},
-	"214870":
-	{
-		"Working": true
-	},
-	"214910":
-	{
-		"Working": true
-	},
+	"214550": true,
+	"214560": true,
+	"214770": true,
+	"214870": true,
+	"214910": true,
 	"214970":
 	{
-		"Working": true,
 		"Comment": "Broken overlay. Steamworks features are unavailable."
 	},
 	"215160":
 	{
-		"Working": true,
 		"Comment": "Broken overlay."
 	},
 	"215360":
@@ -718,263 +261,88 @@
 		"Hidden": true,
 		"Comment": "Server, not a game."
 	},
-	"215510":
-	{
-		"Working": true
-	},
-	"216290":
-	{
-		"Working": true
-	},
-	"217690":
-	{
-		"Working": true
-	},
-	"218060":
-	{
-		"Working": true
-	},
-	"218090":
-	{
-		"Working": true
-	},
+	"215510": true,
+	"216290": true,
+	"217690": true,
+	"218060": true,
+	"218090": true,
 	"218410":
 	{
-		"Working": true,
 		"Comment": "Broken overlay."
 	},
-	"218660":
-	{
-		"Working": true
-	},
-	"219150":
-	{
-		"Working": true
-	},
-	"219190":
-	{
-		"Working": true
-	},
-	"219200":
-	{
-		"Working": true
-	},
-	"219680":
-	{
-		"Working": true
-	},
-	"219740":
-	{
-		"Working": true
-	},
-	"219830":
-	{
-		"Working": true
-	},
-	"220090":
-	{
-		"Working": true
-	},
-	"220200":
-	{
-		"Working": true
-	},
-	"220460":
-	{
-		"Working": true
-	},
-	"220780":
-	{
-		"Working": true
-	},
-	"220900":
-	{
-		"Working": true
-	},
-	"221020":
-	{
-		"Working": true
-	},
-	"221260":
-	{
-		"Working": true
-	},
-	"221640":
-	{
-		"Working": true
-	},
-	"221810":
-	{
-		"Working": true
-	},
-	"221830":
-	{
-		"Working": true
-	},
-	"222140":
-	{
-		"Working": true
-	},
+	"218660": true,
+	"219150": true,
+	"219190": true,
+	"219200": true,
+	"219680": true,
+	"219740": true,
+	"219830": true,
+	"220090": true,
+	"220200": true,
+	"220460": true,
+	"220780": true,
+	"220900": true,
+	"221020": true,
+	"221260": true,
+	"221640": true,
+	"221810": true,
+	"221830": true,
+	"222140": true,
 	"222260":
 	{
 		"Hidden": true,
 		"Comment": "Europa Universalis IV Beta"
 	},
-	"222520":
-	{
-		"Working": true
-	},
-	"222730":
-	{
-		"Working": true
-	},
-	"222750":
-	{
-		"Working": true
-	},
-	"223470":
-	{
-		"Working": true
-	},
-	"223530":
-	{
-		"Working": true
-	},
-	"224260":
-	{
-		"Working": true
-	},
-	"224480":
-	{
-		"Working": true
-	},
+	"222520": true,
+	"222730": true,
+	"222750": true,
+	"223470": true,
+	"223530": true,
+	"224260": true,
+	"224480": true,
 	"224680":
 	{
 		"Hidden": true,
 		"Comment": "Strike Suit Zero Beta"
 	},
-	"224760":
-	{
-		"Working": true
-	},
-	"224860":
-	{
-		"Working": true
-	},
-	"225140":
-	{
-		"Working": true
-	},
-	"225160":
-	{
-		"Working": true
-	},
-	"225260":
-	{
-		"Working": true
-	},
-	"225420":
-	{
-		"Working": true
-	},
+	"224760": true,
+	"224860": true,
+	"225140": true,
+	"225160": true,
+	"225260": true,
+	"225420": true,
 	"226600":
 	{
 		"Hidden": true,
 		"Comment": "Octodad: Dadliest Catch Beta"
 	},
-	"226620":
-	{
-		"Working": true
-	},
-	"226960":
-	{
-		"Working": true
-	},
-	"227160":
-	{
-		"Working": true
-	},
-	"227200":
-	{
-		"Working": true
-	},
-	"227300":
-	{
-		"Working": true
-	},
-	"227580":
-	{
-		"Working": true
-	},
-	"227860":
-	{
-		"Working": true
-	},
-	"228440":
-	{
-		"Working": true
-	},
-	"228960":
-	{
-		"Working": true
-	},
-	"229520":
-	{
-		"Working": true
-	},
+	"226620": true,
+	"226960": true,
+	"227160": true,
+	"227200": true,
+	"227300": true,
+	"227580": true,
+	"227860": true,
+	"228440": true,
+	"228960": true,
+	"229520": true,
 	"229680":
 	{
 		"Hidden": true,
 		"Comment": "Guns of Icarus Dev App"
 	},
-	"230190":
-	{
-		"Working": true
-	},
-	"230310":
-	{
-		"Working": true
-	},
-	"230760":
-	{
-		"Working": true
-	},
-	"231040":
-	{
-		"Working": true
-	},
-	"231160":
-	{
-		"Working": true
-	},
-	"231200":
-	{
-		"Working": true
-	},
-	"231310":
-	{
-		"Working": true
-	},
-	"231330":
-	{
-		"Working": true
-	},
-	"231670":
-	{
-		"Working": true
-	},
-	"231720":
-	{
-		"Working": true
-	},
-	"231740":
-	{
-		"Working": true
-	},
-	"231910":
-	{
-		"Working": true
-	},
+	"230190": true,
+	"230310": true,
+	"230760": true,
+	"231040": true,
+	"231160": true,
+	"231200": true,
+	"231310": true,
+	"231330": true,
+	"231670": true,
+	"231720": true,
+	"231740": true,
+	"231910": true,
 	"232290":
 	{
 		"Hidden": true,
@@ -990,86 +358,26 @@
 		"Hidden": true,
 		"Comment": "Server, not a game."
 	},
-	"232430":
-	{
-		"Working": true
-	},
-	"232770":
-	{
-		"Working": true
-	},
-	"232790":
-	{
-		"Working": true
-	},
-	"233150":
-	{
-		"Working": true
-	},
-	"233230":
-	{
-		"Working": true
-	},
-	"233250":
-	{
-		"Working": true
-	},
-	"233370":
-	{
-		"Working": true
-	},
-	"233450":
-	{
-		"Working": true
-	},
-	"233720":
-	{
-		"Working": true
-	},
-	"233740":
-	{
-		"Working": true
-	},
-	"234000":
-	{
-		"Working": true
-	},
-	"234060":
-	{
-		"Working": true
-	},
-	"234190":
-	{
-		"Working": true
-	},
-	"234390":
-	{
-		"Working": true
-	},
-	"234650":
-	{
-		"Working": true
-	},
-	"234900":
-	{
-		"Working": true
-	},
-	"234940":
-	{
-		"Working": true
-	},
-	"235820":
-	{
-		"Working": true
-	},
-	"235980":
-	{
-		"Working": true
-	},
-	"236090":
-	{
-		"Working": true
-	},
+	"232430": true,
+	"232770": true,
+	"232790": true,
+	"233150": true,
+	"233230": true,
+	"233250": true,
+	"233370": true,
+	"233450": true,
+	"233720": true,
+	"233740": true,
+	"234000": true,
+	"234060": true,
+	"234190": true,
+	"234390": true,
+	"234650": true,
+	"234900": true,
+	"234940": true,
+	"235820": true,
+	"235980": true,
+	"236090": true,
 	"236170":
 	{
 		"Hidden": true,
@@ -1085,252 +393,87 @@
 		"Hidden": true,
 		"Comment": "Server, not a game."
 	},
-	"236730":
-	{
-		"Working": true
-	},
-	"236850":
-	{
-		"Working": true
-	},
-	"237430":
-	{
-		"Working": true
-	},
-	"237470":
-	{
-		"Working": true
-	},
-	"237550":
-	{
-		"Working": true
-	},
-	"237870":
-	{
-		"Working": true
-	},
-	"238210":
-	{
-		"Working": true
-	},
-	"238280":
-	{
-		"Working": true
-	},
-	"238460":
-	{
-		"Working": true
-	},
+	"236730": true,
+	"236850": true,
+	"237430": true,
+	"237470": true,
+	"237550": true,
+	"237870": true,
+	"238210": true,
+	"238280": true,
+	"238460": true,
 	"238690":
 	{
 		"Hidden": true,
 		"Comment": "Server, not a game."
 	},
-	"238910":
-	{
-		"Working": true
-	},
-	"239030":
-	{
-		"Working": true
-	},
-	"239070":
-	{
-		"Working": true
-	},
-	"239200":
-	{
-		"Working": true
-	},
-	"239700":
-	{
-		"Working": true
-	},
-	"239820":
-	{
-		"Working": true
-	},
-	"240760":
-	{
-		"Working": true
-	},
-	"241320":
-	{
-		"Working": true
-	},
-	"241600":
-	{
-		"Working": true
-	},
-	"241640":
-	{
-		"Working": true
-	},
-	"242110":
-	{
-		"Working": true
-	},
+	"238910": true,
+	"239030": true,
+	"239070": true,
+	"239200": true,
+	"239700": true,
+	"239820": true,
+	"240760": true,
+	"241320": true,
+	"241600": true,
+	"241640": true,
+	"242110": true,
 	"242360":
 	{
-		"Hidden": true,
 		"Comment": "This is Korean version of Football Manager 2014"
 	},
 	"242500":
 	{
-		"Hidden": true,
 		"Comment": "Europa Universalis IV Review"
 	},
-	"242530":
-	{
-		"Working": true
-	},
-	"242570":
-	{
-		"Working": true
-	},
-	"242680":
-	{
-		"Working": true
-	},
-	"242820":
-	{
-		"Working": true
-	},
-	"242860":
-	{
-		"Working": true
-	},
-	"242880":
-	{
-		"Working": true
-	},
-	"243140":
-	{
-		"Working": true
-	},
-	"243280":
-	{
-		"Working": true
-	},
-	"243780":
-	{
-		"Working": true
-	},
-	"244810":
-	{
-		"Working": true
-	},
-	"244870":
-	{
-		"Working": true
-	},
-	"245150":
-	{
-		"Working": true
-	},
-	"245390":
-	{
-		"Working": true
-	},
-	"245410":
-	{
-		"Working": true
-	},
-	"245430":
-	{
-		"Working": true
-	},
-	"245470":
-	{
-		"Working": true
-	},
+	"242530": true,
+	"242570": true,
+	"242680": true,
+	"242820": true,
+	"242860": true,
+	"242880": true,
+	"243140": true,
+	"243280": true,
+	"243780": true,
+	"244810": true,
+	"244870": true,
+	"245150": true,
+	"245390": true,
+	"245410": true,
+	"245430": true,
+	"245470": true,
 	"245550":
 	{
-		"Working": true,
 		"Comment": "Overlay doesn't work."
 	},
-	"246070":
-	{
-		"Working": true
-	},
-	"246090":
-	{
-		"Working": true
-	},
-	"246360":
-	{
-		"Working": true
-	},
-	"246400":
-	{
-		"Working": true
-	},
-	"246420":
-	{
-		"Working": true
-	},
-	"246680":
-	{
-		"Working": true
-	},
-	"246800":
-	{
-		"Working": true
-	},
-	"247020":
-	{
-		"Working": true
-	},
-	"247870":
-	{
-		"Working": true
-	},
+	"246070": true,
+	"246090": true,
+	"246360": true,
+	"246400": true,
+	"246420": true,
+	"246680": true,
+	"246800": true,
+	"247020": true,
+	"247870": true,
 	"248190":
 	{
-		"Working": true,
 		"Comment": "There might be some input glitches on the steam overlay."
 	},
-	"248410":
-	{
-		"Working": true
-	},
-	"248450":
-	{
-		"Working": true
-	},
-	"248470":
-	{
-		"Working": true
-	},
-	"248510":
-	{
-		"Working": true
-	},
-	"248550":
-	{
-		"Working": true
-	},
-	"248570":
-	{
-		"Working": true
-	},
-	"248610":
-	{
-		"Working": true
-	},
-	"248710":
-	{
-		"Working": true
-	},
+	"248410": true,
+	"248450": true,
+	"248470": true,
+	"248510": true,
+	"248550": true,
+	"248570": true,
+	"248610": true,
+	"248710": true,
 	"248800":
 	{
-		"Working": true,
 		"Comment": "Need to disable Steamworks on 64bit systems due to a bug.",
 		"CommentURL": "http://steamcommunity.com/app/248800/discussions/0/846965705285069220/#c846966336102411647"
 	},
 	"248860":
 	{
-		"Working": true,
 		"Comment": "Broken overlay."
 	},
 	"249150":
@@ -1338,587 +481,181 @@
 		"Hidden": true,
 		"Comment": "Demo, not a game."
 	},
-	"249570":
-	{
-		"Working": true
-	},
-	"249590":
-	{
-		"Working": true
-	},
-	"249630":
-	{
-		"Working": true
-	},
-	"249990":
-	{
-		"Working": true
-	},
-	"250050":
-	{
-		"Working": true
-	},
-	"250110":
-	{
-		"Working": true
-	},
-	"250260":
-	{
-		"Working": true
-	},
-	"250380":
-	{
-		"Working": true
-	},
+	"249570": true,
+	"249590": true,
+	"249630": true,
+	"249990": true,
+	"250050": true,
+	"250110": true,
+	"250260": true,
+	"250380": true,
 	"250420":
 	{
-		"Working": true,
 		"Comment": "Overlay works in server-select window, but not in game window."
 	},
-	"250460":
-	{
-		"Working": true
-	},
-	"250580":
-	{
-		"Working": true
-	},
-	"250600":
-	{
-		"Working": true
-	},
-	"250620":
-	{
-		"Working": true
-	},
-	"251210":
-	{
-		"Working": true
-	},
-	"251370":
-	{
-		"Working": true
-	},
-	"251410":
-	{
-		"Working": true
-	},
-	"251470":
-	{
-		"Working": true
-	},
-	"251530":
-	{
-		"Working": true
-	},
-	"251630":
-	{
-		"Working": true
-	},
-	"251910":
-	{
-		"Working": true
-	},
-	"251990":
-	{
-		"Working": true
-	},
+	"250460": true,
+	"250580": true,
+	"250600": true,
+	"250620": true,
+	"251210": true,
+	"251370": true,
+	"251410": true,
+	"251470": true,
+	"251530": true,
+	"251630": true,
+	"251910": true,
+	"251990": true,
 	"252010":
 	{
-		"Working": true,
 		"Comment": "The game is not a Linux port but a WINE self contained package."
 	},
-	"252170":
-	{
-		"Working": true
-	},
-	"252250":
-	{
-		"Working": true
-	},
-	"252310":
-	{
-		"Working": true
-	},
-	"252370":
-	{
-		"Working": true
-	},
-	"252410":
-	{
-		"Working": true
-	},
-	"252490":
-	{
-		"Working": true
-	},
-	"252630":
-	{
-		"Working": true
-	},
-	"252670":
-	{
-		"Working": true
-	},
-	"252750":
-	{
-		"Working": true
-	},
-	"253030":
-	{
-		"Working": true
-	},
+	"252170": true,
+	"252250": true,
+	"252310": true,
+	"252370": true,
+	"252410": true,
+	"252490": true,
+	"252630": true,
+	"252670": true,
+	"252750": true,
+	"253030": true,
 	"253110":
 	{
-		"Working": true,
 		"Comment": "Broken overlay."
 	},
-	"253310":
-	{
-		"Working": true
-	},
-	"253410":
-	{
-		"Working": true
-	},
-	"253570":
-	{
-		"Working": true
-	},
-	"253650":
-	{
-		"Working": true
-	},
-	"253790":
-	{
-		"Working": true
-	},
-	"255300":
-	{
-		"Working": true
-	},
-	"255340":
-	{
-		"Working": true
-	},
-	"255870":
-	{
-		"Working": true
-	},
-	"255920":
-	{
-		"Working": true
-	},
-	"257120":
-	{
-		"Working": true
-	},
-	"257670":
-	{
-		"Working": true
-	},
-	"257770":
-	{
-		"Working": true
-	},
-	"257830":
-	{
-		"Working": true
-	},
-	"257870":
-	{
-		"Working": true
-	},
-	"257930":
-	{
-		"Working": true
-	},
-	"258050":
-	{
-		"Working": true
-	},
+	"253310": true,
+	"253410": true,
+	"253570": true,
+	"253650": true,
+	"253790": true,
+	"255300": true,
+	"255340": true,
+	"255870": true,
+	"255920": true,
+	"257120": true,
+	"257670": true,
+	"257770": true,
+	"257830": true,
+	"257870": true,
+	"257930": true,
+	"258050": true,
 	"258550":
 	{
 		"Hidden": true,
 		"Comment": "Server, not a game."
 	},
-	"258890":
-	{
-		"Working": true
-	},
-	"258950":
-	{
-		"Working": true
-	},
-	"259060":
-	{
-		"Working": true
-	},
-	"259130":
-	{
-		"Working": true
-	},
-	"259390":
-	{
-		"Working": true
-	},
-	"259430":
-	{
-		"Working": true
-	},
-	"259450":
-	{
-		"Working": true
-	},
-	"259470":
-	{
-		"Working": true
-	},
-	"259510":
-	{
-		"Working": true
-	},
-	"259530":
-	{
-		"Working": true
-	},
-	"259600":
-	{
-		"Working": true
-	},
-	"259620":
-	{
-		"Working": true
-	},
-	"259680":
-	{
-		"Working": true
-	},
-	"259700":
-	{
-		"Working": true
-	},
-	"259720":
-	{
-		"Working": true
-	},
-	"259740":
-	{
-		"Working": true
-	},
-	"259780":
-	{
-		"Working": true
-	},
+	"258890": true,
+	"258950": true,
+	"259060": true,
+	"259130": true,
+	"259390": true,
+	"259430": true,
+	"259450": true,
+	"259470": true,
+	"259510": true,
+	"259530": true,
+	"259600": true,
+	"259620": true,
+	"259680": true,
+	"259700": true,
+	"259720": true,
+	"259740": true,
+	"259780": true,
 	"260790":
 	{
-		"Working": true,
 		"Comment": "Steam Overlay broken with 64-bit version."
 	},
-	"261350":
-	{
-		"Working": true
-	},
-	"261680":
-	{
-		"Working": true
-	},
-	"261700":
-	{
-		"Working": true
-	},
-	"261820":
-	{
-		"Working": true
-	},
-	"261960":
-	{
-		"Working": true
-	},
-	"262260":
-	{
-		"Working": true
-	},
-	"262690":
-	{
-		"Working": true
-	},
-	"262940":
-	{
-		"Working": true
-	},
-	"263320":
-	{
-		"Working": true
-	},
-	"263340":
-	{
-		"Working": true
-	},
-	"263360":
-	{
-		"Working": true
-	},
-	"263420":
-	{
-		"Working": true
-	},
-	"263460":
-	{
-		"Working": true
-	},
-	"264060":
-	{
-		"Working": true
-	},
-	"264080":
-	{
-		"Working": true
-	},
+	"261350": true,
+	"261680": true,
+	"261700": true,
+	"261820": true,
+	"261960": true,
+	"262260": true,
+	"262690": true,
+	"262940": true,
+	"263320": true,
+	"263340": true,
+	"263360": true,
+	"263420": true,
+	"263460": true,
+	"264060": true,
+	"264080": true,
 	"264140":
 	{
-		"Working": true,
 		"Beta": true
 	},
-	"264160":
-	{
-		"Working": true
-	},
-	"264280":
-	{
-		"Working": true
-	},
-	"264340":
-	{
-		"Working": true
-	},
-	"264380":
-	{
-		"Working": true
-	},
+	"264160": true,
+	"264280": true,
+	"264340": true,
+	"264380": true,
 	"264730":
 	{
-		"Working": true,
 		"Comment": "Broken overlay."
 	},
-	"265380":
-	{
-		"Working": true
-	},
-	"265630":
-	{
-		"Working": true
-	},
-	"265670":
-	{
-		"Working": true
-	},
-	"265770":
-	{
-		"Working": true
-	},
-	"265830":
-	{
-		"Working": true
-	},
-	"265890":
-	{
-		"Working": true
-	},
-	"266010":
-	{
-		"Working": true
-	},
-	"266090":
-	{
-		"Working": true
-	},
-	"266130":
-	{
-		"Working": true
-	},
-	"267060":
-	{
-		"Working": true
-	},
-	"267670":
-	{
-		"Working": true
-	},
-	"268810":
-	{
-		"Working": true
-	},
-	"269150":
-	{
-		"Working": true
-	},
-	"269810":
-	{
-		"Working": true
-	},
-	"270150":
-	{
-		"Working": true
-	},
-	"270330":
-	{
-		"Working": true
-	},
-	"270450":
-	{
-		"Working": true
-	},
-	"270750":
-	{
-		"Working": true
-	},
-	"270760":
-	{
-		"Working": true
-	},
-	"271820":
-	{
-		"Working": true
-	},
-	"271900":
-	{
-		"Working": true
-	},
-	"272060":
-	{
-		"Working": true
-	},
-	"273070":
-	{
-		"Working": true
-	},
-	"274450":
-	{
-		"Working": true
-	},
-	"279160":
-	{
-		"Working": true
-	},
-	"280220":
-	{
-		"Working": true
-	},
-	"280910":
-	{
-		"Working": true
-	},
-	"282760":
-	{
-		"Working": true
-	},
-	"282880":
-	{
-		"Working": true
-	},
-	"283040":
-	{
-		"Working": true
-	},
-	"283270":
-	{
-		"Working": true
-	},
-	"283980":
-	{
-		"Working": true
-	},
-	"284710":
-	{
-		"Working": true
-	},
+	"265380": true,
+	"265630": true,
+	"265670": true,
+	"265770": true,
+	"265830": true,
+	"265890": true,
+	"266010": true,
+	"266090": true,
+	"266130": true,
+	"267060": true,
+	"267670": true,
+	"268810": true,
+	"269150": true,
+	"269810": true,
+	"270150": true,
+	"270330": true,
+	"270450": true,
+	"270750": true,
+	"270760": true,
+	"271820": true,
+	"271900": true,
+	"272060": true,
+	"273070": true,
+	"274450": true,
+	"279160": true,
+	"280220": true,
+	"280910": true,
+	"282760": true,
+	"282880": true,
+	"283040": true,
+	"283270": true,
+	"283980": true,
+	"284710": true,
 	"286100":
 	{
-		"Working": true,
 		"Comment": "This game has only 64-bit binaries."
 	},
-	"286380":
-	{
-		"Working": true
-	},
-	"287020":
-	{
-		"Working": true
-	},
+	"286380": true,
+	"287020": true,
 	"287580":
 	{
-		"Working": true,
 		"Comment": "Partly broken overlay (does not accept input)"
 	},
-	"290060":
-	{
-		"Working": true
-	},
-	"290280":
-	{
-		"Working": true
-	},
-	"290770":
-	{
-		"Working": true
-	},
-	"291030":
-	{
-		"Working": true
-	},
-	"291050":
-	{
-		"Working": true
-	},
-	"291430":
-	{
-		"Working": true
-	},
-	"293200":
-	{
-		"Working": true
-	},
-	"293300":
-	{
-		"Working": true
-	},
-	"293860":
-	{
-		"Working": true
-	},
-	"294230":
-	{
-		"Working": true
-	},
-	"295610":
-	{
-		"Working": true
-	},
-	"296850":
-	{
-		"Working": true
-	},
+	"290060": true,
+	"290280": true,
+	"290770": true,
+	"291030": true,
+	"291050": true,
+	"291430": true,
+	"293200": true,
+	"293300": true,
+	"293860": true,
+	"294230": true,
+	"295610": true,
+	"296850": true,
 	"297120":
 	{
-		"Working": true,
 		"Comment": "Flickering graphics during menus on AMD fglrx drivers"
 	},
-	"299780":
-	{
-		"Working": true
-	},
-	"301190":
-	{
-		"Working": true
-	},
+	"299780": true,
+	"301190": true,
 	"301360":
 	{
-		"Working": true,
 		"Comment": "This game has only 64-bit binaries."
 	},
-	"302380":
-	{
-		"Working": true
-	}
+	"302380": true
 }
