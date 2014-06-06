@@ -106,17 +106,12 @@
 			{
 				$gamesKeys = array_keys( $games );
 				$gamesSortedKeys = array_keys( $gamesSorted );
-				$brokenKey = false;
+				unset( $games, $gamesSorted );
 				$cachedCount = count( $gamesKeys );
 				for ($i = 0; $i < $cachedCount; ++$i)
 				{
-					if ( $gamesKeys[ $i ] !== $gamesSortedKeys[ $i ] )
-					{
-						$brokenKey = $gamesKeys[ $i ];
-						break;
-					}
+					$this->assertEquals( $gamesKeys[ $i ], $gamesSortedKeys[ $i ], 'File must be sorted correctly by appid, problem at "' . $gamesKeys[ $i ] . '"' );
 				}
-				$this->assertFalse( $brokenKey, 'File must be sorted correctly by appid, problem at "' . $brokenKey . '"' );
 			}
 		}
 	}
