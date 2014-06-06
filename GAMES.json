@@ -531,6 +531,11 @@
 	"253790": true,
 	"255300": true,
 	"255340": true,
+	"255700":
+	{
+		"Hidden": true,
+		"Comment": "GOTY. Also known as Steam - The Game"
+	},
 	"255870": true,
 	"255920": true,
 	"257120": true,
