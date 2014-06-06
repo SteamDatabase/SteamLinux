@@ -104,7 +104,8 @@
 			$gamesKeys = array_keys( $games );
 			$gamesSortedKeys = array_keys( $gamesSorted );
 			$brokenKey = false;
-			for ($i = 0; $i < count( $gamesKeys ); ++$i)
+			$cachedCount = count( $gamesKeys );
+			for ($i = 0; $i < $cachedCount; ++$i)
 			{
 				if ( $gamesKeys[ $i ] !== $gamesSortedKeys[ $i ] )
 				{
