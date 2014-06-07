@@ -133,6 +133,7 @@
 	"65800": true,
 	"67000": true,
 	"70100": true,
+	"70110": true,
 	"70120": true,
 	"70300": true,
 	"72000": true,
@@ -610,6 +611,7 @@
 	"266130": true,
 	"267060": true,
 	"267670": true,
+	"268750": true,
 	"268810": true,
 	"269150": true,
 	"269810": true,
@@ -652,6 +654,7 @@
 	"293200": true,
 	"293300": true,
 	"293860": true,
+	"293920": true,
 	"294230": true,
 	"295610": true,
 	"296850": true,
@@ -660,11 +663,13 @@
 		"Comment": "Flickering graphics during menus on AMD fglrx drivers"
 	},
 	"298340": true,
+	"299460": true,
 	"299780": true,
 	"301190": true,
 	"301360":
 	{
 		"Comment": "This game has only 64-bit binaries."
 	},
-	"302380": true
+	"302380": true,
+	"302950": true
 }
