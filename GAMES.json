@@ -422,10 +422,12 @@
 	"242110": true,
 	"242360":
 	{
+		"Hidden": true,
 		"Comment": "This is Korean version of Football Manager 2014"
 	},
 	"242500":
 	{
+		"Hidden": true,
 		"Comment": "Europa Universalis IV Review"
 	},
 	"242530": true,
@@ -459,7 +461,7 @@
 	"247870": true,
 	"248190":
 	{
-		"Comment": "There might be some input glitches on the steam overlay."
+		"Comment": "There might be some input glitches on the Steam overlay."
 	},
 	"248410": true,
 	"248450": true,
