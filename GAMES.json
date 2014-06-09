@@ -488,6 +488,7 @@
 	"249570": true,
 	"249590": true,
 	"249630": true,
+	"249950": true,
 	"249990": true,
 	"250050": true,
 	"250110": true,
@@ -648,6 +649,7 @@
 	{
 		"Comment": "Partly broken overlay (does not accept input)"
 	},
+	"289760": true,
 	"290060": true,
 	"290280": true,
 	"290770": true,
