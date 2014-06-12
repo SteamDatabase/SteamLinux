@@ -345,7 +345,10 @@
 	"231720": true,
 	"231740": true,
 	"231910": true,
-	"232050": true,
+	"232050":
+	{
+		"Comment": "The game is not a Linux port but a WINE self contained package."
+	},
 	"232290":
 	{
 		"Hidden": true,
