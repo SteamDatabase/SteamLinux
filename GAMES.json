@@ -682,6 +682,7 @@
 	{
 		"Comment": "Flickering graphics during menus on AMD fglrx drivers"
 	},
+	"297490": true,
 	"298340": true,
 	"299460": true,
 	"299780": true,
