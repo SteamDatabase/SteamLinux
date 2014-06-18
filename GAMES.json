@@ -27,10 +27,7 @@
 		"Hidden": true,
 		"Comment": "Server, not a game."
 	},
-	"620":
-	{
-		"Beta": true
-	},
+	"620": true,
 	"742":
 	{
 		"Hidden": true,
@@ -654,6 +651,7 @@
 	"283270": true,
 	"283980": true,
 	"284710": true,
+	"286080": true,
 	"286100":
 	{
 		"Comment": "This game has only 64-bit binaries."
