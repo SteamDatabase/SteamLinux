@@ -184,6 +184,10 @@
 	"115100": true,
 	"115110": true,
 	"200390": true,
+	"200510":
+	{
+		"Comment": "Only 64-bit Launch Config."
+	},
 	"200900": true,
 	"201040": true,
 	"201310": true,
