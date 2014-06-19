@@ -701,6 +701,7 @@
 	{
 		"Comment": "This game has only 64-bit binaries."
 	},
+	"302310": true,
 	"302350":
 	{
 		"Comment": "Uses DOSBOX."
