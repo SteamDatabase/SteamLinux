@@ -62,6 +62,8 @@
 				}
 				else if( is_array( $keys ) )
 				{
+					$this->assertNotEmpty( $keys, '"' . $appID . '" can not be an empty array' );
+					
 					foreach( $keys as $key => $value )
 					{
 						$this->assertArrayHasKey( $key, $allowedKeys, 'Invalid key "' . $key . '" in "' . $appID . '"' );
@@ -102,13 +104,15 @@
 			
 			ksort( $gamesSorted );
 
-			if ( $games !== $gamesSorted )
+			if( $games !== $gamesSorted )
 			{
 				$gamesKeys = array_keys( $games );
 				$gamesSortedKeys = array_keys( $gamesSorted );
-				unset( $games, $gamesSorted );
 				$cachedCount = count( $gamesKeys );
-				for ($i = 0; $i < $cachedCount; ++$i)
+				
+				unset( $games, $gamesSorted );
+				
+				for( $i = 0; $i < $cachedCount; ++$i )
 				{
 					$this->assertEquals( $gamesKeys[ $i ], $gamesSortedKeys[ $i ], 'File must be sorted correctly by appid, problem at "' . $gamesKeys[ $i ] . '"' );
 				}
