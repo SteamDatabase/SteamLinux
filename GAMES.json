@@ -700,6 +700,11 @@
 	"297490": true,
 	"298340": true,
 	"299460": true,
+	"299540":
+	{
+		"Comment": "(Possible) broken overlay and fullscreen.",
+		"CommentURL": "http://steamcommunity.com/app/299540/discussions/0/540744936032374080/"
+	},
 	"299780": true,
 	"300300": true,
 	"301190": true,
@@ -714,5 +719,10 @@
 	},
 	"302380": true,
 	"302950": true,
+	"304290":	
+	{
+		"Comment": "(Possible) broken overlay and fullscreen.",
+		"CommentURL": "http://steamcommunity.com/app/299540/discussions/0/540744936032374080/"
+	},
 	"307090": true
 }
