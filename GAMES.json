@@ -606,6 +606,7 @@
 	"259720": true,
 	"259740": true,
 	"259780": true,
+	"260160": true,
 	"260790":
 	{
 		"Comment": "Steam Overlay broken with 64-bit version."
@@ -689,6 +690,7 @@
 	"279990": true,
 	"280040": true,
 	"280220": true,
+	"280520": true,
 	"280830": true,
 	"280910": true,
 	"282760": true,
@@ -740,6 +742,7 @@
 	"292860": true,
 	"293200": true,
 	"293300": true,
+	"293420": true,
 	"293840": true,
 	"293860": true,
 	"293920": true,
