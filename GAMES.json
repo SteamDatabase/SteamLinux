@@ -235,7 +235,7 @@
 	"209540": true,
 	"209790":
 	{
-		"Comment": "Achievements do not unlock.",
+		"Comment": "Steamworks features are unavailable",
 		"CommentURL": "http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741"
 	},
 	"210170": true,
@@ -472,7 +472,7 @@
 	"245470": true,
 	"245550":
 	{
-		"Comment": "Overlay doesn't work."
+		"Comment": "Broken overlay."
 	},
 	"246070": true,
 	"246090": true,
@@ -495,11 +495,7 @@
 	"248570": true,
 	"248610": true,
 	"248710": true,
-	"248800":
-	{
-		"Comment": "Need to disable Steamworks on 64bit systems due to a bug.",
-		"CommentURL": "http://steamcommunity.com/app/248800/discussions/0/846965705285069220/#c846966336102411647"
-	},
+	"248800": true,
 	"248860":
 	{
 		"Comment": "Broken overlay."
@@ -604,10 +600,7 @@
 	"259740": true,
 	"259780": true,
 	"260160": true,
-	"260790":
-	{
-		"Comment": "Steam Overlay broken with 64-bit version."
-	},
+	"260790": true,
 	"261350": true,
 	"261680": true,
 	"261700": true,
@@ -712,7 +705,7 @@
 	"286080": true,
 	"286100":
 	{
-		"Comment": "This game has only 64-bit binaries."
+		"Comment": "Only 64-bit Launch Config."
 	},
 	"286160": true,
 	"286380": true,
@@ -761,10 +754,7 @@
 	"294750": true,
 	"295610": true,
 	"296850": true,
-	"297120":
-	{
-		"Comment": "Flickering graphics during menus on AMD fglrx drivers"
-	},
+	"297120": true,
 	"297490": true,
 	"297590": true,
 	"298340": true,
@@ -775,7 +765,7 @@
 	"301190": true,
 	"301360":
 	{
-		"Comment": "This game has only 64-bit binaries."
+		"Comment": "Only 64-bit Launch Config."
 	},
 	"301460": true,
 	"302310": true,
