@@ -39,14 +39,14 @@ You can add extra information to a game entry with the tags below:
 in a Comment.
 
 If you want to add a comment about additional issues, there are 2 more tags you can use:
-* `"Comment": "This game has no 64-bit binaries."`
+* `"Comment": "Only 64-bit Launch Config."`
 * `"CommentURL": "https://google.com/"` - not required if there is no source URL.
 
 **Examples**
 ```json
 	"57640":
 	{
-		"Comment": "Ignores SDL environment variables so isn’t playable on multiple displays."
+		"Comment": "Steamworks features are unavailable."
 	},
 ```
 
