@@ -161,6 +161,11 @@
 	{
 		"Comment": "Broken overlay."
 	},
+	"99920":
+	{
+		"Hidden": true,
+		"Comment": "Spiral Knights Preview"
+	},
 	"102840": true,
 	"105100":
 	{
