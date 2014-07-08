@@ -117,7 +117,7 @@
 	"45450": true,
 	"45900":
 	{
-		"Comment": "A Wine Bottle."
+		"Comment": "Uses Wine."
 	},
 	"48000": true,
 	"48700":
@@ -126,10 +126,7 @@
 	},
 	"49600": true,
 	"57300": true,
-	"57640":
-	{
-		"Comment": "Ignores SDL environment variables so isn't playable on multiple displays."
-	},
+	"57640": true,
 	"57740": true,
 	"58610": true,
 	"61600": true,
@@ -362,7 +359,7 @@
 	"231910": true,
 	"232050":
 	{
-		"Comment": "The game is not a Linux port but a WINE self contained package."
+		"Comment": "Uses Wine."
 	},
 	"232290":
 	{
@@ -544,7 +541,7 @@
 	"251990": true,
 	"252010":
 	{
-		"Comment": "The game is not a Linux port but a WINE self contained package."
+		"Comment": "Uses Wine."
 	},
 	"252170": true,
 	"252250": true,
@@ -772,11 +769,7 @@
 	"297590": true,
 	"298340": true,
 	"299460": true,
-	"299540":
-	{
-		"Comment": "(Possible) broken overlay and fullscreen.",
-		"CommentURL": "http://steamcommunity.com/app/299540/discussions/0/540744936032374080/"
-	},
+	"299540": true,
 	"299780": true,
 	"300300": true,
 	"301190": true,
@@ -786,17 +779,10 @@
 	},
 	"301460": true,
 	"302310": true,
-	"302350":
-	{
-		"Comment": "Uses DOSBOX."
-	},
+	"302350": true,
 	"302380": true,
 	"302950": true,
-	"304290":	
-	{
-		"Comment": "(Possible) broken overlay and fullscreen.",
-		"CommentURL": "http://steamcommunity.com/app/299540/discussions/0/540744936032374080/"
-	},
+	"304290": true,
 	"304670": true,
 	"307090": true
 }
