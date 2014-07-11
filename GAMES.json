@@ -154,10 +154,7 @@
 	"96200": true,
 	"97000": true,
 	"98200": true,
-	"98800":
-	{
-		"Comment": "Broken overlay."
-	},
+	"98800": true,
 	"99920":
 	{
 		"Hidden": true,
@@ -265,10 +262,7 @@
 	{
 		"Comment": "Broken overlay. Steamworks features are unavailable."
 	},
-	"215160":
-	{
-		"Comment": "Broken overlay."
-	},
+	"215160": true,
 	"215360":
 	{
 		"Hidden": true,
