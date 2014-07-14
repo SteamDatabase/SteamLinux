@@ -741,7 +741,7 @@
 	"292860": true,
 	"292910":
 	{
-		"Comment": "Only supplies 64-bit binaries."
+		"Comment": "Only 64-bit Launch Config."
 	},
 	"293200": true,
 	"293300": true,
