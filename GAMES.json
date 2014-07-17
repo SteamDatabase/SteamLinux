@@ -557,6 +557,11 @@
 	"253630": true,
 	"253650": true,
 	"253790": true,
+	"254200":
+	{
+		"Beta": true,
+		"Comment": "Only 32-bit Launch Config."
+	},
 	"255300": true,
 	"255340": true,
 	"255500": true,
@@ -694,6 +699,7 @@
 	"280740": true,
 	"280830": true,
 	"280910": true,
+	"281060": true,
 	"282760": true,
 	"282880": true,
 	"283040": true,
