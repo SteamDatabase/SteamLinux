@@ -425,7 +425,7 @@
 	"237870": true,
 	"238210":
 	{
-		"Comment": "Uses Wine. Defaults to 640x480 fullscreen."
+		"Comment": "Uses Wine."
 	},
 	"238280": true,
 	"238460": true,
