@@ -541,7 +541,7 @@
 	"251630": true,
 	"251810":
 	{
-		"Beta": true
+		"Comment": "Is a 32-Bit app but requires 64-Bit for engine."
 	},
 	"251910": true,
 	"251990": true,
