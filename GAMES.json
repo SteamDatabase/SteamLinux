@@ -264,6 +264,10 @@
 	{
 		"Comment": "Broken overlay. Steamworks features are unavailable."
 	},
+	"215080":
+	{
+		"Comment": "Only 64-bit Launch Config."
+	},
 	"215160": true,
 	"215360":
 	{
