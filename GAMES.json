@@ -544,6 +544,7 @@
 	"250580": true,
 	"250600": true,
 	"250620": true,
+	"250760": true,
 	"251060":
 	{
 		"Comment": "Only 64-bit Launch Config."
