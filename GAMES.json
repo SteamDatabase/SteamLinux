@@ -820,8 +820,13 @@
 		"Comment": "Only 64-bit Launch Config."
 	},
 	"293200": true,
+	"293240":
+	{
+		"Comment": "Steam Overlay broken."
+	},
 	"293300": true,
 	"293420": true,
+	"293660": true,
 	"293780": true,
 	"293840": true,
 	"293860": true,
@@ -847,6 +852,7 @@
 	"294720": true,
 	"294750": true,
 	"295250": true,
+	"295490": true,
 	"295610": true,
 	"295630": true,
 	"295870": true,
@@ -916,6 +922,7 @@
 	"308580": true,
 	"310070": true,
 	"310080": true,
+	"310700": true,
 	"310830": true,
 	"311800": true,
 	"311930": true,
