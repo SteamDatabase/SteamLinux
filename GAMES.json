@@ -977,6 +977,10 @@
 	"319550": true,
 	"319850": true,
 	"319970": true,
+	"321370":
+	{
+		"Comment": "Only 64-bit Launch Config."
+	},
 	"321480": true,
 	"321840": true,
 	"322580": true,
