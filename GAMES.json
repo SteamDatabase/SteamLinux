@@ -853,6 +853,10 @@
 	},
 	"293300": true,
 	"293420": true,
+	"293440":
+	{
+		"Comment": "Steam Overlay broken."
+	},
 	"293660": true,
 	"293780": true,
 	"293840": true,
