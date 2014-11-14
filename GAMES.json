@@ -101,6 +101,11 @@
 	"33600": true,
 	"33680": true,
 	"35480": true,
+	"35700":
+	{
+		"Beta": true,
+		"Comment": "Beta access code: TrineEEBetaNovember2014"
+	},
 	"35720": true,
 	"38600":
 	{
