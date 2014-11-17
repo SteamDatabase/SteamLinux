@@ -266,6 +266,10 @@
 	"212070": true,
 	"212680": true,
 	"213650": true,
+	"214340":
+	{
+		"Comment": "Only 64-bit Launch Config."
+	},
 	"214420":
 	{
 		"Comment": "Broken overlay."
@@ -310,6 +314,10 @@
 	"220090": true,
 	"220200": true,
 	"220460": true,
+	"220740":
+	{
+		"Comment": "Only 64-bit Launch Config."
+	},
 	"220780": true,
 	"220900": true,
 	"221020": true,
@@ -476,6 +484,10 @@
 	"241320": true,
 	"241600": true,
 	"241640": true,
+	"241910":
+	{
+		"Comment": "Only 64-bit Launch Config."
+	},
 	"242110": true,
 	"242360":
 	{
