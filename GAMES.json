@@ -64,7 +64,10 @@
 	"4920": true,
 	"6120": true,
 	"8930": true,
-	"10500": true,
+	"10500":
+	{
+		"Comment": "Only 64-bit Launch Config."
+	},
 	"13700":
 	{
 		"Comment": "Broken overlay."
@@ -102,11 +105,7 @@
 	"33600": true,
 	"33680": true,
 	"35480": true,
-	"35700":
-	{
-		"Beta": true,
-		"Comment": "Beta access code: TrineEEBetaNovember2014"
-	},
+	"35700": true,
 	"35720": true,
 	"38600":
 	{
