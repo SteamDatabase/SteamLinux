@@ -428,6 +428,10 @@
 	"234390": true,
 	"234650": true,
 	"234900": true,
+	"234920":
+	{
+		"Comment": "Pre-release, only for kickstarters."
+	},
 	"234940": true,
 	"235000":
 	{
