@@ -32,6 +32,7 @@
 		{
 			$this->assertNotRegExp( '/^ +/m', $games, 'Spaces used, we only allow tabs' );
 			$this->assertNotRegExp( '/^\t+ +/m', $games, 'Tabs mixed with spaces, we only allow tabs' );
+			$this->assertNotRegExp( '/\s$/m', $games, 'End of line whitespace found, fix it' );
 			
 			return $games;
 		}
