@@ -611,7 +611,10 @@
 	"252310": true,
 	"252370": true,
 	"252410": true,
-	"252490": true,
+	"252490": 
+	{
+		"Comment": "Currently crashes on launch."
+	},
 	"252630": true,
 	"252670": true,
 	"252750": true,
