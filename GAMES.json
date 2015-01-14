@@ -309,6 +309,10 @@
 	"219150": true,
 	"219190": true,
 	"219200": true,
+	"219640": 
+	{
+		"Beta": true
+	},
 	"219680": true,
 	"219740": true,
 	"219830": true,
@@ -613,7 +617,7 @@
 	"252410": true,
 	"252490": 
 	{
-		"Comment": "Currently crashes on launch."
+		"Comment": "Latest update breaks Linux compatibility."
 	},
 	"252630": true,
 	"252670": true,
@@ -1098,6 +1102,7 @@
 	"326160": true,
 	"326190": true,
 	"326410": true,
+	"326670": true;
 	"326960": true,
 	"327260": true,
 	"327380": true,
