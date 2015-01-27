@@ -488,6 +488,11 @@
 	"238910": true,
 	"239030": true,
 	"239070": true,
+	"239140":
+	{
+		"Comment": "Terrible performance even with high-end specs",
+		"CommentURL": "https://www.gamingonlinux.com/articles/dying-light-released-for-linux-some-thoughts-you-may-want-to-wait.4885"
+	},
 	"239200": true,
 	"239700": true,
 	"239820": true,
@@ -1127,6 +1132,7 @@
 	"328430": true,
 	"328550": true,
 	"328940": true,
+	"329130": true,
 	"329320": true,
 	"329460": true,
 	"329480": true,
