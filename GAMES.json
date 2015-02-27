@@ -501,6 +501,11 @@
 	"239140": true,
 	"239200": true,
 	"239700": true,
+	"239760":
+	{
+		"Hidden": true,
+		"Comment": "Incorrectly flagged by system, likely copy/paste of UFS"
+	},
 	"239800": true,
 	"239820": true,
 	"240760": true,
