@@ -210,6 +210,7 @@
 	{
 		"Comment": "Only 64-bit Launch Config."
 	},
+	"200710": true,
 	"200900": true,
 	"201040": true,
 	"201310": true,
