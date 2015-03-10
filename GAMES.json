@@ -559,7 +559,10 @@
 	"246360": true,
 	"246400": true,
 	"246420": true,
-	"246620": true,
+	"246620":
+	{	"Comment": "Currently in beta testing (password required).",
+		"CommentURL": "http://steamcommunity.com/app/246620/discussions/0/540744935053735043/#c617329920709260643"
+	},
 	"246680": true,
 	"246800": true,
 	"247020": true,
