@@ -953,10 +953,7 @@
 		"Comment": "Only 64-bit Launch Config."
 	},
 	"293200": true,
-	"293240":
-	{
-		"Comment": "Steam Overlay broken."
-	},
+	"293240": true,
 	"293300": true,
 	"293420": true,
 	"293440":
