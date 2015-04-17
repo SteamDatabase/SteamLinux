@@ -522,6 +522,7 @@
 	"239800": true,
 	"239820": true,
 	"240760": true,
+	"241240": true,
 	"241320": true,
 	"241600": true,
 	"241640": true,
@@ -1279,6 +1280,7 @@
 	"340630": true,
 	"340730": true,
 	"340800": true,
+	"341150": true,
 	"341190":
 	{
 		"Comment": "Uses an older udev, needs a tweak for some distros",
@@ -1316,5 +1318,6 @@
 	"355420": true,
 	"356880": true,
 	"357600": true,
-	"357900": true
+	"357900": true,
+	"360600": true
 }
