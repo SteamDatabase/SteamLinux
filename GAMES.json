@@ -494,6 +494,7 @@
 	},
 	"237870": true,
 	"237930": true,
+	"237990": true,
 	"238210":
 	{
 		"Comment": "Uses Wine."
@@ -1236,6 +1237,10 @@
 	"331220": true,
 	"331390": true,
 	"331470": true,
+	"332250": true
+	{
+		"Comment": "Only 64-bit Launch Config."
+	},
 	"332760": true,
 	"332830": true,
 	"332970": true,
