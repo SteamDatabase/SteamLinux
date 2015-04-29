@@ -88,4 +88,4 @@ Credits
 
 Contact
 -------
-Most of us can be contacted on either #SteamLUG or #SteamDB on [Freenode](irc.freenode.net)
+Most of us can be contacted on either #SteamLUG or #SteamDB on [freenode](https://freenode.net/) IRC server.
