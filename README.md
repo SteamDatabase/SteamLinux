@@ -8,7 +8,7 @@ The contents are under the public domain.
 
 Contribution
 ------------
-Please view [CONTRIBUTING](CONTRIBUTING.markdown) file for more information.
+Please view [CONTRIBUTING](CONTRIBUTING.md) file for more information.
 
 Credits
 -------
