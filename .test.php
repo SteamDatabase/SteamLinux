@@ -119,7 +119,13 @@
 				
 				for( $i = 0; $i < $cachedCount; ++$i )
 				{
-					$this->assertEquals( $gamesKeys[ $i ], $gamesSortedKeys[ $i ], 'File must be sorted correctly by appid, problem at "' . $gamesKeys[ $i ] . '"' );
+					$message = '';
+					if ( $gamesKeys[ $i ] !== $gamesSortedKeys[ $i ] )
+					{
+						$where = array_search( $gamesKeys[ $i ], $gamesSortedKeys ) - array_search( $gamesSortedKeys[ $i ], $gamesKeys );
+						$message = $where > 0 ? $gamesKeys[ $i ] . '" is far too early' : ( $where == 0 ? $gamesKeys[ $i ] . '" is on an adjacent line' : $gamesSortedKeys[ $i ] . '" is far too late' );
+					}
+					$this->assertEquals( $gamesKeys[ $i ], $gamesSortedKeys[ $i ], 'File must be sorted correctly by appid, "' . $message );
 				}
 			}
 		}
