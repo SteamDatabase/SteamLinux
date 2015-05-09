@@ -13,3 +13,5 @@ notifications:
     template:
       - "%{repository}#%{build_number} (%{commit} by %{author}): %{message}"
       - "Build details: %{build_url}"
+install:
+    - composer require seld/jsonlint:1.3.1

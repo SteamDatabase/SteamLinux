@@ -1,4 +1,8 @@
 <?php
+	require 'vendor/autoload.php';
+
+	use Seld\JsonLint\JsonParser;
+
 	class SteamLinuxTest extends PHPUnit_Framework_TestCase
 	{
 		public function testFileExists( )
@@ -46,10 +50,15 @@
 		 */
 		public function testJSON( $games )
 		{
-			$games = json_decode( $games, true );
-			
-			$this->assertSame( json_last_error(), JSON_ERROR_NONE, 'JSON Error: ' . ( function_exists( 'json_last_error_msg' ) ? json_last_error_msg() : json_last_error() ) );
-			
+			try
+			{
+				$parser = new JsonParser();
+				$games = $parser->parse( $games, JsonParser::DETECT_KEY_CONFLICTS + JsonParser::PARSE_TO_ASSOC );
+			} catch ( Exception $e )
+			{
+				$this->assertTrue( 'parsing', $e->getMessage() );
+			}
+
 			$allowedKeys = Array(
 				'Hidden'     => 'is_bool',
 				'Beta'       => 'is_bool',
