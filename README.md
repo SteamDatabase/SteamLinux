@@ -1,6 +1,8 @@
 Games, on Steam for Linux [![Build Status](https://travis-ci.org/SteamDatabase/SteamLinux.png?branch=gh-pages)](https://travis-ci.org/SteamDatabase/SteamLinux)
 =========================
-This is the source code for *Games, on Steam for Linux*
+This is a community‐sourced database of *Games, on Steam for Linux*, maintained
+because backend data from Steam is not always as close to reality as we would
+like!
 
 License
 -------
@@ -18,7 +20,7 @@ Credits
 - [weltall](https://github.com/weltall) - Frequent contributor to the list.
 - [soeb](https://github.com/soeb) - Frequent contributor to the list.
 - [hypercephalickitten](https://github.com/hypercephalickitten) - Frequent contributor to the list.
-- [johndrinkwater](https://github.com/johndrinkwater) - Infrequent contributor to the list.
+- [johndrinkwater](https://github.com/johndrinkwater) - Frequent contributor to the list.
 - And a whole lot of very helpful people! Too many to list, truthfully.
 
 Contact
