@@ -56,6 +56,7 @@ included in the repo which will validate your edit, it can be called via
 you can use this [pre-commit
 hook](https://gist.github.com/johndrinkwater/cd96810e3b277b7e2fb1) to prevent
 git from committing faulty edits.
+Before you can use phpunit you need to get [Composer](https://getcomposer.org/) and execute `composer require seld/jsonlint:1.3.1` inside your local repository.
 
 Commit titles should include `%game% (%appid%)` along with your preferred
 flavour text. If you have multiple games to confirm and it makes the title
