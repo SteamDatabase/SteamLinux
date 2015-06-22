@@ -1089,6 +1089,11 @@
 	"304410": true,
 	"304670": true,
 	"304730": true,
+	"304930":
+	{
+		"Beta": true,
+		"Comment": "Beta-code is OPERATIONMAPLELEAF (publicly announced)"
+	},
 	"305050": true,
 	"305480": true,
 	"305490": true,
@@ -1373,6 +1378,10 @@
 	"346080": true,
 	"346200": true,
 	"346290": true,
+	"346970":
+	{
+		"Comment": "Only 32-bit launch config"
+	},
 	"347430": true,
 	"347480": true,
 	"348180": true,
