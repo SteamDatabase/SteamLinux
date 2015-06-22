@@ -1089,6 +1089,11 @@
 	"304410": true,
 	"304670": true,
 	"304730": true,
+	"304930":
+	{
+		"Beta": true,
+		"Comment": "Beta-code is OPERATIONMAPLELEAF (publicly announced)"
+	},
 	"305050": true,
 	"305480": true,
 	"305490": true,
