@@ -1378,6 +1378,10 @@
 	"346080": true,
 	"346200": true,
 	"346290": true,
+	"346970":
+	{
+		"Comment": "Only 32-bit launch config"
+	},
 	"347430": true,
 	"347480": true,
 	"348180": true,
