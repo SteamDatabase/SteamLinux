@@ -1458,5 +1458,10 @@
 	"375220": true,
 	"375600": true,
 	"376730": true,
-	"377760": true
+	"377760": true,
+	"382530":
+	{
+		"Hidden": true,
+		"Comment": "Demo, not a game."
+	}
 }
