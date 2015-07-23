@@ -2,7 +2,14 @@ language: php
 sudo: false
 php:
   - 5.5
+
+cache:
+  directories:
+    - vendor
+    - $HOME/.composer/cache
+
 script: phpunit --configuration .phpunit.xml
+
 notifications:
   email: false
   irc:
@@ -14,5 +21,6 @@ notifications:
     template:
       - "%{repository}#%{build_number} (%{commit} by %{author}): %{message}"
       - "Build details: %{build_url}"
+
 install:
     - composer require seld/jsonlint:1.3.1
