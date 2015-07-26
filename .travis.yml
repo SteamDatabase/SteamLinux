@@ -18,8 +18,8 @@ notifications:
     channels:
       - "chat.freenode.net#steamlug"
     template:
-      - "%{repository}#%{build_number} (%{commit} by %{author}): %{message}"
-      - "Build details: %{build_url}"
+      - "[%{repository_name}] %{commit} by %{author}: %{message}"
+      - "[%{repository_name}] Build details: %{build_url}"
 
 install:
     - composer require seld/jsonlint:1.3.1
