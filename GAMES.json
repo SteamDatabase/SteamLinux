@@ -1406,6 +1406,7 @@
 	},
 	"346200": true,
 	"346290": true,
+	"346900": true,
 	"346970":
 	{
 		"Comment": "Only 32-bit launch config"
