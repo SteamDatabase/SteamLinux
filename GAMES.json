@@ -191,10 +191,7 @@
 	{
 		"Comment": "Overlay works only in full-screen mode. Steamworks features are unavailable."
 	},
-	"105600":
-	{
-		"Beta": true
-	},
+	"105600": true,
 	"107100": true,
 	"107200": true,
 	"107800": true,
