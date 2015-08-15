@@ -1183,6 +1183,10 @@
 		"Hidden": true,
 		"Comment": "Public Beta for 291650."
 	},
+	"317250":
+	{
+		"Comment": "Broken overlay."
+	},
 	"317290": true,
 	"317300": true,
 	"317360": true,
