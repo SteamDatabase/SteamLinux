@@ -359,7 +359,11 @@
 	"222730": true,
 	"222750": true,
 	"223470": true,
-	"223530": true,
+	"223530":
+	{
+		"Hidden": true,
+		"Comment": "Left 4 Dead 2 Beta"
+	},
 	"223830":
 	{
 		"Comment": "Uses Wine."
