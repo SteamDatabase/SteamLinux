@@ -1,13 +1,3 @@
-Games, on Steam for Linux [![Build Status](https://travis-ci.org/SteamDatabase/SteamLinux.png?branch=gh-pages)](https://travis-ci.org/SteamDatabase/SteamLinux)
-=========================
-This is the source code for *Games, on Steam for Linux*
-
-License
--------
-The contents are under the public domain.
-
-Contribution
-------------
 If you want to edit the list, make a fork on GitHub, make your changes and then
 make a pull request through GitHub. Describe your changes and be thorough!
 Follow the format below, cite sources, etc.
@@ -66,6 +56,7 @@ included in the repo which will validate your edit, it can be called via
 you can use this [pre-commit
 hook](https://gist.github.com/johndrinkwater/cd96810e3b277b7e2fb1) to prevent
 git from committing faulty edits.
+Before you can use phpunit you need to get [Composer](https://getcomposer.org/) and execute `composer require seld/jsonlint:1.3.1` inside your local repository.
 
 Commit titles should include `%game% (%appid%)` along with your preferred
 flavour text. If you have multiple games to confirm and it makes the title
@@ -74,18 +65,3 @@ unwieldy, consider breaking the commit into many.
 Pull Requests should have clean history, no commits to clean previous commits,
 no merges that include --no-ff, etc. They may be rejected or rewritten if this
 is the case.
-
-Credits
--------
-- [flibitijibibo](https://github.com/flibitijibibo) - Creator of The Big List of Steam Games on GNU/Linux.
-- [swordfischer](https://github.com/swordfischer) - Re‐made the list from scratch to use markdown and jekyll, then json.
-- [xPaw](https://github.com/xPaw) - Improved the new list by making different stylesheet additions, and other minor improvements.
-- [weltall](https://github.com/weltall) - Frequent contributor to the list.
-- [soeb](https://github.com/soeb) - Frequent contributor to the list.
-- [hypercephalickitten](https://github.com/hypercephalickitten) - Frequent contributor to the list.
-- [johndrinkwater](https://github.com/johndrinkwater) - Infrequent contributor to the list.
-- And a whole lot of very helpful people! Too many to list, truthfully.
-
-Contact
--------
-Most of us can be contacted on either #SteamLUG or #SteamDB on [Freenode](irc.freenode.net)
