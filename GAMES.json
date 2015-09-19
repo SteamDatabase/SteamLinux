@@ -69,10 +69,7 @@
 	"6120": true,
 	"8870": true,
 	"8930": true,
-	"10500":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"10500": true,
 	"13700":
 	{
 		"Comment": "Broken overlay."
@@ -938,10 +935,7 @@
 	"285900": true,
 	"285960": true,
 	"286080": true,
-	"286100":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"286100": true,
 	"286160": true,
 	"286200": true,
 	"286220": true,
@@ -1439,10 +1433,7 @@
 	"346560": true,
 	"346900": true,
 	"346940": true,
-	"346970":
-	{
-		"Comment": "Only 32-bit launch config"
-	},
+	"346970": true,
 	"347240": true,
 	"347250": true,
 	"347430": true,
@@ -1569,10 +1560,7 @@
 	"385770": true,
 	"386070": true,
 	"387860": true,
-	"387970":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"387970": true,
 	"388390": true,
 	"388490": true,
 	"399900": true
