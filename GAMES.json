@@ -362,10 +362,7 @@
 		"Hidden": true,
 		"Comment": "Left 4 Dead 2 Beta"
 	},
-	"223830":
-	{
-		"Comment": "Uses Wine."
-	},
+	"223830": true,
 	"224260": true,
 	"224480": true,
 	"224500": true,
