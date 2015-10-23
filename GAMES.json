@@ -1632,9 +1632,9 @@
 	"399900": true,
 	"401190": true,
 	"402890": true,
+	"404480": true,
 	"404730":
 	{
 		"Comment": "Only 64-bit Launch Config."
-	},
-	"404480": true
+	}
 }
