@@ -1518,6 +1518,10 @@
 	"360600": true,
 	"360640": true,
 	"360880": true,
+	"360950":
+	{
+		"Comment": "Only 64-bit Launch Config."
+	},
 	"361190": true,
 	"361330": true,
 	"361350": true,
@@ -1574,6 +1578,7 @@
 	},
 	"372380": true,
 	"372770": true,
+	"372780": true,
 	"372800": true,
 	"373120": true,
 	"373180": true,
@@ -1627,5 +1632,9 @@
 	"399900": true,
 	"401190": true,
 	"402890": true,
+	"404730":
+	{
+		"Comment": "Only 64-bit Launch Config."
+	},
 	"404480": true
 }
