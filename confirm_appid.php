@@ -15,7 +15,7 @@
 		if( !is_numeric( $AppID ) || $AppID <= 0 )
 		{
 			echo '"' . $AppID . '" is not a valid AppID' . PHP_EOL;
-			exit;
+			exit(1);
 		}
 		
 		$AppID = (int)$AppID;
@@ -23,7 +23,7 @@
 		if( array_key_exists( $AppID, $Games ) )
 		{
 			echo 'AppID ' . $AppID . ' is already confirmed' . PHP_EOL;
-			exit;	
+			exit(1);	
 		}
 		
 		$Games[ $AppID ] = true;
