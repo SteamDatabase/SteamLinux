@@ -430,7 +430,8 @@
 	{
 		"Comment": "Uses Wine."
 	},
-	"232210": {
+	"232210":
+	{
 		"Hidden": true,
 		"Comment": "Public Beta for 219640."
 	},
@@ -602,7 +603,8 @@
 	"247020": true,
 	"247080": true,
 	"247240": true,
-	"247750": {
+	"247750":
+	{
 		"Hidden": true,
 		"Comment": "Demo, not a game."
 	},
@@ -766,7 +768,8 @@
 	"260790": true,
 	"261180": true,
 	"261350": true,
-	"261450": {
+	"261450":
+	{
 		"Hidden": true,
 		"Comment": "Beta for 244930."
 	},
@@ -1220,7 +1223,8 @@
 	"317020": true,
 	"317030": true,
 	"317040": true,
-	"317120": {
+	"317120":
+	{
 		"Hidden": true,
 		"Comment": "Public Beta for 291650."
 	},
