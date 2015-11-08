@@ -57,6 +57,11 @@
 	"1510": true,
 	"1520": true,
 	"1530": true,
+	"1860":
+	{
+		"Hidden": true,
+		"Comment": "Demo, not a game."
+	},
 	"2810": true,
 	"2820": true,
 	"2870":
@@ -1351,7 +1356,11 @@
 	"330350": true,
 	"330460": true,
 	"330670": true,
-	"330710": true,
+	"330710":
+	{
+		"Hidden": true,
+		"Comment": "Demo, not a game."
+	},
 	"330820": true,
 	"330990": true,
 	"331220": true,
@@ -1721,6 +1730,11 @@
 	"388490": true,
 	"388680": true,
 	"389310": true,
+	"392180":
+	{
+		"Hidden": true,
+		"Comment": "Demo, not a game."
+	},
 	"394770": true,
 	"395160": true,
 	"395300": true,
@@ -1758,5 +1772,10 @@
 	"408280": true,
 	"409370": true,
 	"409630": true,
+	"413010":
+	{
+		"Hidden": true,
+		"Comment": "Demo, not a game."
+	},
 	"415890": true
 }
