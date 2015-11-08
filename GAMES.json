@@ -223,10 +223,7 @@
 	"115100": true,
 	"115110": true,
 	"200390": true,
-	"200510":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"200510": true,
 	"200710": true,
 	"200900": true,
 	"200910": true,
@@ -293,10 +290,7 @@
 	"212070": true,
 	"212680": true,
 	"213650": true,
-	"214340":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"214340": true,
 	"214420":
 	{
 		"Comment": "Broken overlay."
@@ -311,10 +305,7 @@
 	{
 		"Comment": "Broken overlay. Steamworks features are unavailable."
 	},
-	"215080":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"215080": true,
 	"215160": true,
 	"215360":
 	{
@@ -344,10 +335,7 @@
 	"220090": true,
 	"220200": true,
 	"220460": true,
-	"220740":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"220740": true,
 	"220780": true,
 	"220900": true,
 	"221020": true,
@@ -517,10 +505,7 @@
 	"237430": true,
 	"237470": true,
 	"237550": true,
-	"237850":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"237850": true,
 	"237870": true,
 	"237930": true,
 	"237990": true,
@@ -562,10 +547,7 @@
 	"241320": true,
 	"241600": true,
 	"241640": true,
-	"241910":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"241910": true,
 	"241930": true,
 	"242110": true,
 	"242360":
@@ -665,10 +647,7 @@
 	"250620": true,
 	"250760": true,
 	"250900": true,
-	"251060":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"251060": true,
 	"251130": true,
 	"251210": true,
 	"251370": true,
@@ -1026,10 +1005,7 @@
 	"292800": true,
 	"292840": true,
 	"292860": true,
-	"292910":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"292910": true,
 	"293200": true,
 	"293240": true,
 	"293300": true,
@@ -1087,10 +1063,7 @@
 	"297120": true,
 	"297270": true,
 	"297290": true,
-	"297410":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"297410": true,
 	"297490": true,
 	"297590": true,
 	"297740": true,
@@ -1117,10 +1090,7 @@
 	"301190": true,
 	"301200": true,
 	"301300": true,
-	"301360":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"301360": true,
 	"301460": true,
 	"301500": true,
 	"301520": true,
@@ -1214,10 +1184,7 @@
 	"314470": true,
 	"314510": true,
 	"314660": true,
-	"314950":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"314950": true,
 	"315110": true,
 	"315130": true,
 	"315320": true,
@@ -1367,10 +1334,7 @@
 	"331390": true,
 	"331470": true,
 	"332200": true,
-	"332250":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"332250": true,
 	"332760": true,
 	"332830": true,
 	"332970": true,
@@ -1387,10 +1351,7 @@
 	"334270": true,
 	"334300": true,
 	"334420": true,
-	"334560":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"334560": true,
 	"334620": true,
 	"334840": true,
 	"335090": true,
@@ -1474,10 +1435,7 @@
 	"342580": true,
 	"342610": true,
 	"342980": true,
-	"343120":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"343120": true,
 	"343270": true,
 	"343280": true,
 	"343330": true,
@@ -1499,10 +1457,7 @@
 	"346080": true,
 	"346090": true,
 	"346110": true,
-	"346130":
-	{
-		"Comment": "Only 64-bit Launch Config"
-	},
+	"346130": true,
 	"346150": true,
 	"346200": true,
 	"346290": true,
@@ -1589,10 +1544,7 @@
 	"360640": true,
 	"360650": true,
 	"360880": true,
-	"360950":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"360950": true,
 	"361190": true,
 	"361330": true,
 	"361350": true,
@@ -1619,17 +1571,11 @@
 	"365070": true,
 	"365120": true,
 	"365660": true,
-	"365670":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"365670": true,
 	"365680": true,
 	"366530": true,
 	"366590": true,
-	"366620":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"366620": true,
 	"366810": true,
 	"366860": true,
 	"367120": true,
@@ -1656,10 +1602,7 @@
 	"371500": true,
 	"371530": true,
 	"371890": true,
-	"371970":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"371970": true,
 	"372030": true,
 	"372380": true,
 	"372770": true,
@@ -1762,10 +1705,7 @@
 	"404080": true,
 	"404410": true,
 	"404480": true,
-	"404730":
-	{
-		"Comment": "Only 64-bit Launch Config."
-	},
+	"404730": true,
 	"404810": true,
 	"406080": true,
 	"408280": true,
