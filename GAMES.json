@@ -240,7 +240,6 @@
 	"204300": true,
 	"204630": true,
 	"205730": true,
-	"205790": true,
 	"205800":
 	{
 		"Hidden": true,
@@ -409,6 +408,11 @@
 		"Hidden": true,
 		"Comment": "Guns of Icarus Dev App"
 	},
+	"229830":
+	{
+		"Hidden": true,
+		"Comment": "Team Fortress 2 Beta Dedicated Server"
+	},
 	"230190": true,
 	"230310": true,
 	"230700": true,
@@ -535,6 +539,11 @@
 	"239140": true,
 	"239200": true,
 	"239430": true,
+	"239490":
+	{
+		"Hidden": true,
+		"Comment": "America's Army: Proving Grounds Beta (Closed)"
+	},
 	"239700": true,
 	"239760":
 	{
@@ -1491,6 +1500,11 @@
 	"346290": true,
 	"346430": true,
 	"346560": true,
+	"346680":
+	{
+		"Hidden": true,
+		"Comment": "Black Mesa Dedicated Server"
+	},
 	"346900": true,
 	"346940": true,
 	"346970": true,
@@ -1712,7 +1726,11 @@
 	"395300": true,
 	"395420": true,
 	"396310": true,
-	"397080": true,
+	"397080":
+	{
+		"Hidden": true,
+		"Comment": "Magicka 2: Spell Balance Beta"
+	},
 	"397240": true,
 	"397780": true,
 	"398710": true,
