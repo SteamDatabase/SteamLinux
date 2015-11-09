@@ -699,11 +699,7 @@
 	"253630": true,
 	"253650": true,
 	"253790": true,
-	"254200":
-	{
-		"Beta": true,
-		"Comment": "Only 32-bit Launch Config."
-	},
+	"254200": true,
 	"255300": true,
 	"255340": true,
 	"255500": true,
