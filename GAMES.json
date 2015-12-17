@@ -242,6 +242,11 @@
 	"204300": true,
 	"204630": true,
 	"205730": true,
+	"205790":
+	{
+		"Hidden": true,
+		"Comment": "Dota 2 Test"
+	},
 	"205800":
 	{
 		"Hidden": true,
