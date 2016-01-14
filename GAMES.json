@@ -1547,6 +1547,11 @@
 	"352960": true,
 	"353090": true,
 	"353340": true,
+	"353370":
+	{
+		"Hidden": true,
+		"Comment": "Steam Controller"
+	},
 	"353560": true,
 	"354200": true,
 	"354900": true,
