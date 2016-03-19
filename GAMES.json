@@ -721,6 +721,11 @@
 	"253630": true,
 	"253650": true,
 	"253790": true,
+	"253900":
+	{
+		"Beta": true,
+		"Comment": "Uses Wine. Beta access code: betaKAMLinux"
+	},
 	"254200": true,
 	"254320": true,
 	"255220": true,
