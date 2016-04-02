@@ -727,6 +727,11 @@
 		"Beta": true,
 		"Comment": "Uses Wine. Beta access code: betaKAMLinux"
 	},
+	"253920":
+	{
+		"Beta": true,
+		"Comment": "Uses Wine. Beta access code: G17LinuxBETA"
+	},
 	"254200": true,
 	"254320": true,
 	"255220": true,
