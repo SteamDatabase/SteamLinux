@@ -63,6 +63,11 @@
 		"Comment": "Demo, not a game."
 	},
 	"1900": true,
+	"1930":
+	{
+		"Beta": true,
+		"Comment": "testing branch password is TW1LinuxBETA"
+	},
 	"2810": true,
 	"2820": true,
 	"2870":
