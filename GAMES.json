@@ -29,11 +29,6 @@
 	},
 	"620": true,
 	"730": true,
-	"742":
-	{
-		"Hidden": true,
-		"Comment": "Server, not a game."
-	},
 	"790":
 	{
 		"Hidden": true,
@@ -43,11 +38,6 @@
 	{
 		"Hidden": true,
 		"Comment": "Server, not a game."
-	},
-	"1007":
-	{
-		"Hidden": true,
-		"Comment": "Steamworks SDK Redist"
 	},
 	"1200": true,
 	"1230": true,
@@ -455,21 +445,6 @@
 		"Hidden": true,
 		"Comment": "Public Beta for 219640."
 	},
-	"232290":
-	{
-		"Hidden": true,
-		"Comment": "Server, not a game."
-	},
-	"232330":
-	{
-		"Hidden": true,
-		"Comment": "Server, not a game."
-	},
-	"232370":
-	{
-		"Hidden": true,
-		"Comment": "Server, not a game."
-	},
 	"232430": true,
 	"232770": true,
 	"232790": true,
@@ -651,11 +626,6 @@
 	"248860":
 	{
 		"Comment": "Broken overlay."
-	},
-	"249150":
-	{
-		"Hidden": true,
-		"Comment": "Demo, not a game."
 	},
 	"249570": true,
 	"249590": true,
@@ -1422,11 +1392,6 @@
 	"330460": true,
 	"330570": true,
 	"330670": true,
-	"330710":
-	{
-		"Hidden": true,
-		"Comment": "Demo, not a game."
-	},
 	"330820": true,
 	"330990": true,
 	"331200": true,
@@ -1867,11 +1832,6 @@
 	"382270": true,
 	"382300": true,
 	"382480": true,
-	"382530":
-	{
-		"Hidden": true,
-		"Comment": "Demo, not a game."
-	},
 	"383230": true,
 	"383240": true,
 	"383670": true,
