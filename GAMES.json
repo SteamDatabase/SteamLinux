@@ -1590,6 +1590,11 @@
 	"349460": true,
 	"349680": true,
 	"349690": true,
+	"349890":
+	{
+		"Hidden": true,
+		"Comment": "No idea as La-Mulana is 230700"
+	},
 	"350000": true,
 	"350010": true,
 	"350150": true,
