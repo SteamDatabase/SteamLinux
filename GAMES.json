@@ -221,6 +221,11 @@
 	"113020": true,
 	"115100": true,
 	"115110": true,
+	"200330":
+	{
+		"Hidden": true,
+		"Comment": "DLC, not a game."
+	},
 	"200390": true,
 	"200510": true,
 	"200710": true,
