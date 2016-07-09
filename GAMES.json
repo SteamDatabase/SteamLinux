@@ -1914,6 +1914,10 @@
 	"386330": true,
 	"386350": true,
 	"386560": true,
+	"386690":
+	{
+		"Comment": "Did not test VR due to SteamVR not yet working."
+	},
 	"386710": true,
 	"386900": true,
 	"386990": true,
