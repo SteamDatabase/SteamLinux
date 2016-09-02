@@ -1892,7 +1892,8 @@
 	"378480": true,
 	"378660": true,
 	"380140": true,
-	"380150": {
+	"380150":
+	{
 		"Beta": true,
 		"Comment": "password: torvalds1969",
 		"CommentURL": "http://steamcommunity.com/app/380150/discussions/0/541907867777059868/?ctp=8#c364040797995155149"
@@ -1972,6 +1973,7 @@
 	"390570": true,
 	"390870": true,
 	"390970": true,
+	"391170": true,
 	"391190": true,
 	"391250": true,
 	"391540": true,
