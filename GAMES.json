@@ -1973,6 +1973,7 @@
 	"388440": true,
 	"388490": true,
 	"388680": true,
+	"388880": true,
 	"389310": true,
 	"389650": true,
 	"390200": true,
@@ -2105,6 +2106,9 @@
 	"410110": true,
 	"410440": true,
 	"410470": true,
+	"410700": {
+		"Comment": "Uses DOSBox. Only available bundled with System Shock Enhanced (410710)"
+	},
 	"410820": true,
 	"411080": true,
 	"411120": true,
