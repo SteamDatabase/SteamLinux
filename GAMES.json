@@ -55,8 +55,7 @@
 	"1900": true,
 	"1930":
 	{
-		"Beta": true,
-		"Comment": "testing branch password is TW1LinuxBETA"
+		"Comment": "Uses Wine."
 	},
 	"2810": true,
 	"2820": true,
