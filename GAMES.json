@@ -726,8 +726,7 @@
 	},
 	"253920":
 	{
-		"Beta": true,
-		"Comment": "Uses Wine. Beta access code: G17LinuxBETA"
+		"Comment": "Uses Wine."
 	},
 	"253980": true,
 	"254200": true,
