@@ -308,6 +308,18 @@
 		"Comment": "Broken overlay."
 	},
 	"211440": true,
+	"211050":
+	{
+		"Beta": true,
+		"Comment": "password: bvscbetalinux. Mail the activation code you can see after clicking Activate by Phone to support@topware.com. Uses Wine.",
+		"CommentURL": "http://steamcommunity.com/games/211050/announcements/detail/834681361294427130"
+	},
+	"211070":
+	{
+		"Beta": true,
+		"Comment": "password: cvsmbetalinux. Mail the activation code you can see after clicking Activate by Phone to support@topware.com. Uses Wine.",
+		"CommentURL": "https://steamcommunity.com/games/211070/announcements/detail/901109320832023642"
+	},
 	"211820": true,
 	"211900": true,
 	"212070": true,
