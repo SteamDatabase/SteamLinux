@@ -306,15 +306,11 @@
 	"210770": true,
 	"211050":
 	{
-		"Beta": true,
-		"Comment": "password: bvscbetalinux. Mail the activation code you can see after clicking Activate by Phone to support@topware.com. Uses Wine.",
-		"CommentURL": "http://steamcommunity.com/games/211050/announcements/detail/834681361294427130"
+		"Comment": "Uses Wine."
 	},
 	"211070":
 	{
-		"Beta": true,
-		"Comment": "password: cvsmbetalinux. Mail the activation code you can see after clicking Activate by Phone to support@topware.com. Uses Wine.",
-		"CommentURL": "https://steamcommunity.com/games/211070/announcements/detail/901109320832023642"
+		"Comment": "Uses Wine."
 	},
 	"211180": true,
 	"211260": true,
@@ -418,6 +414,12 @@
 	},
 	"224760": true,
 	"224860": true,
+	"224900":
+	{
+		"Beta": true,
+		"Comment": "password: isilinuxbetatest",
+		"CommentURL": "http://store.steampowered.com/news/externalpost/steam_community_announcements/91592690507939992"
+	},
 	"225140": true,
 	"225160": true,
 	"225260": true,
@@ -1011,6 +1013,7 @@
 	"283270": true,
 	"283640": true,
 	"283660": true,
+	"283880": true,
 	"283920": true,
 	"283940": true,
 	"283960": true,
@@ -1713,6 +1716,7 @@
 	"351910": true,
 	"352010": true,
 	"352050": true,
+	"352080": true,
 	"352170": true,
 	"352210": true,
 	"352240": true,
@@ -2136,6 +2140,7 @@
 	"402180": true,
 	"402310": true,
 	"402390": true,
+	"402430": true,
 	"402530": true,
 	"402670": true,
 	"402850": true,
@@ -2391,6 +2396,7 @@
 	"466490": true,
 	"467120": true,
 	"467210": true,
+	"467360": true,
 	"467390": true,
 	"467530": true,
 	"467940": true,
@@ -2421,6 +2427,7 @@
 	"485970": true,
 	"486500": true,
 	"486640": true,
+	"488440": true,
 	"488460": true,
 	"489000": true,
 	"490230": true,
@@ -2477,7 +2484,9 @@
 	"533690": true,
 	"533780": true,
 	"537360": true,
+	"538880": true,
 	"544520": true,
+	"544840": true,
 	"546090": true,
 	"547010": true,
 	"547260": true,
