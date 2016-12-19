@@ -6,7 +6,7 @@ like!
 
 License
 -------
-The contents are under the public domain.
+The contents are licensed under CC0 1.0 Universal. For details see [LICENSE](/LICENSE) or [Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Contribution
 ------------
