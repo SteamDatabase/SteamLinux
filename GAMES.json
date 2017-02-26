@@ -1708,6 +1708,10 @@
 	"348270": true,
 	"348360": true,
 	"348540": true,
+	"348700":
+	{
+		"Comment": "Broken overlay."
+	},
 	"348840": true,
 	"349020": true,
 	"349460": true,
