@@ -2327,6 +2327,7 @@
 	"425210": true,
 	"425300": true,
 	"425450": true,
+	"425600": true,
 	"425690":
 	{
 		"Comment": "Needs xterm installed to \"Launch\", but files can be opened manually without it."
