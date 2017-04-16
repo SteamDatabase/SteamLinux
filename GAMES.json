@@ -99,7 +99,11 @@
 	"18700": true,
 	"20570": true,
 	"20820": true,
-	"20920": true,
+	"20920":
+	{
+		"Comment": "This game is not a native Linux game and as such many users are receiving unplayable situations (Crashes & low FPS)",
+		"CommentURL": "https://github.com/KillaW0lf04/The-Witcher-2-Issues/issues"
+	},
 	"22000": true,
 	"22120": true,
 	"22140": true,
