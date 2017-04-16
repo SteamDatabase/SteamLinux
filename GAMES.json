@@ -166,6 +166,11 @@
 	"65800": true,
 	"65980": true,
 	"67000": true,
+	"70000":
+	{
+		"Comment": "Signs of Linux Support",
+		"CommentURL": "http://steamcommunity.com/app/70000/discussions/0/558751813164098739/#c46476144817070824"
+	},
 	"70100": true,
 	"70110": true,
 	"70120": true,
