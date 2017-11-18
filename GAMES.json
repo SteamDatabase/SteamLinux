@@ -2685,6 +2685,10 @@
 	"502380": true,
 	"503350": true,
 	"503460": true,
+	"503560":
+	{
+		"Comment": "No SteamOS icon."
+	},
 	"503980": true,
 	"504050": true,
 	"504130": true,
