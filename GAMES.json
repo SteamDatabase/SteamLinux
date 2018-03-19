@@ -2138,6 +2138,7 @@
 	"386350": true,
 	"386420": true,
 	"386560": true,
+	"386620": true,
 	"386690":
 	{
 		"Comment": "Did not test VR due to SteamVR not yet working."
@@ -2852,6 +2853,7 @@
 	"533860": true,
 	"535480": true,
 	"535850": true,
+	"536890": true,
 	"537340": true,
 	"537360": true,
 	"537800": true,
@@ -2896,6 +2898,7 @@
 	"558990": true,
 	"560000": true,
 	"560250": true,
+	"561120": true,
 	"562460": true,
 	"563150": true,
 	"563180": true,
