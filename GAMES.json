@@ -1105,7 +1105,11 @@
 	"288260": true,
 	"288290": true,
 	"288880": true,
-	"288930": true,
+	"288930":
+	{
+		"Comment": "First Line in CHT file in game directory needs to be edited with some variants listed on Steam forum",
+		"CommentURL": "https://steamcommunity.com/app/288930/discussions/0/530646080850729420/"
+	},
 	"289070": true,
 	"289760": true,
 	"289950": true,
