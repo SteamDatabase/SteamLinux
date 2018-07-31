@@ -1579,7 +1579,10 @@
 	"333290": true,
 	"333300": true,
 	"333330": true,
-	"333420": true,
+	"333420":
+	{
+		"Comment": "Steamworks features are unavailable."
+	},
 	"333510": true,
 	"333540": true,
 	"333580": true,
