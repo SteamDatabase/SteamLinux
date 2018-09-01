@@ -108,6 +108,10 @@
 	"22600": true,
 	"23600": true,
 	"24420": true,
+	"24780":
+	{
+		"Comment": "Work via Steam Play."
+	},
 	"25000": true,
 	"25010": true,
 	"25600": true,
