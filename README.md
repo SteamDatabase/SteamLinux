@@ -1,4 +1,4 @@
-Games, on Steam for Linux [![Build Status](https://travis-ci.org/SteamDatabase/SteamLinux.png?branch=gh-pages)](https://travis-ci.org/SteamDatabase/SteamLinux)
+Games, on Steam for Linux [![Build Status](https://travis-ci.com/SteamDatabase/SteamLinux.png?branch=master)](https://travis-ci.com/SteamDatabase/SteamLinux)
 =========================
 This is a community‐sourced database of *Games, on Steam for Linux*, maintained
 because backend data from Steam is not always as close to reality as we would
